@@ -1,116 +1,227 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíëM5N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉĞìÕÍ•™™•Ğ°ÕÍ•I•˜°ÕÍ•MÑ…Ñ”ô™É½´€É•…Ğœì4)¥µÁ½ÉĞì1¥¹¬°9…Ù1¥¹¬°I½ÕÑ”°I½ÕÑ•Ì°ÕÍ•1½…Ñ¥½¸°ÕÍ•9…Ù¥…Ñ”°ÕÍ•A…É…µÌô™É½´€É•…ĞµÉ½ÕÑ•Èµ‘½´œì4(4)½¹ÍĞÁ¡½Ñ¼€ô€¡¥°İ¥‘Ñ €ô€ÄĞÀÀ¤€ôø¡ÑÑÁÌè¼½¥µ…•Ì¹Õ¹ÍÁ±…Í ¹½´¼‘í¥‘ôı…ÕÑ¼õ™½Éµ…Ğ™™¥ĞõÉ½À™Üô‘íİ¥‘Ñ¡ô™ÄôàÕ€ì4)½¹ÍĞÉåÍÑ…±A¡½Ñ¼€ô€¡™¥±”¤€ôø¡ÑÑÁÌè¼½ÉåÍÑ…±…É ¹¥¸½İÀµ½¹Ñ•¹Ğ½ÕÁ±½…‘Ì¼‘í™¥±”¹É•Á±…” ¼µq­áq¬ üõp¸ üé©Á”ıñÁ¹ñİ•‰À¤¤½¤°€œœ¥õ€ì4(¼¼A•á•±Ì€Ñ,™½½Ñ…”ì™É•”ÍÑ½¬±¥ÁÌ‰ä±•˜5½É…¥Ì°=İ•¸5…Ñ¡¥…Ì…¹Õµ…ÈµÕ…éÔ¸4)½¹ÍĞ¡•É½Y¥‘•½Ì€ôl4(€€¡ÑÑÁÌè¼½Ù¥‘•½Ì¹Á•á•±Ì¹½´½Ù¥‘•¼µ™¥±•Ì¼ĞÀàÀÜĞÔĞ¼ÄÜĞÌØÄÔİ|ÌàĞÁ|ÈÄØÁ|ÌÁ™ÁÌ¹µÀĞœ°4(€€¡ÑÑÁÌè¼½Ù¥‘•½Ì¹Á•á•±Ì¹½´½Ù¥‘•¼µ™¥±•Ì¼ÌĞäÔÔÀĞä¼ÄĞàÀØäÀÁ|ÌàĞÁ|ÈÄØÁ|ÔÁ™ÁÌ¹µÀĞœ°4(€€¡ÑÑÁÌè¼½Ù¥‘•½Ì¹Á•á•±Ì¹½´½Ù¥‘•¼µ™¥±•Ì¼ÌÔØÌĞÀÔà¼ÄÔÄÀÄäÀÑ|ÌàĞÁ|ÈÄØÁ|ÌÁ™ÁÌ¹µÀĞœ°4)tì4)½¹ÍĞÁ¡½Ñ½Ì€ôì4(€ÍÑÕ‘¥¼èÉåÍÑ…±A¡½Ñ¼ œÈÀÈÄ¼ÀÔ½•ÍÉ¥ÁÑ¥½¹]@¹©Áœœ¤°4(€¥¹Ñ•É¥½ÉÌèÉåÍÑ…±A¡½Ñ¼ œÈÀÈÄ¼ÀÔ½¥¹Ñ•É¥½Èµ‘•Í¥¸¹©Áœœ¤°4(€Á±…¹¹¥¹œèÉåÍÑ…±A¡½Ñ¼ œÈÀÈÄ¼ÀÔ½ÕÉ‰…¸µÁ±…¹¹¥¹œ¹©Áœœ¤°4(€ÁÉ½•ÍÌèÉåÍÑ…±A¡½Ñ¼ œÈÀÈÄ¼ÀÔ½…É¡¥Ñ•ÑÕÉ”¹©Áœœ¤°4(€¡½ÕÍ”èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|ÄØ´ÜÔÁàĞää¹©Áœœ¤°4(€İ½É­Á±…”èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|Ô´ÜÔÁàĞää¹©Áœœ¤°4(€½ÕÉÑå…ÉèÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|ÄÜ´ÜÔÁàĞää¹©Áœœ¤°4(€É•Í¥‘•¹”èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|Äá„´ÜÔÁàĞää¹©Áœœ¤°4(€±½‰‰äèÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|ÈÄ´È´ÜÔÁàĞää¹©Áœœ¤°4(€Á…Ù¥±¥½¸èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|ÌÑ ´ÜÔÁàĞää¹©Áœœ¤°4(€¥¹Ñ•É¥½ÉQİ¼èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|Í„´ÜÔÁàĞää¹©Áœœ¤°4(€™……‘”èÉåÍÑ…±A¡½Ñ¼ œÈÀÄÔ¼ÀÜ½ÁÉ½|ÄÍŒ´ÜÔÁàĞää¹©Áœœ¤°4(€™½Õ¹‘•É=¹”èÁ¡½Ñ¼ Á¡½Ñ¼´ÄÔÀÀØĞàÜØÜÜäÄ´ÀÁ‘ŒääÑ„ĞÍ”œ°€äÀÀ¤°4(€™½Õ¹‘•ÉQİ¼èÁ¡½Ñ¼ Á¡½Ñ¼´ÄÔĞĞÀÀÔÌÄÌ´äÑ‘‘˜ÀÈàÙ‘˜Èœ°€äÀÀ¤°4(€™½Õ¹‘•ÉQ¡É•”èÁ¡½Ñ¼ Á¡½Ñ¼´ÄÔØÀÈÔÀÀäÜ´ÁˆäÌÔÈáŒÌÄÅ„œ°€äÀÀ¤°4)ôì4(4)½¹ÍĞÁÉ½©•ÑÌ€ôl4(€ìÍ±Õœè€…É…¹å„µ¡½ÕÍ”œ°Ñ¥Ñ±”è€É…¹å„!½ÕÍ”œ°å•…Èè€œÈÀÈĞœ°±½…Ñ¥½¸è€	…¹•È°AÕ¹”œ°±¥•¹Ğè€AÉ¥Ù…Ñ”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹¡½ÕÍ”°…±±•ÉäèmÁ¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹½ÕÉÑå…É°Á¡½Ñ½Ì¹™……‘•t°‘•ÍÉ¥ÁÑ¥½¸è€İ…É´°±¥¡Ğµ™¥±±•™…µ¥±ä¡½µ”Í¡…Á•…É½Õ¹„Í¡…‘•½ÕÉÑå…É…¹Ñ¡”É¡åÑ¡´½˜•Ù•Éå‘…ä±¥™”¸œô°4(€ìÍ±Õœè€Ñ¡”µ…¹½Áäœ°Ñ¥Ñ±”è€Q¡”…¹½Áäœ°å•…Èè€œÈÀÈÌœ°±½…Ñ¥½¸è€!¥¹©…İ…‘¤°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”İ½É­Á±…”Ñ•…´œ°…Ñ•½Éäè€½µµ•É¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹İ½É­Á±…”°…±±•ÉäèmÁ¡½Ñ½Ì¹İ½É­Á±…”°Á¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°Á¡½Ñ½Ì¹±½‰‰åt°‘•ÍÉ¥ÁÑ¥½¸è€™±•á¥‰±”İ½É­Á±…”½¹•ÁĞÑ¡…Ğ‰É¥¹Ì‘…å±¥¡Ğ°Á±…¹Ñ¥¹œ…¹Í¡…É•ÍÁ…•Ì¥¹Ñ¼Ñ¡”•¹ÑÉ”½˜Ñ¡”™±½½ÈÁ±…¸¸œô°4(€ìÍ±Õœè€Í•É•¥¸µ½ÕÉÑå…Éœ°Ñ¥Ñ±”è€M•É•¥¸½ÕÉÑå…Éœ°å•…Èè€œÈÀÈÈœ°±½…Ñ¥½¸è€-…±å…¹¤9……È°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”É•Í¥‘•¹Ñ¥…°Á…ÉÑ¹•Èœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹½ÕÉÑå…É°…±±•ÉäèmÁ¡½Ñ½Ì¹½ÕÉÑå…É°Á¡½Ñ½Ì¹É•Í¥‘•¹”°Á¡½Ñ½Ì¹¡½ÕÍ•t°‘•ÍÉ¥ÁÑ¥½¸è€É•Í¥‘•¹Ñ¥…°½¹•ÁĞ½É…¹¥Í•…É½Õ¹„ÅÕ¥•ĞÉ••¸½ÕÉĞ°İ¥Ñ ±•…ÈÑÉ…¹Í¥Ñ¥½¹Ì‰•Ñİ••¸ÁÉ¥Ù…Ñ”…¹Í¡…É•±¥™”¸œô°4(€ìÍ±Õœè€É¥Ù•É±¥¹”µÉ•Í¥‘•¹•Ìœ°Ñ¥Ñ±”è€I¥Ù•É±¥¹”I•Í¥‘•¹•Ìœ°å•…Èè€œÈÀÈĞœ°±½…Ñ¥½¸è€5Õ¹‘¡İ„°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”É•Í¥‘•¹Ñ¥…°Á…ÉÑ¹•Èœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹É•Í¥‘•¹”°…±±•ÉäèmÁ¡½Ñ½Ì¹É•Í¥‘•¹”°Á¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹™……‘•t°‘•ÍÉ¥ÁÑ¥½¸è€½¹Ñ•µÁ½É…Éä¡½ÕÍ¥¹œÍÑÕ‘ä™½ÕÍ•½¸Í¥µÁ±”™½ÉµÌ°ÕÍ•™Õ°‰…±½¹¥•Ì…¹„•¹•É½ÕÌ…ÉÉ¥Ù…°Í•ÅÕ•¹”¸œô°4(€ìÍ±Õœè€¹¥±„µ¡½ÕÍ”œ°Ñ¥Ñ±”è€9¥±„!½ÕÍ”œ°å•…Èè€œÈÀÈÌœ°±½…Ñ¥½¸è€-½É•…½¸A…É¬°AÕ¹”œ°±¥•¹Ğè€AÉ¥Ù…Ñ”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€%¹Ñ•É¥½ÉÌœ°¥µ…”èÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°…±±•ÉäèmÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°Á¡½Ñ½Ì¹¥¹Ñ•É¥½ÉQİ¼°Á¡½Ñ½Ì¹ÍÑÕ‘¥½t°‘•ÍÉ¥ÁÑ¥½¸è€…±´¥¹Ñ•É¥½ÈÁ…±•ÑÑ”½˜¹…ÑÕÉ…°Ñ•áÑÕÉ”°Í½™Ğ±¥¡Ğ…¹…É•™Õ±±äÉ•Í½±Ù•ÍÑ½É…”¸œô°4(€ìÍ±Õœè€…ÑÉ¥„µ½µµ½¹Ìœ°Ñ¥Ñ±”è€ÑÉ¥„½µµ½¹Ìœ°å•…Èè€œÈÀÈÄœ°±½…Ñ¥½¸è€]…­…°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”µ¥á•µÕÍ”Á…ÉÑ¹•Èœ°…Ñ•½Éäè€½µµ•É¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹±½‰‰ä°…±±•ÉäèmÁ¡½Ñ½Ì¹±½‰‰ä°Á¡½Ñ½Ì¹İ½É­Á±…”°Á¡½Ñ½Ì¹™……‘•t°‘•ÍÉ¥ÁÑ¥½¸è€µ¥á•µÕÍ”½¹•ÁĞ‰É¥¹¥¹œİ½É¬°É•Ñ…¥°…¹•Ù•Éå‘…ä…Ñ¡•É¥¹œ¥¹Ñ¼½¹”±•¥‰±”ÁÕ‰±¥Œ•‘”¸œô°4(€ìÍ±Õœè€Á…Í¡…¸µÁ…Ù¥±¥½¸œ°Ñ¥Ñ±”è€A…Í¡…¸A…Ù¥±¥½¸œ°å•…Èè€œÈÀÈÔœ°±½…Ñ¥½¸è€A…Í¡…¸°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”½µµÕ¹¥ÑäÉ½ÕÀœ°…Ñ•½Éäè€¥Ù¥Œœ°¥µ…”èÁ¡½Ñ½Ì¹Á…Ù¥±¥½¸°…±±•ÉäèmÁ¡½Ñ½Ì¹Á…Ù¥±¥½¸°Á¡½Ñ½Ì¹½ÕÉÑå…É°Á¡½Ñ½Ì¹Á±…¹¹¥¹t°‘•ÍÉ¥ÁÑ¥½¸è€Íµ…±°¥Ù¥ŒÁ…Ù¥±¥½¸½¹•ÁĞ‘•Í¥¹•™½ÈÍ¡…‘”°¥¹™½Éµ…°µ••Ñ¥¹Ì…¹¹•¥¡‰½ÕÉ¡½½…Ñ¥Ù¥Ñä¸œô°4(€ìÍ±Õœè€‰±Õ”µ½ÕÉÑå…Éœ°Ñ¥Ñ±”è€	±Õ”½ÕÉÑå…Éœ°å•…Èè€œÈÀÈÈœ°±½…Ñ¥½¸è€	…Ù‘¡…¸°AÕ¹”œ°±¥•¹Ğè€AÉ¥Ù…Ñ”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€%¹Ñ•É¥½ÉÌœ°¥µ…”èÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉQİ¼°…±±•ÉäèmÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉQİ¼°Á¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°Á¡½Ñ½Ì¹ÍÑÕ‘¥½t°‘•ÍÉ¥ÁÑ¥½¸è€¸¥¹Ñ•É¥½ÈÉ•™É•Í Ñ¡…ĞÕÍ•Ì½±½ÕÈÍÁ…É¥¹±ä…¹µ…­•ÌÑ¡”Í¡…É•±¥Ù¥¹œÍÁ…•Ìµ½É”™±•á¥‰±”¸œô°4(€ìÍ±Õœè€¡¥±±Ù¥•Üµ¡½ÕÍ”œ°Ñ¥Ñ±”è€!¥±±Ù¥•Ü!½ÕÍ”œ°å•…Èè€œÈÀÈÀœ°±½…Ñ¥½¸è€Õ¹‘ °AÕ¹”œ°±¥•¹Ğè€AÉ¥Ù…Ñ”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹™……‘”°…±±•ÉäèmÁ¡½Ñ½Ì¹™……‘”°Á¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹É•Í¥‘•¹•t°‘•ÍÉ¥ÁÑ¥½¸è€½µÁ…Ğ¡½µ”½¹•ÁĞÑÕ¹•Ñ¼¥ÑÌÍ¥Ñ”°İ¥Ñ ™¥±Ñ•É•‘…å±¥¡Ğ…¹„ÁÉ½Ñ•Ñ•½ÕÑ‘½½ÈÉ½½´¸œô°4(€ìÍ±Õœè€½‰…±Ğµ¡½ÕÍ”œ°Ñ¥Ñ±”è€½‰…±Ğ!½ÕÍ”œ°å•…Èè€œÈÀÈÔœ°±½…Ñ¥½¸è€M¡¥Ù…©¥¹……È°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹ÍÑÕ‘¥¼°…±±•ÉäèmÁ¡½Ñ½Ì¹ÍÑÕ‘¥¼°Á¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹½ÕÉÑå…É‘t°‘•ÍÉ¥ÁÑ¥½¸è€Í…µÁ±”¡½µ”ÍÑÕ‘äÑ¡…ĞÁ…¥ÉÌ„½µÁ…Ğ™½½ÑÁÉ¥¹Ğİ¥Ñ ™±•á¥‰±”™…µ¥±äÍÁ…•Ì…¹„Í¡•±Ñ•É•Ñ•ÉÉ…”¸œô°4(€ìÍ±Õœè€É½Ù”µ•‘”œ°Ñ¥Ñ±”è€É½Ù”‘”œ°å•…Èè€œÈÀÈĞœ°±½…Ñ¥½¸è€-¡…É…‘¤°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”‘•Ù•±½Áµ•¹ĞÁ…ÉÑ¹•Èœ°…Ñ•½Éäè€½µµ•É¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹İ½É­Á±…”°…±±•ÉäèmÁ¡½Ñ½Ì¹İ½É­Á±…”°Á¡½Ñ½Ì¹™……‘”°Á¡½Ñ½Ì¹±½‰‰åt°‘•ÍÉ¥ÁÑ¥½¸è€İ½É­Á±…”½¹•ÁĞ‰…±…¹¥¹œ™½ÕÍ•İ½É¬é½¹•Ìİ¥Ñ ¥¹™½Éµ…°Á±…•ÌÑ¼µ••Ğ…¹É•Í•Ğ¸œô°4(€ìÍ±Õœè€Í…™™É½¸µÁ…Ù¥±¥½¸œ°Ñ¥Ñ±”è€M…™™É½¸A…Ù¥±¥½¸œ°å•…Èè€œÈÀÈÌœ°±½…Ñ¥½¸è€A…Í¡…¸°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”½µµÕ¹¥ÑäÉ½ÕÀœ°…Ñ•½Éäè€¥Ù¥Œœ°¥µ…”èÁ¡½Ñ½Ì¹Á…Ù¥±¥½¸°…±±•ÉäèmÁ¡½Ñ½Ì¹Á…Ù¥±¥½¸°Á¡½Ñ½Ì¹Á±…¹¹¥¹œ°Á¡½Ñ½Ì¹½ÕÉÑå…É‘t°‘•ÍÉ¥ÁÑ¥½¸è€Íµ…±°ÁÕ‰±¥ŒµÕÍ”Á…Ù¥±¥½¸½¹•ÁĞ™½ÈÍ¡…‘”°…•ÍÍ¥‰±”¥ÉÕ±…Ñ¥½¸…¹¹•¥¡‰½ÕÉ¡½½…Ñ¡•É¥¹Ì¸œô°4(€ìÍ±Õœè€Á…ÍÍ…”µ¡½ÕÍ”œ°Ñ¥Ñ±”è€A…ÍÍ…”!½ÕÍ”œ°å•…Èè€œÈÀÈÈœ°±½…Ñ¥½¸è€5……ÉÁ…ÑÑ„°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹É•Í¥‘•¹”°…±±•ÉäèmÁ¡½Ñ½Ì¹É•Í¥‘•¹”°Á¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹™……‘•t°‘•ÍÉ¥ÁÑ¥½¸è€Í…µÁ±”É•Í¥‘•¹Ñ¥…°‘•Í¥¸½É…¹¥Í•…É½Õ¹„±¥¡Ğµ™¥±±••¹ÑÉ…°Á…ÍÍ…”…¹Í¡…É•™…µ¥±äÍÁ…•Ì¸œô°4(€ìÍ±Õœè€‘Õ¹”µÍÑÕ‘¥¼œ°Ñ¥Ñ±”è€Õ¹”MÑÕ‘¥¼œ°å•…Èè€œÈÀÈÄœ°±½…Ñ¥½¸è€Y¥µ…¸9……È°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”ÍÑÕ‘¥¼Ñ•…´œ°…Ñ•½Éäè€%¹Ñ•É¥½ÉÌœ°¥µ…”èÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°…±±•ÉäèmÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°Á¡½Ñ½Ì¹¥¹Ñ•É¥½ÉQİ¼°Á¡½Ñ½Ì¹ÍÑÕ‘¥½t°‘•ÍÉ¥ÁÑ¥½¸è€½µÁ…ĞÍÑÕ‘¥¼¥¹Ñ•É¥½ÈÕÍ¥¹œİ…É´Ñ•áÑÕÉ•Ì…¹…‘…ÁÑ…‰±”™ÕÉ¹¥ÑÕÉ”Ñ¼µ…­”„Íµ…±°™½½ÑÁÉ¥¹Ğİ½É¬¸œô°4(€ìÍ±Õœè€İ•ÍÑ±¥¹”µ½™™¥”œ°Ñ¥Ñ±”è€]•ÍÑ±¥¹”=™™¥”œ°å•…Èè€œÈÀÈÀœ°±½…Ñ¥½¸è€	…¹•È°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”İ½É­Á±…”Ñ•…´œ°…Ñ•½Éäè€½µµ•É¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹±½‰‰ä°…±±•ÉäèmÁ¡½Ñ½Ì¹±½‰‰ä°Á¡½Ñ½Ì¹İ½É­Á±…”°Á¡½Ñ½Ì¹™……‘•t°‘•ÍÉ¥ÁÑ¥½¸è€¸½™™¥”½¹•ÁĞİ¥Ñ „±•¥‰±”…ÉÉ¥Ù…°°Í¡…É•ÁÉ½©•ĞÑ…‰±•Ì…¹ÅÕ¥•Ñ•ÈÉ½½µÌ™½È™½ÕÍ•İ½É¬¸œô°4(€ìÍ±Õœè€½ÕÉÑå…ÉµÍ¥àœ°Ñ¥Ñ±”è€½ÕÉÑå…ÉM¥àœ°å•…Èè€œÈÀÈÔœ°±½…Ñ¥½¸è€Õ¹‘ °AÕ¹”œ°±¥•¹Ğè€M…µÁ±”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹½ÕÉÑå…É°…±±•ÉäèmÁ¡½Ñ½Ì¹½ÕÉÑå…É°Á¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹É•Í¥‘•¹•t°‘•ÍÉ¥ÁÑ¥½¸è€Í…µÁ±”¡½µ”½¹•ÁĞİ¡•É”„Á±…¹Ñ•½ÕÉÑå…É‰É¥¹Ì‘…å±¥¡Ğ…¹„Í½™Ñ•È•¹ÑÉ”¥¹Ñ¼Ñ¡”Á±…¸¸œô°4(€ìÍ±Õœè€Ñ…ÑÑÙ„µÉ•Í¥‘•¹”œ°Ñ¥Ñ±”è€Q…ÑÑÙ„I•Í¥‘•¹”œ°å•…Èè€œÈÀÈÌœ°±½…Ñ¥½¸è€-½Ñ¡ÉÕ°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”¡½µ”½İ¹•ÉÌœ°…Ñ•½Éäè€I•Í¥‘•¹Ñ¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹¡½ÕÍ”°…±±•ÉäèmÁ¡½Ñ½Ì¹¡½ÕÍ”°Á¡½Ñ½Ì¹™……‘”°Á¡½Ñ½Ì¹½ÕÉÑå…É‘t°‘•ÍÉ¥ÁÑ¥½¸è€É•Í¥‘•¹Ñ¥…°½¹•ÁĞÍ¡…Á•…É½Õ¹…±´µ…Ñ•É¥…°¡½¥•Ì°Í¡…‘•½Á•¹¥¹Ì…¹ÕÍ•™Õ°•Ù•Éå‘…äÍÑ½É…”¸œô°4(€ìÍ±Õœè€…±Ñ¼µµ…É­•Ğœ°Ñ¥Ñ±”è€±Ñ¼5…É­•Ğœ°å•…Èè€œÈÀÈÈœ°±½…Ñ¥½¸è€]…­…°AÕ¹”œ°±¥•¹Ğè€M…µÁ±”É•Ñ…¥°Á…ÉÑ¹•Èœ°…Ñ•½Éäè€½µµ•É¥…°œ°¥µ…”èÁ¡½Ñ½Ì¹Á±…¹¹¥¹œ°…±±•ÉäèmÁ¡½Ñ½Ì¹Á±…¹¹¥¹œ°Á¡½Ñ½Ì¹™……‘”°Á¡½Ñ½Ì¹±½‰‰åt°‘•ÍÉ¥ÁÑ¥½¸è€µ¥á•É•Ñ…¥°…¹½µµÕ¹¥Ñä½¹•ÁĞİ¥Ñ ±•…ÈÁ•‘•ÍÑÉ¥…¸É½ÕÑ•Ì…¹¥¹Ù¥Ñ¥¹œ•‘•ÌÑ¼Ñ¡”ÍÑÉ••Ğ¸œô°4)tì4(4)½¹ÍĞÍ•ÉÙ¥•Ì€ôl4(€ì¹Õµ‰•Èè€œÀÄœ°Ñ¥Ñ±”è€UÉ‰…¸Á±…¹¹¥¹œœ°¥µ…”èÁ¡½Ñ½Ì¹Á±…¹¹¥¹œ°½Áäè€Q¡½Õ¡Ñ™Õ°™É…µ•İ½É­Ì™½ÈÁ±…•Ì°¹•¥¡‰½ÕÉ¡½½‘Ì…¹½µµÕ¹¥Ñ¥•Ì¸œ°¥Ñ•µÌèlAÉ½©•Ğ™•…Í¥‰¥±¥Ñäœ°€Õ”‘¥±¥•¹”œ°€5…ÍÑ•ÈÁ±…¹¹¥¹œœ°€UÉ‰…¸‘•Í¥¸€˜Í¥Ñ”‘•Ù•±½Áµ•¹Ğtô°4(€ì¹Õµ‰•Èè€œÀÈœ°Ñ¥Ñ±”è€É¡¥Ñ•ÑÕÉ”œ°¥µ…”èÁ¡½Ñ½Ì¹¡½ÕÍ”°½Áäè€±•…È‘•Í¥¸ÁÉ½•ÍÌ™É½´™¥ÉÍĞ½¹•ÁĞÑ¡É½Õ ½½É‘¥¹…Ñ¥½¸…¹‘•±¥Ù•Éä¸œ°¥Ñ•µÌèlM¥Ñ”…¹…±åÍ¥Ìœ°€½¹•ÁÑÕ…°Á±…¹¹¥¹œœ°€•Í¥¸‘•Ù•±½Áµ•¹Ğœ°€Q•¡¹¥…°½½É‘¥¹…Ñ¥½¸tô°4(€ì¹Õµ‰•Èè€œÀÌœ°Ñ¥Ñ±”è€%¹Ñ•É¥½È‘•Í¥¸œ°¥µ…”èÁ¡½Ñ½Ì¹¥¹Ñ•É¥½ÉÌ°½Áäè€UÍ•™Õ°°•áÁÉ•ÍÍ¥Ù”¥¹Ñ•É¥½ÉÌ°Á±…¹¹•…É½Õ¹Ñ¡”Á•½Á±”İ¡¼ÕÍ”Ñ¡•´¸œ°¥Ñ•µÌèlMÁ…”Á±…¹¹¥¹œœ°€MÁ•¥™¥…Ñ¥½¹Ì€˜•ÍÑ¥µ…Ñ¥½¸œ°€¥Ğµ½ÕÑÌœ°€ÕÉ¹¥Í¡¥¹œ€˜ÍÑå±¥¹œtô°4)tì4(4)½¹ÍĞÍ±¥‘•Ì€ôl4(€ì±…‰•°è€É¡¥Ñ•ÑÕÉ”ƒ
-ÜAÕ¹”œ°±•…è€Q¡½Õ¡Ñ™Õ°…É¡¥Ñ•ÑÕÉ”™½Èœ°…•¹Ğè€•Ù•Éå‘…ä±¥™”¸œ°½Áäè€A±…•ÌÍ¡…Á•‰äÑ¡•¥ÈÍ•ÑÑ¥¹œ…¹Ñ¡”Á•½Á±”İ¡¼ÕÍ”Ñ¡•´¸œ°Ù¥‘•¼è¡•É½Y¥‘•½Ï[h‘éì¶»§q«^tHKBˆÈX™[ˆ	Ò[\š[Üˆ\ÚYÛˆ0­È[™IËXYˆ	ĞÜ™X][™ÈÜXÙ\È›Ü‰ËXØÙ[ˆ	Ü[ÜK‰ËÛÜNˆ	ĞÛÛœÚY\™YX]\šX[Ë˜]\˜[YÚ[™]Z[ÈXYH›Üˆ]™\Y^HY™K‰ËšY[Îˆ\›ÕšY[ÜÖÌWHKBˆÈX™[ˆ	Õ\˜˜[ˆ[›š[™È0­È[™IËXYˆ	Ñ\ÚYÛš[™ÈH™]\‰ËXØÙ[ˆ	Ù]™\Y^K‰ËÛÜNˆ	ÕİYÚ[[›š[™È›Üˆ™ZYÚ›İ\šÛÙËÛÛ[][š]Y\È[™Ú\™YY™K‰ËšY[Îˆ\›ÕšY[ÜÖÌ—HKB—NÃBƒB˜ÛÛœİØ[\PÛY[ÈHÉĞ\İ\ˆXš]]	Ë	Ó›Ü[™HÛÜšÜÉË	Òİ\ÙHÙˆ›Ü›IË	ĞÚ]šXÈÛÛ[[ÛœÉË	ÑšY[	ˆœ˜[YIË	Ó[Üœ›İÈ]š[™ÉË	ÔØY™œ›ÛˆZ[	Ë	ĞÛÛ[[Û‘Ü›İ[™	Ë	ÓZ\˜HXš]]	Ë	ĞY\šX[ÛÜšÜÉË	ÔİY[È›ÛÚÉË	Ô[™H	ˆİÛ™I×NÃB˜ÛÛœİØ[\U\İ[[ÛšX[ÈHÃBˆÈ][İNˆ	ÕH›ØÙ\ÜÈ™[ÛX\ˆœ›ÛHHš\œİÛÛ™\œØ][Û‹ˆHX[H\İ[™YØ\™Y[H[™\›™Yİ\ˆ™YYÈ[ÈHÛYH]™Y[ÈZÙH\Ë‰Ë˜[YNˆ	ÔØ[\H™\ÚY[X[ÛY[	Ë]Z[ˆ	Ôš]˜]HÛYK[™IÈKBˆÈ][İNˆ	ÕÙH\™XÚX]YİÈ\ÚYÛˆÚÚXÙ\ÈÙ\™H^Z[™YÛÛÜ™[˜]Y[™Ø\œšYY›İYÚÈHš[˜[]Z[Ë‰Ë˜[YNˆ	ÔØ[\HÛÜšÜXÙHÛY[	Ë]Z[ˆ	ÕÛÜšÜXÙH›Ú™Xİ[™IÈKBˆÈ][İNˆ	ĞHİYÚ[[™ÛÛX›Ü˜]]™HX[KˆHš[š\ÚYÜXÙ\È™Y[Ø[K\ÙY[[™ÛÛ›™XİYÈZ\ˆÙ][™Ë‰Ë˜[YNˆ	ÔØ[\H]™[ÜY[\™\‰Ë]Z[ˆ	Ô™\ÚY[X[›Ú™Xİ[™IÈKB—NÃBƒB˜ÛÛœİØ[\Q›İ[™\œÈHÃBˆÈ˜[YNˆ	ĞX\˜]ˆYZIË›ÛNˆ	ĞÛËY›İ[™\ˆ0­È\˜Ú]Xİ\™IË[XYÙNˆİÜË™›İ[™\“Û™Kš[Îˆ	ÔÚ\\ÈÛÛœÚY\™Y\˜Ú]Xİ\˜[ÛÛ˜Ù\È\›İ[™Ú]KYÚ[™H]™\Y^H™YYÈÙˆH[ÜHÚÈ\ÙH[K‰ÈKBˆÈ˜[YNˆ	Ğ[˜^XHİ[Ø\›šIË›ÛNˆ	ĞÛËY›İ[™\ˆ0­È\˜˜[ˆ[›š[™ÉË[XYÙNˆİÜË™›İ[™\•ÛËš[Îˆ	ĞÛÛ›™XİÈ™ZYÚ›İ\šÛÙ\ØØ[H[šÚ[™ÈÚ]˜XİXØ[[›š[™È[™HÛX\‹ÛÛX›Ü˜]]™H\ÚYÛˆ›ØÙ\ÜË‰ÈKBˆÈ˜[YNˆ	ÒØXš\ˆÚZ	Ë›ÛNˆ	ĞÛËY›İ[™\ˆ0­È[\š[Üˆ\ÚYÛ‰Ë[XYÙNˆİÜË™›İ[™\•™YKš[Îˆ	Ğœš[™ÜÈX]\šX[Ë]Z[[™Ü]X[^\šY[˜ÙHÙÙ]\ˆÈXZÙHÙ[ÛÛZ[™È[\š[ÜœÈ]ÛÜšÈ™X]]Y[K‰ÈKB—NÃBƒB˜ÛÛœİ˜]’][\ÈHÖÉÒÛYIË	ËÉ×KÉĞX›İ]	Ë	ËØX›İ]	×KÉÔÙ\šXÙ\ÉË	ËÜÙ\šXÙ\É×KÉÔ›Ú™XİÉË	ËÜ›Ú™XİÉ×KÉĞÛY[ÉË	ËØÛY[É×KÉĞÛÛXİ	Ë	ËØÛÛXİ	×WNÃBƒB™[˜İ[Ûˆ\ÙT™]™X[
-]˜[YJHÃBˆ\ÙQY™™Xİ
+import { useEffect, useRef, useState } from 'react';
+import { Link, NavLink, Route, Routes, useLocation, useNavigate, useParams } from 'react-router-dom';
 
+const photo = (id, width = 1400) => `https://images.unsplash.com/${id}?auto=format&fit=crop&w=${width}&q=85`;
+const crystalPhoto = (file) => `https://crystalarch.in/wp-content/uploads/${file.replace(/-\d+x\d+(?=\.(?:jpe?g|png|webp)$)/i, '')}`;
+// Pexels 4K footage; free stock clips by Alef Morais, Owen Mathias and umar muazu.
+const heroVideos = [
+  'https://videos.pexels.com/video-files/40807454/17436157_3840_2160_30fps.mp4',
+  'https://videos.pexels.com/video-files/34955049/14806900_3840_2160_50fps.mp4',
+  'https://videos.pexels.com/video-files/35634058/15101904_3840_2160_30fps.mp4',
+];
+const photos = {
+  studio: crystalPhoto('2021/05/DescriptionWP.jpg'),
+  interiors: crystalPhoto('2021/05/interior-design.jpg'),
+  planning: crystalPhoto('2021/05/urban-planning.jpg'),
+  process: crystalPhoto('2021/05/architecture.jpg'),
+  house: crystalPhoto('2015/07/pro_16-750x499.jpg'),
+  workplace: crystalPhoto('2015/07/pro_5-750x499.jpg'),
+  courtyard: crystalPhoto('2015/07/pro_17-750x499.jpg'),
+  residence: crystalPhoto('2015/07/pro_18a-750x499.jpg'),
+  lobby: crystalPhoto('2015/07/pro_21-2-750x499.jpg'),
+  pavilion: crystalPhoto('2015/07/pro_34h-750x499.jpg'),
+  interiorTwo: crystalPhoto('2015/07/pro_3a-750x499.jpg'),
+  facade: crystalPhoto('2015/07/pro_13c-750x499.jpg'),
+  founderOne: photo('photo-1500648767791-00dcc994a43e', 900),
+  founderTwo: photo('photo-1544005313-94ddf0286df2', 900),
+  founderThree: photo('photo-1560250097-0b93528c311a', 900),
+};
 
-HOˆÃBˆÛÛœİ›Ù\ÈHØİ[Y[œ]Y\TÙ[XİÜ[
-	ÖÙ]K\™]™X[IÊNÃBˆÛÛœİ™YXÙS[İ[ÛˆHÚ[™İË›X]ÚYYXJ	Ê™Y™\œË\™YXÙY[[İ[Ûˆ™YXÙJIÊK›X]Ú\ÎÃBˆYˆ
-™YXÙS[İ[ÛˆJ	Ò[\œÙXİ[Û“ØœÙ\™\‰È[ˆÚ[™İÊJHÃBˆ›Ù\Ë™›Ü‘XXÚ
+const projects = [
+  { slug: 'aranya-house', title: 'Aranya House', year: '2024', location: 'Baner, Pune', client: 'Private home owners', category: 'Residential', image: photos.house, gallery: [photos.house, photos.courtyard, photos.facade], description: 'A warm, light-filled family home shaped around a shaded courtyard and the rhythm of everyday life.' },
+  { slug: 'the-canopy', title: 'The Canopy', year: '2023', location: 'Hinjawadi, Pune', client: 'Sample workplace team', category: 'Commercial', image: photos.workplace, gallery: [photos.workplace, photos.interiors, photos.lobby], description: 'A flexible workplace concept that brings daylight, planting and shared spaces into the centre of the floor plan.' },
+  { slug: 'serein-courtyard', title: 'Serein Courtyard', year: '2022', location: 'Kalyani Nagar, Pune', client: 'Sample residential partner', category: 'Residential', image: photos.courtyard, gallery: [photos.courtyard, photos.residence, photos.house], description: 'A residential concept organised around a quiet green court, with clear transitions between private and shared life.' },
+  { slug: 'riverline-residences', title: 'Riverline Residences', year: '2024', location: 'Mundhwa, Pune', client: 'Sample residential partner', category: 'Residential', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A contemporary housing study focused on simple forms, useful balconies and a generous arrival sequence.' },
+  { slug: 'nila-house', title: 'Nila House', year: '2023', location: 'Koregaon Park, Pune', client: 'Private home owners', category: 'Interiors', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A calm interior palette of natural texture, soft light and carefully resolved storage.' },
+  { slug: 'atria-commons', title: 'Atria Commons', year: '2021', location: 'Wakad, Pune', client: 'Sample mixed-use partner', category: 'Commercial', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'A mixed-use concept bringing work, retail and everyday gathering into one legible public edge.' },
+  { slug: 'pashan-pavilion', title: 'Pashan Pavilion', year: '2025', location: 'Pashan, Pune', client: 'Sample community group', category: 'Civic', image: photos.pavilion, gallery: [photos.pavilion, photos.courtyard, photos.planning], description: 'A small civic pavilion concept designed for shade, informal meetings and neighbourhood activity.' },
+  { slug: 'blue-courtyard', title: 'Blue Courtyard', year: '2022', location: 'Bavdhan, Pune', client: 'Private home owners', category: 'Interiors', image: photos.interiorTwo, gallery: [photos.interiorTwo, photos.interiors, photos.studio], description: 'An interior refresh that uses colour sparingly and makes the shared living spaces more flexible.' },
+  { slug: 'hillview-house', title: 'Hillview House', year: '2020', location: 'Aundh, Pune', client: 'Private home owners', category: 'Residential', image: photos.facade, gallery: [photos.facade, photos.house, photos.residence], description: 'A compact home concept tuned to its site, with filtered daylight and a protected outdoor room.' },
+  { slug: 'cobalt-house', title: 'Cobalt House', year: '2025', location: 'Shivajinagar, Pune', client: 'Sample home owners', category: 'Residential', image: photos.studio, gallery: [photos.studio, photos.house, photos.courtyard], description: 'A sample home study that pairs a compact footprint with flexible family spaces and a sheltered terrace.' },
+  { slug: 'grove-edge', title: 'Grove Edge', year: '2024', location: 'Kharadi, Pune', client: 'Sample development partner', category: 'Commercial', image: photos.workplace, gallery: [photos.workplace, photos.facade, photos.lobby], description: 'A workplace concept balancing focused work zones with informal places to meet and reset.' },
+  { slug: 'saffron-pavilion', title: 'Saffron Pavilion', year: '2023', location: 'Pashan, Pune', client: 'Sample community group', category: 'Civic', image: photos.pavilion, gallery: [photos.pavilion, photos.planning, photos.courtyard], description: 'A small public-use pavilion concept for shade, accessible circulation and neighbourhood gatherings.' },
+  { slug: 'passage-house', title: 'Passage House', year: '2022', location: 'Magarpatta, Pune', client: 'Sample home owners', category: 'Residential', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A sample residential design organised around a light-filled central passage and shared family spaces.' },
+  { slug: 'dune-studio', title: 'Dune Studio', year: '2021', location: 'Viman Nagar, Pune', client: 'Sample studio team', category: 'Interiors', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A compact studio interior using warm textures and adaptable furniture to make a small footprint work.' },
+  { slug: 'westline-office', title: 'Westline Office', year: '2020', location: 'Baner, Pune', client: 'Sample workplace team', category: 'Commercial', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'An office concept with a legible arrival, shared project tables and quieter rooms for focused work.' },
+  { slug: 'courtyard-six', title: 'Courtyard Six', year: '2025', location: 'Aundh, Pune', client: 'Sample home owners', category: 'Residential', image: photos.courtyard, gallery: [photos.courtyard, photos.house, photos.residence], description: 'A sample home concept where a planted courtyard brings daylight and a softer centre into the plan.' },
+  { slug: 'tattva-residence', title: 'Tattva Residence', year: '2023', location: 'Kothrud, Pune', client: 'Sample home owners', category: 'Residential', image: photos.house, gallery: [photos.house, photos.facade, photos.courtyard], description: 'A residential concept shaped around calm material choices, shaded openings and useful everyday storage.' },
+  { slug: 'alto-market', title: 'Alto Market', year: '2022', location: 'Wakad, Pune', client: 'Sample retail partner', category: 'Commercial', image: photos.planning, gallery: [photos.planning, photos.facade, photos.lobby], description: 'A mixed retail and community concept with clear pedestrian routes and inviting edges to the street.' },
+];
 
-›ÙJHOˆ›ÙK˜Û\ÜÓ\İ˜Y
-	Ú\Ë]š\ÚX›IÊJNÃBˆ™]\›ÃBˆCBˆÛÛœİØœÙ\™\ˆH™]È[\œÙXİ[Û“ØœÙ\™\Š
-[šY\ÊHOˆÃBˆ[šY\Ë™›Ü‘XXÚ
+const services = [
+  { number: '01', title: 'Urban planning', image: photos.planning, copy: 'Thoughtful frameworks for places, neighbourhoods and communities.', items: ['Project feasibility', 'Due diligence', 'Master planning', 'Urban design & site development'] },
+  { number: '02', title: 'Architecture', image: photos.house, copy: 'A clear design process from first concept through coordination and delivery.', items: ['Site analysis', 'Conceptual planning', 'Design development', 'Technical coordination'] },
+  { number: '03', title: 'Interior design', image: photos.interiors, copy: 'Useful, expressive interiors, planned around the people who use them.', items: ['Space planning', 'Specifications & estimation', 'Fit-outs', 'Furnishing & styling'] },
+];
 
-[JHOˆÃBˆYˆ
-[Kš\Ò[\œÙXİ[™ÊHÃBˆ[K\™Ù]˜Û\ÜÓ\İ˜Y
-	Ú\Ë]š\ÚX›IÊNÃBˆØœÙ\™\‹[›ØœÙ\™J[K\™Ù]
-NÃBˆCBˆJNÃBˆKÈ™\ÚÛˆŒL‹›ÛİX\™Ú[ˆ	ÌM	ÈJNÃBˆÛÛœİØØ[ˆH
-›ÛİHØİ[Y[
-HOˆÃBˆYˆ
-›Ûİ›X]Ú\ÏËŠ	ÖÙ]K\™]™X[N››İ
-š\Ë]š\ÚX›JIÊJHØœÙ\™\‹›ØœÙ\™J›Ûİ
-NÃBˆ›Ûİœ]Y\TÙ[XİÜ[ËŠ	ÖÙ]K\™]™X[N››İ
-š\Ë]š\ÚX›JIÊK™›Ü‘XXÚ
+const slides = [
+  { label: 'Architecture Â· Pune', lead: 'Thoughtful architecture for', accent: 'everyday life.', copy: 'Places shaped by their setting and the people who use them.', video: heroVideos[0] },
+  { label: 'Interior design Â· Pune', lead: 'Creating spaces for', accent: 'people.', copy: 'Considered materials, natural light and details made for everyday life.', video: heroVideos[1] },
+  { label: 'Urban planning Â· Pune', lead: 'Designing a better', accent: 'everyday.', copy: 'Thoughtful planning for neighbourhoods, communities and shared life.', video: heroVideos[2] },
+];
 
-›ÙJHOˆØœÙ\™\‹›ØœÙ\™J›ÙJJNÃBˆNÃBˆØØ[Š
-NÃBˆÛÛœİ]]][ÛœÈH™]È]]][Û“ØœÙ\™\Š
-™XÛÜ™ÊHOˆÃBˆ™XÛÜ™Ë™›Ü‘XXÚ
+const sampleClients = ['Aster Habitat', 'Northline Works', 'House of Form', 'Civic Commons', 'Field & Frame', 'Morrow Living', 'Saffron Build', 'CommonGround', 'Mira Habitat', 'Aerial Works', 'Studio Nook', 'Pine & Stone'];
+const sampleTestimonials = [
+  { quote: 'The process felt clear from the first conversation. The team listened carefully and turned our needs into a home that feels like us.', name: 'Sample residential client', detail: 'Private home, Pune' },
+  { quote: 'We appreciated how design choices were explained, coordinated and carried through to the final details.', name: 'Sample workplace client', detail: 'Workplace project, Pune' },
+  { quote: 'A thoughtful and collaborative team. The finished spaces feel calm, useful and connected to their setting.', name: 'Sample development partner', detail: 'Residential project, Pune' },
+];
 
-™XÛÜ™
-HOˆ™XÛÜ™˜YY›Ù\Ë™›Ü‘XXÚ
+const sampleFounders = [
+  { name: 'Aarav Mehta', role: 'Co-founder Â· Architecture', image: photos.founderOne, bio: 'Shapes considered architectural concepts around site, light and the everyday needs of the people who use them.' },
+  { name: 'Anaya Kulkarni', role: 'Co-founder Â· Urban Planning', image: photos.founderTwo, bio: 'Connects neighbourhood-scale thinking with practical planning and a clear, collaborative design process.' },
+  { name: 'Kabir Shah', role: 'Co-founder Â· Interior Design', image: photos.founderThree, bio: 'Brings materials, detail and spatial experience together to make welcoming interiors that work beautifully.' },
+];
 
-›ÙJHOˆÃBˆYˆ
-›ÙK››ÙU\HOOH›ÙK‘SSQS•Ó“ÑJHØØ[Š›ÙJNÃBˆJJNÃBˆJNÃBˆ]]][ÛœË›ØœÙ\™JØİ[Y[˜›ÙKÈÚ[\İˆYKİX™YNˆYHJNÃBˆ™]\›ˆ
+const navItems = [['Home', '/'], ['About', '/about'], ['Services', '/services'], ['Projects', '/projects'], ['Clients', '/clients'], ['Contact', '/contact']];
 
-HOˆÈØœÙ\™\‹™\ØÛÛ›™Xİ
+function useReveal(pathname) {
+  useEffect(() => {
+    const nodes = document.querySelectorAll('[data-reveal]');
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduceMotion || !('IntersectionObserver' in window)) {
+      nodes.forEach((node) => node.classList.add('is-visible'));
+      return;
+    }
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+    const scan = (root = document) => {
+      if (root.matches?.('[data-reveal]:not(.is-visible)')) observer.observe(root);
+      root.querySelectorAll?.('[data-reveal]:not(.is-visible)').forEach((node) => observer.observe(node));
+    };
+    scan();
+    const mutations = new MutationObserver((records) => {
+      records.forEach((record) => record.addedNodes.forEach((node) => {
+        if (node.nodeType === Node.ELEMENT_NODE) scan(node);
+      }));
+    });
+    mutations.observe(document.body, { childList: true, subtree: true });
+    return () => { observer.disconnect(); mutations.disconnect(); };
+  }, [pathname]);
+}
 
-NÈ]]][ÛœË™\ØÛÛ›™Xİ
+function App() {
+  const location = useLocation();
+  const [loaderVisible, setLoaderVisible] = useState(true);
+  const [loaderLeaving, setLoaderLeaving] = useState(false);
+  const [loaderProgress, setLoaderProgress] = useState(0);
+  useReveal(location.pathname);
 
-NÈNÃBˆKÜ]˜[YWJNÃBŸCBƒB™[˜İ[Ûˆ\
+  useEffect(() => {
+    let frame = 0;
+    let leaveTimer;
+    let hideTimer;
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const duration = reducedMotion ? 120 : 900;
+    const startedAt = performance.now();
+    setLoaderVisible(true);
+    setLoaderLeaving(false);
+    setLoaderProgress(0);
+    const tick = (now) => {
+      const progress = Math.min((now - startedAt) / duration, 1);
+      setLoaderProgress(Math.round((1 - Math.pow(1 - progress, 3)) * 100));
+      if (progress < 1) frame = requestAnimationFrame(tick);
+      else {
+        leaveTimer = window.setTimeout(() => {
+          setLoaderLeaving(true);
+          hideTimer = window.setTimeout(() => setLoaderVisible(false), reducedMotion ? 80 : 480);
+        }, reducedMotion ? 0 : 130);
+      }
+    };
+    frame = requestAnimationFrame(tick);
+    return () => {
+      cancelAnimationFrame(frame);
+      window.clearTimeout(leaveTimer);
+      window.clearTimeout(hideTimer);
+    };
+  }, [location.pathname]);
 
-HÃBˆÛÛœİØØ][ÛˆH\ÙSØØ][ÛŠ
-NÃBˆÛÛœİÛØY\•š\ÚX›KÙ]ØY\•š\ÚX›WHH\ÙTİ]JYJNÃBˆÛÛœİÛØY\“X]š[™ËÙ]ØY\“X]š[™×HH\ÙTİ]J˜[ÙJNÃBˆÛÛœİÛØY\”›ÙÜ™\ÜËÙ]ØY\”›ÙÜ™\Ü×HH\ÙTİ]J
-NÃBˆ\ÙT™]™X[
-ØØ][Û‹œ]˜[YJNÃBƒBˆ\ÙQY™™Xİ
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'instant' });
+    const routeName = location.pathname === '/' ? 'Home' : location.pathname.split('/').filter(Boolean).pop().replaceAll('-', ' ');
+    document.title = `${routeName.replace(/\b\w/g, (c) => c.toUpperCase())} | Cabriolet Arch`;
+  }, [location.pathname]);
 
+  return <>
+    {loaderVisible && <div className={`site-loader ${loaderLeaving ? 'site-loader-leaving' : ''}`} role="status" aria-label={`Loading Cabriolet Arch, ${loaderProgress}%`}>
+      <Brand />
+      <div className="loader-caption">Spaces with a point of view</div>
+      <span className="loader-percent" aria-hidden="true">{String(loaderProgress).padStart(2, '0')}<i>%</i></span>
+      <div className="loader-track"><span style={{ transform: `scaleX(${loaderProgress / 100})` }} /></div>
+      <span className="loader-index">PUNE Â· INDIA</span>
+    </div>}
+    <Header />
+    <main className="site-main" key={location.pathname}>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/services" element={<ServicesPage />} />
+        <Route path="/projects" element={<ProjectsPage />} />
+        <Route path="/projects/:slug" element={<ProjectDetail />} />
+        <Route path="/clients" element={<Clients />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+    </main>
+    <Footer />
+    <BackToTop />
+    <CursorDot />
+  </>;
+}
 
-HOˆÃBˆ]œ˜[YHHÃBˆ]X]™U[Y\ÃBˆ]YU[Y\ÃBˆÛÛœİ™YXÙY[İ[ÛˆHÚ[™İË›X]ÚYYXJ	Ê™Y™\œË\™YXÙY[[İ[Ûˆ™YXÙJIÊK›X]Ú\ÎÃBˆÛÛœİ\˜][ÛˆH™YXÙY[İ[ÛˆÈLŒˆLÃBˆÛÛœİİ\Y]H\™›Ü›X[˜ÙK››İÊ
-NÃBˆÙ]ØY\•š\ÚX›JYJNÃBˆÙ]ØY\“X]š[™Ê˜[ÙJNÃBˆÙ]ØY\”›ÙÜ™\ÜÊ
-NÃBˆÛÛœİXÚÈH
-›İÊHOˆÃBˆÛÛœİ›ÙÜ™\ÜÈHX]›Z[Š
-›İÈHİ\Y]
-HÈ\˜][Û‹JNÃBˆÙ]ØY\”›ÙÜ™\ÜÊX]œ›İ[™
+function Brand({ light = false }) {
+  return <Link className={`brand ${light ? 'brand-light' : ''}`} to="/" aria-label="Cabriolet Arch home">
+    <span className="brand-mark" aria-hidden="true"><i /><i /><i /></span>
+    <span className="brand-type"><b>CABRIOLET</b><small>ARCH</small></span>
+  </Link>;
+}
 
-HHX]œİÊHH›ÙÜ™\ÜËÊJH
-ˆL
-JNÃBˆYˆ
-›ÙÜ™\ÜÈJHœ˜[YHH™\]Y\İ[š[X][Û‘œ˜[YJXÚÊNÃBˆ[ÙHÃBˆX]™U[Y\ˆHÚ[™İËœÙ][Y[İ]
+function Header() {
+  const [open, setOpen] = useState(false);
+  const [compact, setCompact] = useState(false);
+  const location = useLocation();
+  useEffect(() => setOpen(false), [location.pathname]);
+  useEffect(() => {
+    const update = () => setCompact(window.scrollY > 48);
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    return () => window.removeEventListener('scroll', update);
+  }, []);
+  return <header className={`site-header ${location.pathname === '/' ? 'site-header-home' : ''} ${compact ? 'is-compact' : ''}`}>
+    <div className={`header-shell ${compact ? 'is-compact' : ''}`}>
+      <div className="header-meta"><div className="wrap"><span>Architecture Â· Planning Â· Interiors</span><span>Pune Â· Maharashtra</span></div></div>
+      <div className="header-inner wrap">
+        <Brand />
+        <button className={`menu-toggle ${open ? 'is-open' : ''}`} onClick={() => setOpen(!open)} aria-expanded={open} aria-label={open ? 'Close menu' : 'Open menu'}><span /><span /></button>
+        <nav className={`main-nav ${open ? 'nav-open' : ''}`} aria-label="Main navigation">
+          {navItems.map(([label, path]) => <NavLink key={path} to={path} end={path === '/'} className={({ isActive }) => isActive ? 'active' : ''}>{label}</NavLink>)}
+          <Link className="nav-cta" to="/contact">Start a project <span aria-hidden="true">&gt;</span></Link>
+        </nav>
+      </div>
+    </div>
+  </header>;
+}
 
+function Eyebrow({ children, light = false }) { return <div className={`eyebrow ${light ? 'eyebrow-light' : ''}`}><span />{children}</div>; }
+function ArrowLink({ to, children, light = false }) { return <Link className={`arrow-link ${light ? 'arrow-link-light' : ''}`} to={to}>{children}<span aria-hidden="true">&gt;</span></Link>; }
+function PageIntro({ label, title, copy }) { return <section className="page-intro wrap"><Eyebrow>{label}</Eyebrow><h1>{title}</h1>{copy && <p>{copy}</p>}</section>; }
 
-HOˆÃBˆÙ]ØY\“X]š[™ÊYJNÃBˆYU[Y\ˆHÚ[™İËœÙ][Y[İ]
-
-
-HOˆÙ]ØY\•š\ÚX›J˜[ÙJK™YXÙY[İ[ÛˆÈˆ
-NÃBˆK™YXÙY[İ[ÛˆÈˆLÌ
-NÃBˆCBˆNÃBˆœ˜[YHH™\]Y\İ[š[X][Û‘œ˜[YJXÚÊNÃBˆ™]\›ˆ
-
-HOˆÃBˆØ[˜Ù[[š[X][Û‘œ˜[YJœ˜[YJNÃBˆÚ[™İË˜ÛX\•[Y[İ]
-X]™U[Y\ŠNÃBˆÚ[™İË˜ÛX\•[Y[İ]
-YU[Y\ŠNÃBˆNÃBˆKÛØØ][Û‹œ]˜[YWJNÃBƒBˆ\ÙQY™™Xİ
-
-
-HOˆÃBˆÚ[™İËœØÜ›ÛÊÈÜˆ™Z]š[Üˆ	Ú[œİ[	ÈJNÃBˆÛÛœİ›İ]S˜[YHHØØ][Û‹œ]˜[YHOOH	ËÉÈÈ	ÒÛYIÈˆØØ][Û‹œ]˜[YKœÜ]
-	ËÉÊK™š[\Š›ÛÛX[ŠKœÜ
-
-Kœ™\XÙP[
-	ËIË	È	ÊNÃBˆØİ[Y[]HH	Ü›İ]S˜[YKœ™\XÙJ×—ËÙË
-ÊHOˆËÕ\\Ø\ÙJ
-J_HØXœš[Û]\˜ÚÃBˆKÛØØ][Û‹œ]˜[YWJNÃBƒBˆ™]\›ˆƒBˆÛØY\•š\ÚX›H	‰ˆ]ˆÛ\ÜÓ˜[YO^ØÚ]K[ØY\ˆ	ÛØY\“X]š[™ÈÈ	ÜÚ]K[ØY\‹[X]š[™ÉÈˆ	ÉßXH›ÛOHœİ]\Èˆ\šXK[X™[^ØØY[™ÈØXœš[Û]\˜Ú	ÛØY\”›ÙÜ™\ÜßIXOƒBˆœ˜[™ÏƒBˆ]ˆÛ\ÜÓ˜[YOH›ØY\‹XØ\[Ûˆ”ÜXÙ\ÈÚ]HÚ[ÙˆšY]ÏÙ]ƒBˆÜ[ˆÛ\ÜÓ˜[YOH›ØY\‹\\˜Ù[ˆ\šXKZY[HYHÔİš[™ÊØY\”›ÙÜ™\ÜÊKœYİ\
-‹	Ì	Ê_OO‰OÚOÜÜ[ƒBˆ]ˆÛ\ÜÓ˜[YOH›ØY\‹]˜XÚÈÜ[ˆİ[O^ŞÈ˜[œÙ›Ü›NˆØØ[V
-	ÛØY\”›ÙÜ™\ÜÈÈLJX_HÏÙ]ƒBˆÜ[ˆÛ\ÜÓ˜[YOH›ØY\‹Z[™^”S‘H0­ÈS‘POÜÜ[ƒBˆÙ]ŸCBˆXY\ˆÏƒBˆXZ[ˆÛ\ÜÓ˜[YOHœÚ]K[XZ[ˆˆÙ^O^ÛØØ][Û‹œ]˜[Y_OƒBˆ›İ]\ÏƒBˆ›İ]H]H‹Èˆ[[Y[^ÏÛYHÏŸHÏƒBˆ›İ]H]H‹ØX›İ]ˆ[[Y[^ÏX›İ]ÏŸHÏƒBˆ›İ]H]H‹ÜÙ\šXÙ\Èˆ[[Y[^ÏÙ\šXÙ\ÔYÙHÏŸHÏƒBˆ›İ]H]H‹Ü›Ú™XİÈˆ[[Y[^Ï›Ú™XİÔYÙHÏŸHÏƒBˆ›İ]H]H‹Ü›Ú™XİËÎœÛYÈˆ[[Y[^Ï›Ú™Xİ]Z[ÏŸHÏƒBˆ›İ]H]H‹ØÛY[Èˆ[[Y[^ÏÛY[ÈÏŸHÏƒBˆ›İ]H]H‹ØÛÛXİˆ[[Y[^ÏÛÛXİÏŸHÏƒBˆ›İ]H]HŠˆˆ[[Y[^Ï›İ›İ[™ÏŸHÏƒBˆÔ›İ]\ÏƒBˆÛXZ[ƒBˆ›Ûİ\ˆÏƒBˆ˜XÚÕÕÜÏƒBˆİ\œÛÜ‘İÏƒBˆÏÃBŸCBƒB™[˜İ[Ûˆœ˜[™
-ÈYÚH˜[ÙHJHÃBˆ™]\›ˆ[šÈÛ\ÜÓ˜[YO^Øœ˜[™	ÛYÚÈ	Øœ˜[™[YÚ	Èˆ	ÉßXHÏH‹Èˆ\šXK[X™[HØXœš[Û]\˜ÚÛYHƒBˆÜ[ˆÛ\ÜÓ˜[YOH˜œ˜[™[X\šÈˆ\šXKZY[HYHHÏHÏHÏÜÜ[ƒBˆÜ[ˆÛ\ÜÓ˜[YOH˜œ˜[™]\HĞP”’SÓUØÛX[TÒÜÛX[ÜÜ[ƒBˆÓ[šÏÃBŸCBƒB™[˜İ[ÛˆXY\Š
-HÃBˆÛÛœİÛÜ[‹Ù]Ü[—HH\ÙTİ]J˜[ÙJNÃBˆÛÛœİØÛÛ\XİÙ]ÛÛ\XİHH\ÙTİ]J˜[ÙJNÃBˆÛÛœİØØ][ÛˆH\ÙSØØ][ÛŠ
-NÃBˆ\ÙQY™™Xİ
-
-
-HOˆÙ]Ü[Š˜[ÙJKÛØØ][Û‹œ]˜[YWJNÃBˆ\ÙQY™™Xİ
-
-
-HOˆÃBˆÛÛœİ\]HH
-
-HOˆÙ]ÛÛ\Xİ
-Ú[™İËœØÜ›ÛHˆ
-NÃBˆ\]J
-NÃBˆÚ[™İË˜Y]™[\İ[™\Š	ÜØÜ›Û	Ë\]KÈ\ÜÚ]™NˆYHJNÃBˆ™]\›ˆ
-
-HOˆÚ[™İËœ™[[İ™Q]™[\İ[™\Š	ÜØÜ›Û	Ë\]JNÃBˆK×JNÃBˆ™]\›ˆXY\ˆÛ\ÜÓ˜[YO^ØÚ]KZXY\ˆ	ÛØØ][Û‹œ]˜[YHOOH	ËÉÈÈ	ÜÚ]KZXY\‹ZÛYIÈˆ	ÉßH	ØÛÛ\XİÈ	Ú\ËXÛÛ\Xİ	Èˆ	ÉßXOƒBˆ]ˆÛ\ÜÓ˜[YO^ØXY\‹\Ú[	ØÛÛ\XİÈ	Ú\ËXÛÛ\Xİ	Èˆ	ÉßXOƒBˆ]ˆÛ\ÜÓ˜[YOHšXY\‹[Y]H]ˆÛ\ÜÓ˜[YOHÜ˜\Ü[\˜Ú]Xİ\™H0­È[›š[™È0­È[\š[ÜœÏÜÜ[Ü[”[™H0­ÈXZ\˜\Ú˜OÜÜ[Ù]Ù]ƒBˆ]ˆÛ\ÜÓ˜[YOHšXY\‹Z[›™\ˆÜ˜\ƒBˆœ˜[™ÏƒBˆ]ÛˆÛ\ÜÓ˜[YO^ØY[K]ÙÙÛH	ÛÜ[ˆÈ	Ú\Ë[Ü[‰Èˆ	ÉßXHÛÛXÚÏ^Ê
-HOˆÙ]Ü[Š[Ü[Š_H\šXKY^[™Y^ÛÜ[ŸH\šXK[X™[^ÛÜ[ˆÈ	ĞÛÜÙHY[IÈˆ	ÓÜ[ˆY[IßOÜ[ˆÏÜ[ˆÏØ]ÛƒBˆ˜]ˆÛ\ÜÓ˜[YO^ØXZ[‹[˜]ˆ	ÛÜ[ˆÈ	Û˜]‹[Ü[‰Èˆ	ÉßXH\šXK[X™[H“XZ[ˆ˜]šYØ][ÛˆƒBˆÛ˜]’][\Ë›X\
-
-ÛX™[]JHOˆ˜]“[šÈÙ^O^Ü]HÏ^Ü]H[™^Ü]OOH	ËÉßHÛ\ÜÓ˜[YO^ÊÈ\ĞXİ]™HJHOˆ\ĞXİ]™HÈ	ØXİ]™IÈˆ	ÉßOÛX™[OÓ˜]“[šÏŠ_CBˆ[šÈÛ\ÜÓ˜[YOH›˜]‹XİHˆÏH‹ØÛÛXİ”İ\H›Ú™XİÜ[ˆ\šXKZY[HYH‰™İÏÜÜ[Ó[šÏƒBˆÛ˜]ƒBˆÙ]ƒBˆÙ]ƒBˆÚXY\ÃBŸCBƒB™[˜İ[Ûˆ^YXœ›İÊÈÚ[™[‹YÚH˜[ÙHJHÈ™]\›ˆ]ˆÛ\ÜÓ˜[YO^Ø^YXœ›İÈ	ÛYÚÈ	Ù^YXœ›İË[YÚ	Èˆ	ÉßXOÜ[ˆÏØÚ[™[ŸOÙ]ÈCB™[˜İ[Ûˆ\œ›İÓ[šÊÈËÚ[™[‹YÚH˜[ÙHJHÈ™]\›ˆ[šÈÛ\ÜÓ˜[YO^Ø\œ›İË[[šÈ	ÛYÚÈ	Ø\œ›İË[[šË[YÚ	Èˆ	ÉßXHÏ^İßOØÚ[™[ŸOÜ[ˆ\šXKZY[HYH‰™İÏÜÜ[Ó[šÏÈCB™[˜İ[ÛˆYÙR[›ÊÈX™[]KÛÜHJHÈ™]\›ˆÙXİ[ÛˆÛ\ÜÓ˜[YOHœYÙKZ[›ÈÜ˜\^YXœ›İÏÛX™[OÑ^YXœ›İÏOİ]_OÚOØÛÜH	‰ˆØÛÜ_OÜŸOÜÙXİ[ÛÈCBƒB™[˜İ[Ûˆİ\œÛÜ‘İ
-
-HÃBˆÛÛœİİ\œÛÜ”™YˆH\ÙT™YŠ[
-NÃBˆÛÛœİÜ˜š]™YˆH\ÙT™YŠ[
-NÃBˆÛÛœİÛÜ™T™YˆH\ÙT™YŠ[
-NÃBˆ\ÙQY™™Xİ
-
-
-HOˆÃBˆYˆ
-]Ú[™İË›X]ÚYYXJ	Êİ™\ˆİ™\ŠH[™
-Ú[\ˆš[™JH[™
-™Y™\œË\™YXÙY[[İ[Ûˆ›Ë\™Y™\™[˜ÙJIÊK›X]Ú\ÊH™]\›ˆ[™Yš[™YÃBˆÛÛœİ›ÙHHØİ[Y[˜›ÙNÃBˆ›ÙK˜Û\ÜÓ\İ˜Y
-	Ú\ËX\˜Ú]XİXİ\œÛÜ‰ÊNÃBˆÛÛœİ[İ™HH
-]™[
-HOˆÃBˆÛÛœİÜÚ][ÛˆH˜[–j¹âkºwµçhºÚn¶Šâ‚)Ú–Ú$zw(º{zÓMS¢Ö¥¢ëiºÙbë5slate3d(${event.clientX}px, ${event.clientY}px, 0) translate(-50%, -50%)`;
+function CursorDot() {
+  const cursorRef = useRef(null);
+  const orbitRef = useRef(null);
+  const coreRef = useRef(null);
+  useEffect(() => {
+    if (!window.matchMedia('(hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference)').matches) return undefined;
+    const body = document.body;
+    body.classList.add('has-architect-cursor');
+    const move = (event) => {
+      const position = `translate3d(${event.clientX}px, ${event.clientY}px, 0) translate(-50%, -50%)`;
       if (orbitRef.current) orbitRef.current.style.transform = position;
       if (coreRef.current) coreRef.current.style.transform = position;
       cursorRef.current?.classList.add('is-visible');
@@ -239,5 +350,207 @@ function Home() {
       <ProjectGrid items={projects.slice(0, 9)} />
     </section>
 
-    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Built around<br /><em>possibility.</em></h2></div><p className="metrics-note">Illustrative demo figures.</p></div><div className="metrics-grid">{[['32', 'Projects'], ['42,000', 'Sq. m. dÖÚ$z{-®éÜj×6–væVBuÒÂ²s"rÂu–V'2öb&7F–6RuÒÂ²sSBrÂt6Æ–VçB'FæW'6†—2uÕÒæÖ‚…·fÇVRÂÆ&VÅÒ’ÓâÆF—b6Æ74æÖSÒ&ÖWG&–2"¶W“×¶Æ&VÇÒFF×&WfVÃãÇ7G&öæsãÄ6÷VçEWfÇVS×´çVÖ&W"‡fÇVRç&WÆ6R‚rÂrÂrr’—Òóç¶Æ&VÂÓÓÒu–V'2öb&7F–6Rròr²r¢rwÓÂ÷7G&öæsãÇ7ãç¶Æ&VÇÓÂ÷7ããÂöF—câ—ÓÂöF—cãÂöF—cãÂ÷6V7F–öãà ¢Ç6V7F–öâ6Æ74æÖSÒ'FW7F–Ööæ–Ç2#ãÆF—b6Æ74æÖSÒ'FW7F–Ööæ–ÂÖ&6¶G&÷"7G–ÆS×·²&6¶w&÷VæD–ÖvS¢W&Â‚G·†÷F÷2çv÷&·Æ6WÒ–×Ò&–Ö†–FFVãÒ'G'VR"óãÆF—b6Æ74æÖSÒ'FW7F–Ööæ–Â×6†FR"óãÆF—b6Æ74æÖSÒ'w&FW7F–Ööæ–ÂÖ6öçFVçB#ãÆF—b6Æ74æÖSÒ'6V7F–öâÖ†VF–ær"FF×&WfVÃãÆF—cãÄW–V'&÷sä6Æ–VçB&VfÆV7F–öç3ÂôW–V'&÷sãÆƒ#ävööBv÷&²—3Æ'"óãÆVÓç&VÖVÖ&W&VBãÂöVÓãÂöƒ#ãÂöF—cãÇä–ÆÇW7G&F—fRFW7F–Ööæ–Ç2f÷"F†—2FVÖòãÂ÷ãÂöF—cãÆF—b6Æ74æÖSÒ'FW7F–Ööæ–ÂÖw&–B#ç·6×ÆUFW7F–Ööæ–Ç2æÖ‚†—FVÒÂ’’ÓâÆ'F–6ÆR6Æ74æÖSÒ'FW7F–Ööæ–ÂÖ6&B"¶W“×¶—FVÒææÖWÒFF×&WfVÃãÇ7â6Æ74æÖSÒ'V÷FRÖÖ&²#î(	ÃÂ÷7ããÇç¶—FVÒçV÷FWÓÂ÷ãÆF—cãÆ#ç¶—FVÒææÖWÓÂö#ãÇ6ÖÆÃç¶—FVÒæFWF–ÇÓÂ÷6ÖÆÃãÂöF—cãÇ7â6Æ74æÖSÒ'FW7F–Ööæ–ÂÖ–æFW‚#ã¶’²ÓÂ÷7ããÂö'F–6ÆSâ—ÓÂöF—cãÂöF—cãÂ÷6V7F–öãà¢Ä6öçF7E7G&—óà¢ÂöF—cã°Ğ§Ğ¦gVæ7F–öâ&ö¦V7Dw&–B‡²—FV×2Ò&ö¦V7G2Ò’°Ğ¢&WGW&âÆF—b6Æ74æÖSÒ'&ö¦V7BÖw&–B#ç¶—FV×2æÖ‚‡&ö¦V7BÂ’’ÓâÄÆ–æ²Fó×¶÷&ö¦V7G2òG·&ö¦V7Bç6ÇVwÖÒ6Æ74æÖS×¶&ö¦V7BÖ6&B&ö¦V7BÖ6&BÒG¶’R7ÖÒ¶W“×·&ö¦V7Bç6ÇVwÒFF×&WfVÃàĞ¢ÆF—b6Æ74æÖSÒ'&ö¦V7B×†÷Fò"FF×&WfVÃÒ&–ÖvR#ãÆ–Ör7&3×·&ö¦V7Bæ–ÖvWÒÇC×·&ö¦V7BçF—FÆWÒÆöF–æsÒ&Æ§’"óãÇ7â6Æ74æÖSÒ'&ö¦V7BÖ÷Vâ#âfwC³Â÷7ããÂöF—càĞ¢ÆF—b6Æ74æÖSÒ'&ö¦V7BÖ6&BÖ–æfò#ãÆF—cãÆƒ3ç·&ö¦V7BçF—FÆWÓÂöƒ3ãÇç·&ö¦V7BæÆö6F–öâÇÂu6VÆV7FVB&ö¦V7BwÓÂ÷ãÂöF—cãÇ7â6Æ74æÖSÒ'&ö¦V7B×–V"#ç·&ö¦V7Bç–V"ÇÂt4wÓÂ÷7ããÂöF—càĞ¢ÂôÆ–æ³â—ÓÂöF—cã°Ğ§ĞĞ Ğ¦gVæ7F–öâ&ö6W757FW2‚’°¢6öç7B7FW2Ò°¢²srÂtÖVWBbw&VRrÂuvR&Vv–âv—F‚–÷W"'&–VbÂæVVG2æBF†R&VÆ—F–W2öbF†R6—FRâuÒÀ¢²s"rÂt–FVb6öæ6WBrÂt6ÆV"FW6–vâF—&V7F–öâv—fW2WfW'’FV6—6–öâW'÷6RâuÒÀ¢²s2rÂtFW6–vâb7&VFRrÂuvRFWfVÆ÷Â6ö÷&F–æFRæB&Vf–æRF†RFW6–vâv—F‚–÷RâuÒÀ¢²sBrÂt'V–ÆBb–ç7FÆÂrÂuvR7W÷'BFVÆ—fW'’æB'&–ærF†Rw&VVBf—6–öâFòÆ–fRâuÒÀ¢Ó°¢6öç7B¶7F—fU7FWÂ6WD7F—fU7FWÒÒW6U7FFRƒ“°¢6öç7B¶çVÖ&W"ÂF—FÆRÂ6÷•ÒÒ7FW5¶7F—fU7FWÓ°¢&WGW&âÆF—b6Æ74æÖSÒ'&ö6W72×v–FvWB#à¢ÆF—b6Æ74æÖSÒ'&ö6W72×7FWÖÆ—7B"&öÆSÒ'F&Æ—7B"&–ÖÆ&VÃÒ$÷W"&ö6W72#à¢·7FW2æÖ‚…·7FWçVÖ&W"Â7FWF—FÆUÒÂ’’ÓâÆ'WGFöâ6Æ74æÖS×¶&ö6W72×7FWG¶7F—fU7FWÓÓÒ’òv7F—fRr¢rwÖÒG—SÒ&'WGFöâ"&öÆSÒ'F""&–×6VÆV7FVC×¶7F—fU7FWÓÓÒ—Ò¶W“×·7FWçVÖ&W'Òöä6Æ–6³×²‚’Óâ6WD7F—fU7FW†’—Óà¢Ç7â6Æ74æÖSÒ'&ö6W72×7FWÖ6—&6ÆR#ç·7FWçVÖ&W'ÓÂ÷7ããÇ7â6Æ74æÖSÒ'&ö6W72×7FW×F—FÆR#ç·7FWF—FÆWÓÂ÷7ãà¢Âö'WGFöãâ—Ğ¢ÂöF—cà¢Æ'F–6ÆR6Æ74æÖSÒ'&ö6W72ÖFWF–Â"¶W“×¶çVÖ&W'Ò&öÆSÒ'F'æVÂ#ãÇ7ãç¶çVÖ&W'ÒòCÂ÷7ããÆƒ3ç·F—FÆWÓÂöƒ3ãÇç¶6÷—ÓÂ÷ãÂö'F–6ÆSà¢ÂöF—cã°§Ğ¦gVæ7F–öâ6÷VçEW‡²fÇVRÒ’°Ğ¢6öç7B¶6÷VçBÂ6WD6÷VçEÒÒW6U7FFRƒ“°Ğ¢6öç7B&VbÒW6U&Vb†çVÆÂ“°Ğ¢W6TVffV7B‚‚’Óâ°Ğ¢6öç7BæöFRÒ&Vbæ7W'&VçC°Ğ¢–b‚æöFR’&WGW&âVæFVf–æVC°Ğ¢6öç7B&VGV6VBÒv–æF÷ræÖF6„ÖVF–‚r‡&VfW'2×&VGV6VBÖÖ÷F–öã¢&VGV6R’r’æÖF6†W3°Ğ¢–b‡&VGV6VBÇÂ‚t–çFW'6V7F–öäö'6W'fW"r–âv–æF÷r’’°Ğ¢6WD6÷VçB‡fÇVR“°Ğ¢&WGW&âVæFVf–æVC°Ğ¢ĞĞ¢ÆWBg&ÖRÒ°Ğ¢6öç7Bö'6W'fW"ÒæWr–çFW'6V7F–öäö'6W'fW"‚…¶VçG'•Ò’Óâ°Ğ¢–b‚VçG'’æ—4–çFW'6V7F–ær’&WGW&ã°Ğ¢6öç7B7F'BÒW&f÷&Öæ6Rææ÷r‚“°Ğ¢6öç7BGW&F–öâÒS°Ğ¢6öç7BF–6²Ò†æ÷r’Óâ°Ğ¢6öç7B&öw&W72ÒÖF‚æÖ–â‚†æ÷rÒ7F'B’òGW&F–öâÂ“°Ğ¢6öç7BV6VBÒÒÖF‚ç÷rƒÒ&öw&W72ÂB“°Ğ¢6WD6÷VçB„ÖF‚ç&÷VæB‡fÇVR¢V6VB’“°Ğ¢–b‡&öw&W72Â’g&ÖRÒ&WVW7Dæ–ÖF–öäg&ÖR‡F–6²“°Ğ¢Ó°Ğ¢g&ÖRÒ&WVW7Dæ–ÖF–öäg&ÖR‡F–6²“°Ğ¢ö'6W'fW"æF—66öææV7B‚“°Ğ¢ÒÂ²F‡&W6†öÆC¢ãRÒ“°Ğ¢ö'6W'fW"æö'6W'fR†æöFR“°Ğ¢&WGW&â‚’Óâ²ö'6W'fW"æF—66öææV7B‚“²6æ6VÄæ–ÖF–öäg&ÖR†g&ÖR“²Ó°Ğ¢ÒÂ·fÇVUÒ“°Ğ¢&WGW&âÇ7â&Vc×·&VgÓç¶æWr–çFÂäçVÖ&W$f÷&ÖB‚vVâÔ”âr’æf÷&ÖB†6÷VçB—ÓÂ÷7ãã°Ğ§ĞĞ Ğ¦gVæ7F–öâ&÷WB‚’°¢6öç7B¶f÷VæFW$–æFW‚Â6WDf÷VæFW$–æFW…ÒÒW6U7FFRƒ“°¢6öç7B¶&–ô÷VâÂ6WD&–ô÷VåÒÒW6U7FFR†fÇ6R“°¢6öç7Bf÷VæFW"Ò6×ÆTf÷VæFW'5¶f÷VæFW$–æFW…Ó°¢6öç7B6Æ÷6Tf÷VæFW$&–òÒ‚’Óâ6WD&–ô÷Vâ†fÇ6R“°¢6öç7B6VÆV7Df÷VæFW"Ò†–æFW‚’Óâ°¢6WDf÷VæFW$–æFW‚†–æFW‚“°¢6WD&–ô÷Vâ†fÇ6R“°¢Ó°¢6öç7BÖ÷fTf÷VæFW"Ò‡7FW’Óâ6VÆV7Df÷VæFW"‚†f÷VæFW$–æFW‚²7FW²6×ÆTf÷VæFW'2æÆVæwF‚’R6×ÆTf÷VæFW'2æÆVæwF‚“° ¢&WGW&âÃà¢ÅvT–çG&òÆ&VÃÒ$Æ—GFÆR&÷WBW2"F—FÆS×³Ãå76W2v—FƒÆ'"óãÆVÓæ‡VÖâö–çBöbf–WrãÂöVÓãÂóçÒ6÷“Ò%vR&RVæRÖ&6VB&6†—FV7GW&RÂW&&âÆææ–æræB–çFW&–÷"FW6–vâ&7F–6RÂ7&VF–ærÆ6W2F†B&RW6VgVÂÂW‡&W76—fRæB6öææV7FVBFòF†RV÷ÆRv†ò–æ†&—BF†VÒâ"óà¢Ç6V7F–öâ6Æ74æÖSÒ&&÷WBÖ†W&òw&"FF×&WfVÃãÆ–Ör7&3×·†÷F÷2ç7GVF–÷ÒÇCÒ$&6†—FV7GW&RæBFW6–vâ&ö¦V7B'’6'&–öÆWB&6‚"óãÆF—b6Æ74æÖSÒ&&÷WBÖ†W&òÖæ÷FR#ãÆ#ä4Âö#ãÇ7ãåÆ6RãÆ'"óåV÷ÆRãÆ'"óå÷76–&–Æ—G’ãÂ÷7ããÂöF—cãÂ÷6V7F–öãà¢Ç6V7F–öâ6Æ74æÖSÒ&&÷WB×7F÷'’w&6V7F–öâ×B#ãÆF—b6Æ74æÖSÒ'7F÷'’Ö6–FR"FF×&WfVÃãÄW–V'&÷sä&6VB–âVæSÂôW–V'&÷sãÇ7â6Æ74æÖSÒ'7F÷'’Ö&–r#åVæSÂ÷7ããÇä&7F–6R'V–ÇB&÷VæBF†÷Vv‡FgVÂFW6–vâæB&7F–6ÂFVÆ—fW'’ãÂ÷ãÂöF—cãÆF—b6Æ74æÖSÒ'7F÷'’ÖÖ–â"FF×&WfVÃãÆƒ#åvRÆöö²&W–öæBF†Rö'f–÷W2Fò7&VFR76W2F†BÆVÓæfVVÂÆ–¶RF†W’&VÆöærãÂöVÓãÂöƒ#ãÇä&6VB–âVæRÂ÷W"&7F–6R'&–æw2FW6–vâæBFVÆ—fW'’FövWF†W"7&÷72&W6–FVçF–ÂÂ6öÖÖW&6–ÂæBV&Æ–26WGF–æw2ãÂ÷ãÇä÷W"&ö6‚'&–æw27&VF—fRF†–æ¶–ærFövWF†W"v—F‚&vÖF–2Æææ–ærÂ6ÆV"6öÖ×Væ–6F–öâæB6Æ÷6R6ö÷&F–æF–öâg&öÒ6öæ6WBF‡&÷Vv‚W†V7WF–öâãÂ÷ãÂöF—cãÂ÷6V7F–öãà¢Ç6V7F–öâ6Æ74æÖSÒ'f—6–öâÖÖ—76–öâw&#ãÆ'F–6ÆRFF×&WfVÃãÄW–V'&÷sä÷W"f—6–öãÂôW–V'&÷sãÆƒ#ä&WGFW"Æ6W2f÷#Æ'"óãÆVÓæWfW'–F’Æ–fRãÂöVÓãÂöƒ#ãÇåvR–Öv–æR'V–ÇBVçf—&öæÖVçBv†W&R76W2fVVÂvVÆ6öÖ–ærÂv÷&²vVÆÂæB&W7öæBF†÷Vv‡FgVÆÇ’FòF†V—"7W'&÷VæF–æw2ãÂ÷ãÂö'F–6ÆSãÆ'F–6ÆRFF×&WfVÃãÄW–V'&÷sä÷W"Ö—76–öãÂôW–V'&÷sãÆƒ#ä7&VF—fRF†–æ¶–ærãÆ'"óãÆVÓå&7F–6ÂFVÆ—fW'’ãÂöVÓãÂöƒ#ãÇåvR'&–ær6Æ–VçG2æB6öÆÆ&÷&F÷'2FövWF†W"&÷VæB6ÆV"'&–Vg2Â6öç6–FW&VBFW6–vâ6†ö–6W2æB7FVG’&ö¦V7B&ö6W72ãÂ÷ãÂö'F–6ÆSãÂ÷6V7F–öãà¢Ç6V7F–öâ6Æ74æÖSÒ'fÇVW2Ö&æB#ãÆF—b6Æ74æÖSÒ'w&#ãÆF—b6Æ74æÖSÒ'6V7F–öâÖ†VF–ær"FF×&WfVÃãÆF—cãÄW–V'&÷rÆ–v‡Cåv†BwV–FW2W3ÂôW–V'&÷sãÆƒ#å&–æ6—ÆW2F†B6†SÆ'"óãÆVÓæWfW'’&ö¦V7BãÂöVÓãÂöƒ#ãÂöF—cãÂöF—cãÆF—b6Æ74æÖSÒ'fÇVW2Öw&–B#çµµ²uV÷ÆRf—'7BrÂtÆ—7FVâ6Æ÷6VÇ’âFW6–vâ&÷VæBF†RV÷ÆRv†òv–ÆÂW6RF†R76RâuÒÂ²uW'÷6VgVÂ7&VF—f—G’rÂtf–æBâW‡&W76—fRç7vW"F†B7F–ÆÂv÷&·2–âF†R&VÂv÷&ÆBâuÒÂ²uF†÷Vv‡FgVÂFVÆ—fW'’rÂtÖ¶RFV6—6–öç2f—6–&ÆRæB¶VWF†R&ö¦V7BÖ÷f–ærFövWF†W"âuÒÂ²u&W7öç6–&ÆRFW6–vârÂt6öç6–FW"VæW&w’Â6öçFW‡BæBF†RfÇVRöbWfW'’7V&RÖWG&RâuÕÒæÖ‚…·F—FÆRÂ6÷•ÒÂ’’ÓâÆF—b6Æ74æÖSÒ'fÇVRÖ6&B"¶W“×·F—FÆWÒFF×&WfVÃãÇ7ãã¶’²ÓÂ÷7ããÆƒ3ç·F—FÆWÓÂöƒ3ãÇç¶6÷—ÓÂ÷ãÂöF—câ—ÓÂöF—cãÂöF—cãÂ÷6V7F–öãà¢Ç6V7F–öâ6Æ74æÖSÒ&F–ffW&VçF–F÷'2w&6V7F–öâ×B#ãÆF—b6Æ74æÖSÒ'6V7F–öâÖ†VF–ær"FF×&WfVÃãÆF—cãÄW–V'&÷sä¶W’F–ffW&VçF–F÷'3ÂôW–V'&÷sãÆƒ#ä6ÆV"F†–æ¶–ærÃÆ'"óãÆVÓæ6&VgVÂföÆÆ÷r×F‡&÷Vv‚ãÂöVÓãÂöƒ#ãÂöF—cãÂöF—cãÆF—b6Æ74æÖSÒ&F–ffW&VçF–F÷"Öw&–B#çµµ²srÂtöæR6öææV7FVBFVÒrÂuÆææ–ærÂ&6†—FV7GW&RæB–çFW&–÷'27F’6öææV7FVB&÷VæBF†R'&–VbâuÒÂ²s"rÂtFVÆ—fW'’ÖÖ–æFVBFW6–vârÂt7&VF—fR–FV2&RFWfVÆ÷VBv—F‚&7F–6Â6ö÷&F–æF–öâ–âÖ–æBâuÒÂ²s2rÂt&ö6W72F†BFG2rÂ%F†RFVÒæBÆWfVÂöbFWF–Â&W7öæBFòV6‚&ö¦V7Bw2æVVG2â%ÕÒæÖ‚…¶âÂF—FÆRÂ6÷•Ò’ÓâÆ'F–6ÆR¶W“×¶çÒFF×&WfVÃãÇ7ãç¶çÓÂ÷7ããÆƒ3ç·F—FÆWÓÂöƒ3ãÇç¶6÷—ÓÂ÷ãÂö'F–6ÆSâ—ÓÂöF—cãÂ÷6V7F–öãà¢Ç6V7F–öâ6Æ74æÖSÒ&f÷VæFW'2#à¢ÆF—b6Æ74æÖSÒ'w&#ãÆF—b6Æ74æÖSÒ'6V7F–öâÖ†VF–ær"FF×&WfVÃãÆF—cãÄW–V'&÷sä–ÆÇW7G&F—fRf÷VæF–ærFVÓÂôW–V'&÷sãÆƒ#ävööB76W2&Vv–ãÆ'"óãÆVÓçv—F‚vööBV÷ÆRãÂöVÓãÂöƒ#ãÂöF—cãÇäÖVWBF‡&VR6×ÆR&öf–ÆW2Â6†÷vâöæRBF–ÖRãÂ÷ãÂöF—cãÂöF—cà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"×7FvR"FF×&WfVÃÒ'66ÆR#à¢ÆF—b6Æ74æÖSÒ&f÷VæFW"Ö&6¶G&÷"7G–ÆS×·²&6¶w&÷VæD–ÖvS¢W&Â‚G·†÷F÷2çÆææ–æwÒ–×Ò&–Ö†–FFVãÒ'G'VR"óà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"×7FvR×6†FR"&–Ö†–FFVãÒ'G'VR"óà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"ÖfVGW&Rw&#à¢Æ'F–6ÆR6Æ74æÖS×¶f÷VæFW"Ö6&BG¶&–ô÷Vâòv—2Ö÷Vâr¢rwÖÒöäÖ÷W6TVçFW#×²‚’Óâ6WD&–ô÷Vâ‡G'VR—ÒöäÖ÷W6TÆVfS×¶6Æ÷6Tf÷VæFW$&–÷Óà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"Öf6Rf÷VæFW"Ög&öçB"&–Ö†–FFVã×¶&–ô÷VçÓà¢Æ–Ör¶W“×¶f÷VæFW"æ–ÖvWÒ7&3×¶f÷VæFW"æ–ÖvWÒÇC×¶–ÆÇW7G&F—fR6×ÆR÷'G&—Bf÷"G¶f÷VæFW"ææÖWÖÒÆöF–æsÒ&Æ§’"óà¢Ç7â6Æ74æÖSÒ&f÷VæFW"Ö–ÖvRÖ–æFW‚#ã¶f÷VæFW$–æFW‚²ÒÆ“âò·6×ÆTf÷VæFW'2æÆVæwF‡ÓÂö“ãÂ÷7ãà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"ÖæÖWÆFR#ãÇ7ãç¶f÷VæFW"ç&öÆWÓÂ÷7ããÆƒ3ç¶f÷VæFW"ææÖWÓÂöƒ3ãÂöF—cà¢Æ'WGFöâ6Æ74æÖSÒ&f÷VæFW"×&WfVÂ×FövvÆR"G—SÒ&'WGFöâ"F$–æFWƒ×¶&–ô÷VâòÓ¢Òöä6Æ–6³×²‚’Óâ6WD&–ô÷Vâ‡G'VR—Ò&–ÖÆ&VÃ×¶&VBG¶f÷VæFW"ææÖWÒw2&öf–ÆVÓå&VB&öf–ÆRÇ7â&–Ö†–FFVãÒ'G'VR#â³Â÷7ããÂö'WGFöãà¢ÂöF—cà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"Öf6Rf÷VæFW"Ö&6²"&–Ö†–FFVã×²&–ô÷VçÓà¢Ç7â6Æ74æÖSÒ&f÷VæFW"×&öÆR#ç¶f÷VæFW"ç&öÆWÓÂ÷7ãà¢Æƒ3ç¶f÷VæFW"ææÖWÓÂöƒ3à¢Çç¶f÷VæFW"æ&–÷ÓÂ÷à¢Ç7â6Æ74æÖSÒ&f÷VæFW"×&öf–ÆR×'VÆR"óà¢Æ'WGFöâ6Æ74æÖSÒ&f÷VæFW"Ö&6²ÖÆ–æ²"G—SÒ&'WGFöâ"F$–æFWƒ×¶&–ô÷Vâò¢ÓÒöä6Æ–6³×¶6Æ÷6Tf÷VæFW$&–÷Óä&6²Fò÷'G&—CÂö'WGFöãà¢ÂöF—cà¢Âö'F–6ÆSà¢ÆF—b6Æ74æÖSÒ&f÷VæFW"Ö6öçG&öÇ2"&öÆSÒ&w&÷W"&–ÖÆ&VÃÒ$f÷VæFW"&öf–ÆW2#à¢Æ'WGFöâ6Æ74æÖSÒ&f÷VæFW"Ö6öçG&öÂÖ'&÷r"G—SÒ&'WGFöâ"&–ÖÆ&VÃÒ%&Wf–÷W2f÷VæFW""öä6Æ–6³×²‚’ÓâÖ÷fTf÷VæFW"‚Ó—ÓãÇ7â&–Ö†–FFVãÒ'G'VR#î(“Â÷7ããÂö'WGFöãà¢ÆF—cç·6×ÆTf÷VæFW'2æÖ‚†—FVÒÂ’’ÓâÆ'WGFöâG—SÒ&'WGFöâ"¶W“×¶—FVÒææÖWÒ&–ÖÆ&VÃ×¶6†÷rG¶—FVÒææÖWÖÒ&–×&W76VC×¶f÷VæFW$–æFW‚ÓÓÒ—Ò6Æ74æÖS×¶f÷VæFW$–æFW‚ÓÓÒ’òv7F—fRr¢rwÒöä6Æ–6³×²‚’Óâ6VÆV7Df÷VæFW"†’—Óçµ7G&–ær†’²’çE7F'Bƒ"Âsr—ÓÂö'WGFöãâ—ÓÂöF—cà¢Æ'WGFöâ6Æ74æÖSÒ&f÷VæFW"Ö6öçG&öÂÖ'&÷r"G—SÒ&'WGFöâ"&–ÖÆ&VÃÒ$æW‡Bf÷VæFW""öä6Æ–6³×²‚’ÓâÖ÷fTf÷VæFW"ƒ—ÓãÇ7â&–Ö†–FFVãÒ'G'VR#î(£Â÷7ããÂö'WGFöãà¢ÂöF—cà¢ÂöF—cà¢ÂöF—cà¢Â÷6V7F–öãà¢Ä6öçF7E7G&—óà¢Âóã°§Ğ¦gVæ7F–öâ6W'f–6W5vR‚’°Ğ¢&WGW&âÃàĞ¢ÅvT–çG&òÆ&VÃÒ$÷W"6W'f–6W2"F—FÆS×³Ãä–FV2–çFóÆ'"óãÆVÓçÆ6W2F†Bv÷&²ãÂöVÓãÂóçÒ6÷“Ò$g&öÒW&&â×66ÆRF†–æ¶–ærFòF†RÆ7B–çFW&–÷"FWF–ÂÂ÷W"6W'f–6W2'&–ærFW6–vâæBFVÆ—fW'’FövWF†W"â"óàĞ¢Ç6V7F–öâ6Æ74æÖSÒ'6W'f–6RÖFWF–ÂÖÆ—7Bw&#ç·6W'f–6W2æÖ‚‡6W'f–6RÂ’’ÓâÆ'F–6ÆR6Æ74æÖS×¶6W'f–6RÖFWF–ÂG¶’R"òw6W'f–6RÖFWF–Â×&WfW'6Rr¢rwÖÒ¶W“×·6W'f–6RçF—FÆWÒFF×&WfVÃàĞ¢ÆF—b6Æ74æÖSÒ'6W'f–6RÖFWF–ÂÖ–ÖvR#ãÆ–Ör7&3×·6W'f–6Ræ–ÖvWÒÇC×·6W'f–6RçF—FÆWÒÆöF–æsÒ&Æ§’"óãÇ7ãç·6W'f–6RæçVÖ&W'ÓÂ÷7ããÂöF—càĞ¢ÆF—b6Æ74æÖSÒ'6W'f–6RÖFWF–ÂÖ6÷’#ãÄW–V'&÷så6W'f–6R·6W'f–6RæçVÖ&W'ÓÂôW–V'&÷sãÆƒ#ç·6W'f–6RçF—FÆWÓÂöƒ#ãÇç·6W'f–6Ræ6÷—ÓÂ÷ãÇVÃç·6W'f–6Ræ—FV×2æÖ‚†—FVÒ’ÓâÆÆ’¶W“×¶—FV×Óç¶—FV×ÓÂöÆ“â—ÓÂ÷VÃãÄ'&÷tÆ–æ²FóÒ"ö6öçF7B#äF—67W72F†—26W'f–6SÂô'&÷tÆ–æ³ãÂöF—càĞ¢Âö'F–6ÆSâ—ÓÂ÷6V7F–öãàĞ¢Ç6V7F–öâ6Æ74æÖSÒ'GW&æ¶W’Ö&æB#ãÆF—b6Æ74æÖSÒ'w&GW&æ¶W’Ö–ææW""FF×&WfVÃãÄW–V'&÷rÆ–v‡CäVæB×FòÖVæB7W÷'CÂôW–V'&÷sãÆƒ#äg&öÒ6ÆV"'&–VcÆ'"óçFòÆVÓæf–æ—6†VB76RãÂöVÓãÂöƒ#ãÇå&ö¦V7B6ö÷&F–æF–öâÂ6öçG&7F÷"6ö÷&F–æF–öâÂVÆ—G’&Wf–WrÂgW&æ—GW&Rf—BÖ÷WG2æB7G–Æ–ær6â&R'&÷Vv‡BFövWF†W"2GW&æ¶W’6öÇWF–öâãÂ÷ãÄÆ–æ²6Æ74æÖSÒ&'WGFöâ'WGFöâ×v†—FR"FóÒ"ö6öçF7B#ävWB–âF÷V6‚Ç7ãâfwC³Â÷7ããÂôÆ–æ³ãÂöF—cãÂ÷6V7F–öãàĞ¢Ç6V7F–öâ6Æ74æÖSÒ'&ö6W72×&Wf–Wr6V7F–öâ×Bw&#ãÆF—b6Æ74æÖSÒ'6V7F–öâÖ†VF–ær"FF×&WfVÃãÆF—cãÄW–V'&÷sä†÷rvRv÷&³ÂôW–V'&÷sãÆƒ#ävööBv÷&²—3Æ'"óãÆVÓæ'V–ÇBFövWF†W"ãÂöVÓãÂöƒ#ãÂöF—cãÂöF—cãÅ&ö6W757FW2óãÂ÷6V7F–öãàĞ¢Ä6öçF7E7G&—óàĞ¢Âóã°Ğ§ĞĞ Ğ¦gVæ7F–öâ&ö¦V7G5vR‚’°Ğ¢6öç7B¶f–ÇFW"Â6WDf–ÇFW%ÒÒW6U7FFR‚tÆÂv÷&²r“°Ğ¢6öç7Bf–ÇFW'2Ò²tÆÂv÷&²rÂu&W6–FVçF–ÂrÂt6öÖÖW&6–ÂrÂt–çFW&–÷'2rÂt6—f–2uÓ°Ğ¢6öç7Bf—6–&ÆRÒf–ÇFW"ÓÓÒtÆÂv÷&²rò&ö¦V7G2¢&ö¦V7G2æf–ÇFW"‚‡&ö¦V7B’Óâ&ö¦V7Bæ6FVv÷'’çFôÆ÷vW$66R‚’ÓÓÒf–ÇFW"çFôÆ÷vW$66R‚’“°Ğ¢&WGW&âÃàĞ¢ÅvT–çG&òÆ&VÃÒ%6VÆV7FVB&ö¦V7G2"F—FÆS×³Ãå76W2v—FƒÆ'"óãÆVÓç6öÖWF†–ærFò6’ãÂöVÓãÂóçÒ6÷“Ò$–ÆÇW7G&F—fR6×ÆR&ö¦V7G26WB–âVæRâ&WÆ6R&ö¦V7BæÖW2ÂFFW2æB–ÖvW2v—F‚&÷fVB÷'FföÆ–ò6öçFVçBâ"óàĞ¢Ç6V7F–öâ6Æ74æÖSÒ'w&&ö¦V7G2×vR6V7F–öâ×B×F÷#ãÆF—b6Æ74æÖSÒ'&ö¦V7BÖf–ÇFW""&öÆSÒ&w&÷W"&–ÖÆ&VÃÒ$f–ÇFW"&ö¦V7G2#ç¶f–ÇFW'2æÖ‚†—FVÒ’ÓâÆ'WGFöâ¶W“×¶—FV×Ò6Æ74æÖS×¶f–ÇFW"ÓÓÒ—FVÒòvf–ÇFW"Ö7F—fRr¢rwÒöä6Æ–6³×²‚’Óâ6WDf–ÇFW"†—FVÒ—Óç¶—FV×ÓÂö'WGFöãâ—ÓÂöF—cãÅ&ö¦V7Dw&–B—FV×3×·f—6–&ÆWÒóãÂ÷6V7F–öãàĞ¢Ä6öçF7E7G&—óàĞ¢Âóã°Ğ§ĞĞ Ğ¦gVæ7F–öâ&ö¦V7DFWF–Â‚’°Ğ¢6öç7B²6ÇVrÒÒW6U&×2‚“°Ğ¢6öç7Bæf–vFRÒW6Tæf–vFR‚“°Ğ¢6öç7B&ö¦V7BÒ&ö¦V7G2æf–æB‚†—FVÒ’Óâ—FVÒç6ÇVrÓÓÒ6ÇVr“°Ğ¢–b‚&ö¦V7B’&WGW&âÄæ÷Df÷VæBóã°Ğ¢6öç7BvÆÆW'’Ò&ö¦V7BævÆÆW'“°Ğ¢&WGW&âÇ6V7F–öâ6Æ74æÖSÒ'&ö¦V7BÖFWF–Âw&6V7F–öâ×B×F÷#àĞ¢Æ'WGFöâ6Æ74æÖSÒ&&6²ÖÆ–æ²"öä6Æ–6³×²‚’Óâæf–vFR‚r÷&ö¦V7G2r—Óä&6²Fò&ö¦V7G3Âö'WGFöãàĞ¢ÆF—b6Æ74æÖSÒ'&ö¦V7B×v–æF÷rÖ–ÖvR#àĞ¢Æ–Ör7&3×¶vÆÆW'•³×ÒÇC×·&ö¦V7BçF—FÆWÒóàĞ¢Ç7â6Æ74æÖSÒ'&ö¦V7B×v–æF÷rÖÆ&VÂ#ç·&ö¦V7Bæ6FVv÷'—Ò+r·&ö¦V7BæÆö6F–öçÓÂ÷7ãàĞ¢Ç7â6Æ74æÖSÒ'&ö¦V7B×v–æF÷rÖ–æFW‚#ç·&ö¦V7Bç–V'ÓÂ÷7ãàĞ¢ÂöF—càĞ¢ÆF—b6Æ74æÖSÒ'&ö¦V7BÖFWF–ÂÖ†VB#ãÆF—bFF×&WfVÃÒ&ÆVgB#ãÄW–V'&÷sä–ÆÇW7G&F—fR6×ÆR&ö¦V7CÂôW–V'&÷sãÆƒç·&ö¦V7BçF—FÆWÓÂöƒãÂöF—cãÆF—b6Æ74æÖSÒ'&ö¦V7BÖf7G2"FF×&WfVÃÒ'&–v‡B#ç·&ö¦V7Bç–V"bbÄf7BÆ&VÃÒ%–V""fÇVS×·&ö¦V7Bç–V'Òóç×·&ö¦V7BæÆö6F–öâbbÄf7BÆ&VÃÒ$Æö6F–öâ"fÇVS×·&ö¦V7BæÆö6F–öçÒóç×·&ö¦V7Bæ6Æ–VçBbbÄf7BÆ&VÃÒ$6Æ–VçB"fÇVS×·&ö¦V7Bæ6Æ–VçGÒóç×·&ö¦V7Bæ6FVv÷'’bbÄf7BÆ&VÃÒ$6FVv÷'’"fÇVS×·&ö¦V7Bæ6FVv÷'—ÒóçÓÂöF—cãÂöF—càĞ¢Ç6Æ74æÖSÒ'&ö¦V7BÖFW67&—F–öâ"FF×&WfVÃç·&ö¦V7BæFW67&—F–öçÓÂ÷ãÆF—b6Æ74æÖSÒ'&ö¦V7BÖvÆÆW'’#ç¶vÆÆW'’ç6Æ–6Rƒ’æÖ‚†–ÖvRÂ’’ÓâÆF—b¶W“×¶–ÖvWÒ6Æ74æÖS×¶vÆÆW'’Ög&ÖRG¶’ÓÓÒòvvÆÆW'’ÖÆVBr¢rwÖÒFF×&WfVÃÒ&–ÖvR#ãÆ–Ör7&3×¶–ÖvWÒÇC×¶G·&ö¦V7BçF—FÆWÒÒf–WrG¶’²'ÖÒÆöF–æs×¶’âòvÆ§’r¢vVvW"wÒóãÂöF—câ—ÓÂöF—càĞ¢ÆF—b6Æ74æÖSÒ'&ö¦V7BÖFWF–ÂÖ7F#ãÄW–V'&÷sä†fR&ö¦V7B–âÖ–æCóÂôW–V'&÷sãÆƒ#äÆWN(	—2Ö¶R&ööÒf÷#Æ'"óãÆVÓçv†N(	—2æW‡BãÂöVÓãÂöƒ#ãÄÆ–æ²6Æ74æÖSÒ&'WGFöâ'WGFöâÖ66VçB"FóÒ"ö6öçF7B#å7F'B6öçfW'6F–öâÇ7ãâfwC³Â÷7ããÂôÆ–æ³ãÂöF—càĞ¢Â÷6V7F–öãã°Ğ§ĞĞ¦gVæ7F–öâf7B‡²Æ&VÂÂfÇVRÒ’²&WGW&âÆF—b6Æ74æÖSÒ&f7B#ãÇ7ãç¶Æ&VÇÓÂ÷7ããÆ#ç·fÇVWÓÂö#ãÂöF—cã²ĞĞ Ğ¦gVæ7F–öâ6Æ–VçG2‚’°Ğ¢&WGW&âÃàĞ¢ÅvT–çG&òÆ&VÃÒ$÷W"6Æ–VçG2"F—FÆS×³Ãä'V–ÇBF‡&÷VvƒÆ'"óãÆVÓævööB'FæW'6†—2ãÂöVÓãÂóçÒ6÷“Ò$–ÆÇW7G&F—fR6×ÆR6Æ–VçBÖ&·2f÷"F†R6'&–öÆWB&6‚FVÖòâ&WÆ6RF†W6Rv—F‚&÷fVB6Æ–VçBæÖW2æBÆöv÷2&Vf÷&RÆVæ6‚â"óàĞ¢Ç6V7F–öâ6Æ74æÖSÒ&6Æ–VçB×6†÷v66Rw&6V7F–öâ×B×F÷#ãÆF—b6Æ74æÖSÒ&6Æ–VçBÖw&–B#ç·6×ÆT6Æ–VçG2æÖ‚†6Æ–VçBÂ’’ÓâÆF—b6Æ74æÖSÒ&6Æ–VçB×F–ÆR"¶W“×¶6Æ–VçGÒFF×&WfVÃãÇ7ãã¶’²ÓÂ÷7ããÆ#ç¶6Æ–VçGÓÂö#ãÆ’&–Ö†–FFVãÒ'G'VR#âfwC³Âö“ãÂöF—câ—ÓÂöF—cãÇ6Æ74æÖSÒ&6Æ–VçBÖæ÷FR#å6×ÆRæÖW26†÷vâf÷"Æ–÷WBöæÇ“²F†W6R&Ræ÷BVæF÷'6VÖVçG2÷"6öæf—&ÖVB6Æ–VçG2ãÂ÷ãÂ÷6V7F–öãàĞ¢Ä6öçF7E7G&—óàĞ¢Âóã°Ğ§ĞĞ Ğ¦gVæ7F–öâ6öçF7B‚’°Ğ¢6öç7B·6VçBÂ6WE6VçEÒÒW6U7FFR†fÇ6R“°Ğ¢6öç7B7V&Ö—BÒ†WfVçB’Óâ°Ğ¢WfVçBç&WfVçDFVfVÇB‚“°Ğ¢6öç7BFFÒæWrf÷&ÔFF†WfVçBæ7W'&VçEF&vWB“°Ğ¢6öç7B7V&¦V7BÒVæ6öFUU$”6ö×öæVçB†&ö¦V7BVçV—'’(	BG¶FFævWB‚væÖRr—Ö“°Ğ¢6öç7B&öG’ÒVæ6öFUU$”6ö×öæVçB†æÖS¢G¶FFævWB‚væÖRr—ÕÆäVÖ–Ã¢G¶FFævWB‚vVÖ–Âr—ÕÆå†öæS¢G¶FFævWB‚w†öæRr’ÇÂtæ÷B&÷f–FVBwÕÆå&ö¦V7BG—S¢G¶FFævWB‚w&ö¦V7EG—Rr—ÕÆåÆâG¶FFævWB‚vÖW76vRr—Ö“°Ğ¢v–æF÷ræÆö6F–öâæ‡&VbÒÖ–ÇFó¦†VÆÆô6'&–öÆWF&6‚æW†×ÆS÷7V&¦V7CÒG·7V&¦V7GÒf&öG“ÒG¶&öG—Ö°Ğ¢6WE6VçB‡G'VR“°Ğ¢Ó°Ğ¢&WGW&âÃàĞ¢ÅvT–çG&òÆ&VÃÒ$6öçF7B"F—FÆS×³ÃäÆWN(	—2FÆ²&÷WCÆ'"óãÆVÓç–÷W"æW‡B76RãÂöVÓãÂóçÒ6÷“Ò%VæRÂÖ†&6‡G&âF†R†öæRçVÖ&W"æBVÖ–Â&VÆ÷r&R6×ÆRÆ6V†öÆFW'2f÷"F†—2FVÖó²&WÆ6RF†VÒ&Vf÷&RÆVæ6‚â"óàĞ¢Ç6V7F–öâ6Æ74æÖSÒ&6öçF7BÖÆ–÷WBw&6V7F–öâ×B×F÷#àĞ¢ÆF—b6Æ74æÖSÒ&6öçF7BÖFWF–Ç2"FF×&WfVÃãÄW–V'&÷såf—6—B÷"6ÆÂF†R7GVF–óÂôW–V'&÷sãÆƒ#ävööB6öçfW'6F–öç3Æ'"óç7F'BÆVÓç6öÖWv†W&RãÂöVÓãÂöƒ#ãÆF—b6Æ74æÖSÒ&6öçF7BÖ—FVÒ#ãÇ7ãå7GVF–óÂ÷7ããÇåVæRÃÆ'"óäÖ†&6‡G&Â–æF–Â÷ãÂöF—cãÆF—b6Æ74æÖSÒ&6öçF7BÖ—FVÒ#ãÇ7ãå†öæSÂ÷7ããÇãÆ‡&VcÒ'FVÃ¢³“#â³“ÂöãÂ÷ãÂöF—cãÆF—b6Æ74æÖSÒ&6öçF7BÖ—FVÒ#ãÇ7ãäVÖ–ÃÂ÷7ããÇãÆ‡&VcÒ&Ö–ÇFó¦†VÆÆô6'&–öÆWF&6‚æW†×ÆR#æ†VÆÆô6'&–öÆWF&6‚æW†×ÆSÂöãÂ÷ãÂöF—cãÆF—b6Æ74æÖSÒ&6öçF7BÖ—FVÒ#ãÇ7ãå7GVF–ò†÷W'3Â÷7ããÇäÖöæF’Ôg&–F“Æ'"óã“£ÒÓc£Ò•5CÂ÷ãÂöF—cãÆ6Æ74æÖSÒ&ÖÖÆ–æ²"‡&VcÒ&‡GG3¢òöÖ2ævöövÆRæ6öÒó÷ÕVæR´Ö†&6‡G&´–æF–"F&vWCÒ%ö&Ææ²"&VÃÒ&æ÷&VfW'&W"#ä÷VâÖÇ7â&–Ö†–FFVãÒ'G'VR#âfwC³Â÷7ããÂöãÂöF—càĞ¢Æf÷&Ò6Æ74æÖSÒ&6öçF7BÖf÷&Ò"öå7V&Ö—C×·7V&Ö—GÒFF×&WfVÃãÄW–V'&÷så7F'B&ö¦V7CÂôW–V'&÷sãÆƒ#åFVÆÂW2Æ—GFÆSÆ'"óãÆVÓæ&÷WB—BãÂöVÓãÂöƒ#ãÆÆ&VÃå–÷W"æÖSÆ–çWBæÖSÒ&æÖR"Æ6V†öÆFW#Ò$æÖR"&WV—&VBóãÂöÆ&VÃãÆÆ&VÃäVÖ–ÂFG&W73Æ–çWBæÖSÒ&VÖ–Â"G—SÒ&VÖ–Â"Æ6V†öÆFW#Ò'–÷TW†×ÆRæ6öÒ"&WV—&VBóãÂöÆ&VÃãÆF—b6Æ74æÖSÒ&f÷&Ò×&÷r#ãÆÆ&VÃå†öæR†÷F–öæÂ“Æ–çWBæÖSÒ'†öæR"G—SÒ'FVÂ"Æ6V†öÆFW#Ò"³“"óãÂöÆ&VÃãÆÆ&VÃå&ö¦V7BG—SÇ6VÆV7BæÖSÒ'&ö¦V7EG—R"FVfVÇEfÇVSÒ$&6†—FV7GW&R#ãÆ÷F–öãä&6†—FV7GW&SÂö÷F–öããÆ÷F–öãåW&&âÆææ–æsÂö÷F–öããÆ÷F–öãä–çFW&–÷"FW6–vãÂö÷F–öããÆ÷F–öãåGW&æ¶W’&ö¦V7CÂö÷F–öããÆ÷F–öãä÷F†W#Âö÷F–öããÂ÷6VÆV7CãÂöÆ&VÃãÂöF—cãÆÆ&VÃåv†B&R–÷RÆææ–æsóÇFW‡F&VæÖSÒ&ÖW76vR"&÷w3Ò#B"Æ6V†öÆFW#Ò$Æ—GFÆR&÷WBF†RÆ6RÂF–ÖVÆ–æR÷"–FV(
-b"&WV—&VBóãÂöÆ&VÃãÆ'WGFöâ6Æ74æÖSÒ&'WGFöâ'WGFöâÖ66VçB"G—SÒ'7V&Ö—B#ç·6VçBòt÷Væ–ær–÷W"VÖ–Âr¢u6VæBVçV—'’wÒÇ7ãî(isÂ÷7ããÂö'WGFöããÇ6Æ74æÖSÒ&f÷&ÒÖæ÷FR#å–÷W"VÖ–Âv–ÆÂ÷Vâv—F‚F†RVçV—'’FG&W76VBFò÷W"7GVF–òãÂ÷ãÂöf÷&ÓàĞ¢Â÷6V7F–öãàĞ¢ÆF—b6Æ74æÖSÒ&6öçF7BÖÖw&#ãÆ–g&ÖRF—FÆSÒ$6'&–öÆWB&6‚7GVF–òÆö6F–öâ"7&3Ò&‡GG3¢ò÷wwrævöövÆRæ6öÒöÖ3÷ÕVæRS$2S#Ö†&6‡G&f÷WGWCÖVÖ&VB"ÆöF–æsÒ&Æ§’"&VfW'&W%öÆ–7“Ò&æò×&VfW'&W"×v†VâÖF÷væw&FR"óãÂöF—càĞ¢Âóã°Ğ§ĞĞ Ğ¦gVæ7F–öâ6öçF7E7G&—‚’²&WGW&âÇ6V7F–öâ6Æ74æÖSÒ&6öçF7B×7G&—#ãÆF—b6Æ74æÖSÒ'w&6öçF7B×7G&—Ö–ææW""FF×&WfVÃãÆF—cãÄW–V'&÷rÆ–v‡Cä†fRÆ6R–âÖ–æCóÂôW–V'&÷sãÆƒ#äÆWN(	—2Ö¶R—CÆ'"óãÆVÓæÖVâ6öÖWF†–ærãÂöVÓãÂöƒ#ãÂöF—cãÄÆ–æ²6Æ74æÖSÒ&'WGFöâ'WGFöâ×v†—FR"FóÒ"ö6öçF7B#å7F'B6öçfW'6F–öâÇ7ãâfwC³Â÷7ããÂôÆ–æ³ãÂöF—cãÂ÷6V7F–öãã²ĞĞ Ğ¦gVæ7F–öâ&6µFõF÷‚’°Ğ¢6öç7B·f—6–&ÆRÂ6WEf—6–&ÆUÒÒW6U7FFR†fÇ6R“°Ğ¢W6TVffV7B‚‚’Óâ°Ğ¢6öç7BWFFRÒ‚’Óâ6WEf—6–&ÆR‡v–æF÷rç67&öÆÅ’âSc“°Ğ¢WFFR‚“°Ğ¢v–æF÷ræFDWfVçDÆ—7FVæW"‚w67&öÆÂrÂWFFRÂ²76—fS¢G'VRÒ“°Ğ¢&WGW&â‚’Óâv–æF÷rç&VÖ÷fTWfVçDÆ—7FVæW"‚w67&öÆÂrÂWFFR“°Ğ¢ÒÂµÒ“°Ğ¢&WGW&âÆ'WGFöâ6Æ74æÖS×¶&6²×Fò×F÷G·f—6–&ÆRòv—2×f—6–&ÆRr¢rwÖÒG—SÒ&'WGFöâ"&–ÖÆ&VÃÒ$&6²FòF÷"&–Ö†–FFVã×²f—6–&ÆWÒF$–æFWƒ×·f—6–&ÆRò¢ÓÒöä6Æ–6³×²‚’Óâv–æF÷rç67&öÆÅFò‡²F÷¢Â&V†f–÷#¢w6Öö÷F‚rÒ—Óî(iÂö'WGFöãã°Ğ§ĞĞ Ğ¦gVæ7F–öâfö÷FW"‚’°Ğ¢&WGW&âÆfö÷FW"6Æ74æÖSÒ'6—FRÖfö÷FW"#ãÆF—b6Æ74æÖSÒ'w&fö÷FW"ÖÖ–â#ãÆF—b6Æ74æÖSÒ&fö÷FW"Ö'&æB#ãÄ'&æBÆ–v‡BóãÇä&6†—FV7GW&RæBFW6–vãÆ'"óçv—F‚V÷ÆRBF†R6VçG&RãÂ÷ãÂöF—cãÆF—b6Æ74æÖSÒ&fö÷FW"Öæb#ãÇ7ãäW‡Æ÷&SÂ÷7ãç¶æd—FV×2ç6Æ–6Rƒ’æÖ‚…¶Æ&VÂÂF…Ò’ÓâÄÆ–æ²¶W“×·F‡ÒFó×·F‡Óç¶Æ&VÇÓÂôÆ–æ³â—ÓÂöF—cãÆF—b6Æ74æÖSÒ&fö÷FW"Ö6öçF7B#ãÇ7ãäf–æBF†R7GVF–óÂ÷7ããÇåVæRÂÖ†&6‡G&Â–æF–Â÷ãÆ‡&VcÒ'FVÃ¢³“#â³“ÂöãÆ‡&VcÒ&Ö–ÇFó¦†VÆÆô6'&–öÆWF&6‚æW†×ÆR#æ†VÆÆô6'&–öÆWF&6‚æW†×ÆSÂöãÂöF—cãÆF—b6Æ74æÖSÒ&fö÷FW"Öæ÷FR#ãÇ7ãäÆWN(	—2'V–ÆB&WGFW"WfW'–F’ãÂ÷7ããÄÆ–æ²FóÒ"ö6öçF7B#åFÆ²FòW2Æ#âfwC³Âö#ãÂôÆ–æ³ãÂöF—cãÂöF—cãÆF—b6Æ74æÖSÒ'w&fö÷FW"Ö&÷GFöÒ#ãÇ7ãä6÷—&–v‡B¶æWrFFR‚’ævWDgVÆÅ–V"‚—Ò6'&–öÆWB&6ƒÂ÷7ããÇ7ãäÖFRf÷"V÷ÆRæBÆ6RãÂ÷7ããÄÆ–æ²FóÒ"ò#ä&6²FòF÷ÂôÆ–æ³ãÂöF—cãÂöfö÷FW#ã°Ğ§ĞĞ Ğ¦gVæ7F–öâæ÷Df÷VæB‚’²&WGW&âÇ6V7F–öâ6Æ74æÖSÒ&æ÷BÖf÷VæBw&#ãÄW–V'&÷såvRæ÷Bf÷VæCÂôW–V'&÷sãÆƒåF†B76SÆ'"óãÆVÓæFöW6î(	—BW†—7BãÂöVÓãÂöƒãÄÆ–æ²6Æ74æÖSÒ&'WGFöâ'WGFöâÖ66VçB"FóÒ"ò#å&WGW&â†öÖRÇ7ãâfwC³Â÷7ããÂôÆ–æ³ãÂ÷6V7F–öãã²ĞĞ Ğ¦W‡÷'BFVfVÇB°Ğ 
+    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Built around<br /><em>possibility.</em></h2></div><p className="metrics-note">Illustrative demo figures.</p></div><div className="metrics-grid">{[['32', 'Projects'], ['42,000', 'Sq. m. designed'], ['12', 'Years of practice'], ['54', 'Client partnerships']].map(([value, label]) => <div className="metric" key={label} data-reveal><strong><CountUp value={Number(value.replace(',', ''))} />{label === 'Years of practice' ? '+' : ''}</strong><span>{label}</span></div>)}</div></div></section>
+
+    <section className="testimonials"><div className="testimonial-backdrop" style={{ backgroundImage: `url(${photos.workplace})` }} aria-hidden="true" /><div className="testimonial-shade" /><div className="wrap testimonial-content"><div className="section-heading" data-reveal><div><Eyebrow>Client reflections</Eyebrow><h2>Good work is<br /><em>remembered.</em></h2></div><p>Illustrative testimonials for this demo.</p></div><div className="testimonial-grid">{sampleTestimonials.map((item, i) => <article className="testimonial-card" key={item.name} data-reveal><span className="quote-mark">â€œ</span><p>{item.quote}</p><div><b>{item.name}</b><small>{item.detail}</small></div><span className="testimonial-index">0{i + 1}</span></article>)}</div></div></section>
+    <ContactStrip />
+  </div>;
+}
+function ProjectGrid({ items = projects }) {
+  return <div className="project-grid">{items.map((project, i) => <Link to={`/projects/${project.slug}`} className={`project-card project-card-${i % 3}`} key={project.slug} data-reveal>
+    <div className="project-photo" data-reveal="image"><img src={project.image} alt={project.title} loading="lazy" /><span className="project-open">&gt;</span></div>
+    <div className="project-card-info"><div><h3>{project.title}</h3><p>{project.location || 'Selected project'}</p></div><span className="project-year">{project.year || 'CA'}</span></div>
+  </Link>)}</div>;
+}
+
+function ProcessSteps() {
+  const steps = [
+    ['01', 'Meet & agree', 'We begin with your brief, needs and the realities of the site.'],
+    ['02', 'Idea & concept', 'A clear design direction gives every decision a purpose.'],
+    ['03', 'Design & create', 'We develop, coordinate and refine the design with you.'],
+    ['04', 'Build & install', 'We support delivery and bring the agreed vision to life.'],
+  ];
+  const [activeStep, setActiveStep] = useState(0);
+  const [number, title, copy] = steps[activeStep];
+  return <div className="process-widget">
+    <div className="process-step-list" role="tablist" aria-label="Our process">
+      {steps.map(([stepNumber, stepTitle], i) => <button className={`process-step ${activeStep === i ? 'active' : ''}`} type="button" role="tab" aria-selected={activeStep === i} key={stepNumber} onClick={() => setActiveStep(i)}>
+        <span className="process-step-circle">{stepNumber}</span><span className="process-step-title">{stepTitle}</span>
+      </button>)}
+    </div>
+    <article className="process-detail" key={number} role="tabpanel"><span>{number} / 04</span><h3>{title}</h3><p>{copy}</p></article>
+  </div>;
+}
+function CountUp({ value }) {
+  const [count, setCount] = useState(0);
+  const ref = useRef(null);
+  useEffect(() => {
+    const node = ref.current;
+    if (!node) return undefined;
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduced || !('IntersectionObserver' in window)) {
+      setCount(value);
+      return undefined;
+    }
+    let frame = 0;
+    const observer = new IntersectionObserver(([entry]) => {
+      if (!entry.isIntersecting) return;
+      const start = performance.now();
+      const duration = 1500;
+      const tick = (now) => {
+        const progress = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 4);
+        setCount(Math.round(value * eased));
+        if (progress < 1) frame = requestAnimationFrame(tick);
+      };
+      frame = requestAnimationFrame(tick);
+      observer.disconnect();
+    }, { threshold: 0.5 });
+    observer.observe(node);
+    return () => { observer.disconnect(); cancelAnimationFrame(frame); };
+  }, [value]);
+  return <span ref={ref}>{new Intl.NumberFormat('en-IN').format(count)}</span>;
+}
+
+function About() {
+  const [founderIndex, setFounderIndex] = useState(0);
+  const [bioOpen, setBioOpen] = useState(false);
+  const founder = sampleFounders[founderIndex];
+  const closeFounderBio = () => setBioOpen(false);
+  const selectFounder = (index) => {
+    setFounderIndex(index);
+    setBioOpen(false);
+  };
+  const moveFounder = (step) => selectFounder((founderIndex + step + sampleFounders.length) % sampleFounders.length);
+
+  return <>
+    <PageIntro label="A little about us" title={<>Spaces with<br /><em>a human point of view.</em></>} copy="We are a Pune-based architecture, urban planning and interior design practice, creating places that are useful, expressive and connected to the people who inhabit them." />
+    <section className="about-hero wrap" data-reveal><img src={photos.studio} alt="Architecture and design project by Cabriolet Arch" /><div className="about-hero-note"><b>CA</b><span>Place.<br />People.<br />Possibility.</span></div></section>
+    <section className="about-story wrap section-pad"><div className="story-aside" data-reveal><Eyebrow>Based in Pune</Eyebrow><span className="story-big">Pune</span><p>A practice built around thoughtful design and practical delivery.</p></div><div className="story-main" data-reveal><h2>We look beyond the obvious to create spaces that <em>feel like they belong.</em></h2><p>Based in Pune, our practice brings design and delivery together across residential, commercial and public settings.</p><p>Our approach brings creative thinking together with pragmatic planning, clear communication and close coordination from concept through execution.</p></div></section>
+    <section className="vision-mission wrap"><article data-reveal><Eyebrow>Our vision</Eyebrow><h2>Better places for<br /><em>everyday life.</em></h2><p>We imagine a built environment where spaces feel welcoming, work well and respond thoughtfully to their surroundings.</p></article><article data-reveal><Eyebrow>Our mission</Eyebrow><h2>Creative thinking.<br /><em>Practical delivery.</em></h2><p>We bring clients and collaborators together around clear briefs, considered design choices and a steady project process.</p></article></section>
+    <section className="values-band"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow light>What guides us</Eyebrow><h2>Principles that shape<br /><em>every project.</em></h2></div></div><div className="values-grid">{[['People first', 'Listen closely. Design around the people who will use the space.'], ['Purposeful creativity', 'Find an expressive answer that still works in the real world.'], ['Thoughtful delivery', 'Make decisions visible and keep the project moving together.'], ['Responsible design', 'Consider energy, context and the value of every square metre.']].map(([title, copy], i) => <div className="value-card" key={title} data-reveal><span>0{i + 1}</span><h3>{title}</h3><p>{copy}</p></div>)}</div></div></section>
+    <section className="differentiators wrap section-pad"><div className="section-heading" data-reveal><div><Eyebrow>Key differentiators</Eyebrow><h2>Clear thinking,<br /><em>careful follow-through.</em></h2></div></div><div className="differentiator-grid">{[['01', 'One connected team', 'Planning, architecture and interiors stay connected around the brief.'], ['02', 'Delivery-minded design', 'Creative ideas are developed with practical coordination in mind.'], ['03', 'A process that adapts', "The team and level of detail respond to each project's needs."]].map(([n, title, copy]) => <article key={n} data-reveal><span>{n}</span><h3>{title}</h3><p>{copy}</p></article>)}</div></section>
+    <section className="founders">
+      <div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>Illustrative founding team</Eyebrow><h2>Good spaces begin<br /><em>with good people.</em></h2></div><p>Meet three sample profiles, shown one at a time.</p></div></div>
+      <div className="founder-stage" data-reveal="scale">
+        <div className="founder-backdrop" style={{ backgroundImage: `url(${photos.planning})` }} aria-hidden="true" />
+        <div className="founder-stage-shade" aria-hidden="true" />
+        <div className="founder-feature wrap">
+          <article className={`founder-card ${bioOpen ? 'is-open' : ''}`} onMouseEnter={() => setBioOpen(true)} onMouseLeave={closeFounderBio}>
+            <div className="founder-face founder-front" aria-hidden={bioOpen}>
+              <img key={founder.image} src={founder.image} alt={`Illustrative sample portrait for ${founder.name}`} loading="lazy" />
+              <span className="founder-image-index">0{founderIndex + 1} <i>/ 0{sampleFounders.length}</i></span>
+              <div className="founder-nameplate"><span>{founder.role}</span><h3>{founder.name}</h3></div>
+              <button className="founder-reveal-toggle" type="button" tabIndex={bioOpen ? -1 : 0} onClick={() => setBioOpen(true)} aria-label={`Read ${founder.name}'s profile`}>Read profile <span aria-hidden="true">+</span></button>
+            </div>
+            <div className="founder-face founder-back" aria-hidden={!bioOpen}>
+              <span className="founder-role">{founder.role}</span>
+              <h3>{founder.name}</h3>
+              <p>{founder.bio}</p>
+              <span className="founder-profile-rule" />
+              <button className="founder-back-link" type="button" tabIndex={bioOpen ? 0 : -1} onClick={closeFounderBio}>Back to portrait</button>
+            </div>
+          </article>
+          <div className="founder-controls" role="group" aria-label="Founder profiles">
+            <button className="founder-control-arrow" type="button" aria-label="Previous founder" onClick={() => moveFounder(-1)}><span aria-hidden="true">â€¹</span></button>
+            <div>{sampleFounders.map((item, i) => <button type="button" key={item.name} aria-label={`Show ${item.name}`} aria-pressed={founderIndex === i} className={founderIndex === i ? 'active' : ''} onClick={() => selectFounder(i)}>{String(i + 1).padStart(2, '0')}</button>)}</div>
+            <button className="founder-control-arrow" type="button" aria-label="Next founder" onClick={() => moveFounder(1)}><span aria-hidden="true">â€º</span></button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <ContactStrip />
+  </>;
+}
+function ServicesPage() {
+  return <>
+    <PageIntro label="Our services" title={<>Ideas into<br /><em>places that work.</em></>} copy="From urban-scale thinking to the last interior detail, our services bring design and delivery together." />
+    <section className="service-detail-list wrap">{services.map((service, i) => <article className={`service-detail ${i % 2 ? 'service-detail-reverse' : ''}`} key={service.title} data-reveal>
+      <div className="service-detail-image"><img src={service.image} alt={service.title} loading="lazy" /><span>{service.number}</span></div>
+      <div className="service-detail-copy"><Eyebrow>Service {service.number}</Eyebrow><h2>{service.title}</h2><p>{service.copy}</p><ul>{service.items.map((item) => <li key={item}>{item}</li>)}</ul><ArrowLink to="/contact">Discuss this service</ArrowLink></div>
+    </article>)}</section>
+    <section className="turnkey-band"><div className="wrap turnkey-inner" data-reveal><Eyebrow light>End-to-end support</Eyebrow><h2>From a clear brief<br />to a <em>finished space.</em></h2><p>Project coordination, contractor coordination, quality review, furniture fit-outs and styling can be brought together as a turnkey solution.</p><Link className="button button-white" to="/contact">Get in touch <span>&gt;</span></Link></div></section>
+    <section className="process-preview section-pad wrap"><div className="section-heading" data-reveal><div><Eyebrow>How we work</Eyebrow><h2>Good work is<br /><em>built together.</em></h2></div></div><ProcessSteps /></section>
+    <ContactStrip />
+  </>;
+}
+
+function ProjectsPage() {
+  const [filter, setFilter] = useState('All work');
+  const filters = ['All work', 'Residential', 'Commercial', 'Interiors', 'Civic'];
+  const visible = filter === 'All work' ? projects : projects.filter((project) => project.category.toLowerCase() === filter.toLowerCase());
+  return <>
+    <PageIntro label="Selected projects" title={<>Spaces with<br /><em>something to say.</em></>} copy="Illustrative sample projects set in Pune. Replace project names, dates and images with approved portfolio content." />
+    <section className="wrap projects-page section-pad-top"><div className="project-filter" role="group" aria-label="Filter projects">{filters.map((item) => <button key={item} className={filter === item ? 'filter-active' : ''} onClick={() => setFilter(item)}>{item}</button>)}</div><ProjectGrid items={visible} /></section>
+    <ContactStrip />
+  </>;
+}
+
+function ProjectDetail() {
+  const { slug } = useParams();
+  const navigate = useNavigate();
+  const project = projects.find((item) => item.slug === slug);
+  if (!project) return <NotFound />;
+  const gallery = project.gallery;
+  return <section className="project-detail wrap section-pad-top">
+    <button className="back-link" onClick={() => navigate('/projects')}>Back to projects</button>
+    <div className="project-window-image">
+      <img src={gallery[0]} alt={project.title} />
+      <span className="project-window-label">{project.category} Â· {project.location}</span>
+      <span className="project-window-index">{project.year}</span>
+    </div>
+    <div className="project-detail-head"><div data-reveal="left"><Eyebrow>Illustrative sample project</Eyebrow><h1>{project.title}</h1></div><div className="project-facts" data-reveal="right">{project.year && <Fact label="Year" value={project.year} />}{project.location && <Fact label="Location" value={project.location} />}{project.client && <Fact label="Client" value={project.client} />}{project.category && <Fact label="Category" value={project.category} />}</div></div>
+    <p className="project-description" data-reveal>{project.description}</p><div className="project-gallery">{gallery.slice(1).map((image, i) => <div key={image} className={`gallery-frame ${i === 0 ? 'gallery-lead' : ''}`} data-reveal="image"><img src={image} alt={`${project.title} - view ${i + 2}`} loading={i > 0 ? 'lazy' : 'eager'} /></div>)}</div>
+    <div className="project-detail-cta"><Eyebrow>Have a project in mind?</Eyebrow><h2>Letâ€™s make room for<br /><em>whatâ€™s next.</em></h2><Link className="button button-accent" to="/contact">Start a conversation <span>&gt;</span></Link></div>
+  </section>;
+}
+function Fact({ label, value }) { return <div className="fact"><span>{label}</span><b>{value}</b></div>; }
+
+function Clients() {
+  return <>
+    <PageIntro label="Our clients" title={<>Built through<br /><em>good partnerships.</em></>} copy="Illustrative sample client marks for the Cabriolet Arch demo. Replace these with approved client names and logos before launch." />
+    <section className="client-showcase wrap section-pad-top"><div className="client-grid">{sampleClients.map((client, i) => <div className="client-tile" key={client} data-reveal><span>0{i + 1}</span><b>{client}</b><i aria-hidden="true">&gt;</i></div>)}</div><p className="client-note">Sample names shown for layout only; these are not endorsements or confirmed clients.</p></section>
+    <ContactStrip />
+  </>;
+}
+
+function Contact() {
+  const [sent, setSent] = useState(false);
+  const submit = (event) => {
+    event.preventDefault();
+    const data = new FormData(event.currentTarget);
+    const subject = encodeURIComponent(`Project enquiry â€” ${data.get('name')}`);
+    const body = encodeURIComponent(`Name: ${data.get('name')}\nEmail: ${data.get('email')}\nPhone: ${data.get('phone') || 'Not provided'}\nProject type: ${data.get('projectType')}\n\n${data.get('message')}`);
+    window.location.href = `mailto:hello@cabrioletarch.example?subject=${subject}&body=${body}`;
+    setSent(true);
+  };
+  return <>
+    <PageIntro label="Contact" title={<>Letâ€™s talk about<br /><em>your next space.</em></>} copy="Pune, Maharashtra. The phone number and email below are sample placeholders for this demo; replace them before launch." />
+    <section className="contact-layout wrap section-pad-top">
+      <div className="contact-details" data-reveal><Eyebrow>Visit or call the studio</Eyebrow><h2>Good conversations<br />start <em>somewhere.</em></h2><div className="contact-item"><span>Studio</span><p>Pune,<br />Maharashtra, India</p></div><div className="contact-item"><span>Phone</span><p><a href="tel:+910000000000">+91 00000 00000</a></p></div><div className="contact-item"><span>Email</span><p><a href="mailto:hello@cabrioletarch.example">hello@cabrioletarch.example</a></p></div><div className="contact-item"><span>Studio hours</span><p>Monday-Friday<br />9:00 am-6:00 pm IST</p></div><a className="map-link" href="https://maps.google.com/?q=Pune+Maharashtra+India" target="_blank" rel="noreferrer">Open map <span aria-hidden="true">&gt;</span></a></div>
+      <form className="contact-form" onSubmit={submit} data-reveal><Eyebrow>Start a project</Eyebrow><h2>Tell us a little<br /><em>about it.</em></h2><label>Your name<input name="name" placeholder="Name" required /></label><label>Email address<input name="email" type="email" placeholder="you@example.com" required /></label><div className="form-row"><label>Phone (optional)<input name="phone" type="tel" placeholder="+91" /></label><label>Project type<select name="projectType" defaultValue="Architecture"><option>Architecture</option><option>Urban planning</option><option>Interior design</option><option>Turnkey project</option><option>Other</option></select></label></div><label>What are you planning?<textarea name="message" rows="4" placeholder="A little about the place, timeline or ideaâ€¦" required /></label><button className="button button-accent" type="submit">{sent ? 'Opening your email app' : 'Send enquiry'} <span>â†—</span></button><p className="form-note">Your email app will open with the enquiry addressed to our studio.</p></form>
+    </section>
+    <div className="contact-map wrap"><iframe title="Cabriolet Arch studio location" src="https://www.google.com/maps?q=Pune%2C%20Maharashtra&output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" /></div>
+  </>;
+}
+
+function ContactStrip() { return <section className="contact-strip"><div className="wrap contact-strip-inner" data-reveal><div><Eyebrow light>Have a place in mind?</Eyebrow><h2>Letâ€™s make it<br /><em>mean something.</em></h2></div><Link className="button button-white" to="/contact">Start a conversation <span>&gt;</span></Link></div></section>; }
+
+function BackToTop() {
+  const [visible, setVisible] = useState(false);
+  useEffect(() => {
+    const update = () => setVisible(window.scrollY > 560);
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    return () => window.removeEventListener('scroll', update);
+  }, []);
+  return <button className={`back-to-top ${visible ? 'is-visible' : ''}`} type="button" aria-label="Back to top" aria-hidden={!visible} tabIndex={visible ? 0 : -1} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>â†‘</button>;
+}
+
+function Footer() {
+  return <footer className="site-footer"><div className="wrap footer-main"><div className="footer-brand"><Brand light /><p>Architecture and design<br />with people at the centre.</p></div><div className="footer-nav"><span>Explore</span>{navItems.slice(1).map(([label, path]) => <Link key={path} to={path}>{label}</Link>)}</div><div className="footer-contact"><span>Find the studio</span><p>Pune, Maharashtra, India</p><a href="tel:+910000000000">+91 00000 00000</a><a href="mailto:hello@cabrioletarch.example">hello@cabrioletarch.example</a></div><div className="footer-note"><span>Letâ€™s build a better everyday.</span><Link to="/contact">Talk to us <b>&gt;</b></Link></div></div><div className="wrap footer-bottom"><span>Copyright {new Date().getFullYear()} Cabriolet Arch</span><span>Made for people and place.</span><Link to="/">Back to top</Link></div></footer>;
+}
+
+function NotFound() { return <section className="not-found wrap"><Eyebrow>Page not found</Eyebrow><h1>That space<br /><em>doesnâ€™t exist.</em></h1><Link className="button button-accent" to="/">Return home <span>&gt;</span></Link></section>; }
+
+export default App;
