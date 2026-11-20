@@ -351,7 +351,7 @@ function Home() {
     <section className="services-preview section-pad">
       <div className="wrap section-heading" data-reveal><div><Eyebrow>Our capabilities</Eyebrow><h2>What we <em>do.</em></h2></div><ArrowLink to="/services">See all services</ArrowLink></div>
       <div className="service-cards wrap">{services.map((service) => <article className="service-card" key={service.title} data-reveal>
-        <Link to="/services" className="service-image" data-reveal="image"><img src={service.image} alt={`${service.title} by Cabriolet Arch`} loading="lazy" /><span className="service-number">{service.number}</span><span className="service-arrow">></span></Link>
+        <Link to="/services" className="service-image" data-reveal="image"><img src={service.image} alt={`${service.title} by Cabriolet Arch`} loading="lazy" /><span className="service-number">{service.number}</span><span className="service-arrow">&gt;</span></Link>
         <div className="service-card-copy"><h3>{service.title}</h3><p>{service.copy}</p></div>
       </article>)}</div>
     </section>
