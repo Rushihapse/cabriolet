@@ -61,9 +61,9 @@ const services = [
 ];
 
 const slides = [
-  { label: 'Architectural consulting � Pune', lead: 'Ideas into', accent: 'built reality.', copy: 'Architectural consulting and construction shaped around your project.', video: heroVideos[0] },
-  { label: 'Planning & approvals � Maharashtra', lead: 'A clear path through', accent: 'project approvals.', copy: 'Liaisoning, feasibility reports and sanction support across project stages.', video: heroVideos[1] },
-  { label: 'Industrial construction � India', lead: 'Built with purpose', accent: 'and precision.', copy: 'Warehouses and processing plants planned for safety, quality and timely delivery.', video: heroVideos[2] },
+  { label: 'Architectural consulting  |  Pune', lead: 'Ideas into', accent: 'built reality.', copy: 'Architectural consulting and construction shaped around your project.', video: heroVideos[0] },
+  { label: 'Planning & approvals  |  Maharashtra', lead: 'A clear path through', accent: 'project approvals.', copy: 'Liaisoning, feasibility reports and sanction support across project stages.', video: heroVideos[1] },
+  { label: 'Industrial construction  |  India', lead: 'Built with purpose', accent: 'and precision.', copy: 'Warehouses and processing plants planned for safety, quality and timely delivery.', video: heroVideos[2] },
 ];
 
 const companyHighlights = [
@@ -165,10 +165,10 @@ function App() {
   return <>
     {loaderVisible && <div className={`site-loader ${loaderLeaving ? 'site-loader-leaving' : ''}`} role="status" aria-label={`Loading Cabriolet Arch, ${loaderProgress}%`}>
       <Brand />
-      <div className="loader-caption">Architecture � Planning � Construction</div>
+      <div className="loader-caption">Architecture  |  Planning  |  Construction</div>
       <span className="loader-percent" aria-hidden="true">{String(loaderProgress).padStart(2, '0')}<i>%</i></span>
       <div className="loader-track"><span style={{ transform: `scaleX(${loaderProgress / 100})` }} /></div>
-      <span className="loader-index">PUNE � MAHARASHTRA</span>
+      <span className="loader-index">PUNE  |  MAHARASHTRA</span>
     </div>}
     <Header theme={theme} onToggleTheme={() => setTheme((current) => current === 'dark' ? 'light' : 'dark')} />
     <main className="site-main" key={location.pathname}>
@@ -211,13 +211,19 @@ function Header({ theme, onToggleTheme }) {
   }, []);
   return <header className={`site-header ${location.pathname === '/' ? 'site-header-home' : ''} ${compact ? 'is-compact' : ''}`}>
     <div className={`header-shell ${compact ? 'is-compact' : ''}`}>
-      <div className="header-meta"><div className="wrap"><span>ARCHITECTURE � PLANNING � CONSTRUCTION</span><span>PUNE � MAHARASHTRA</span></div></div>
+      <div className="header-meta"><div className="wrap"><span>ARCHITECTURE  |  PLANNING  |  CONSTRUCTION</span><span>PUNE  |  MAHARASHTRA</span></div></div>
       <div className="header-inner wrap">
         <Brand />
         <button className={`menu-toggle ${open ? 'is-open' : ''}`} onClick={() => setOpen(!open)} aria-expanded={open} aria-label={open ? 'Close menu' : 'Open menu'}><span /><span /></button>
         <nav className={`main-nav ${open ? 'nav-open' : ''}`} aria-label="Main navigation">
           {navItems.map(([label, path]) => <NavLink key={path} to={path} end={path === '/'} className={({ isActive }) => isActive ? 'active' : ''}>{label}</NavLink>)}
-          <button className="theme-toggle" type="button" onClick={onToggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`} aria-pressed={theme === 'dark'}><span className="theme-toggle-icon" aria-hidden="true">{theme === 'dark' ? '' : '?'}</span><span>{theme === 'dark' ? 'Light' : 'Dark'}</span></button>
+          <button className="theme-toggle" type="button" onClick={onToggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`} aria-pressed={theme === 'dark'}>
+            <span className="theme-toggle-icon" aria-hidden="true">{theme === 'dark' ? (
+              <svg viewBox="0 0 24 24" focusable="false"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" strokeWidth="1.8"/><path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round"/></svg>
+            ) : (
+              <svg viewBox="0 0 24 24" focusable="false"><path d="M20.2 15.6A8.3 8.3 0 0 1 8.4 3.8a8.6 8.6 0 1 0 11.8 11.8Z" fill="currentColor"/></svg>
+            )}</span><span>{theme === 'dark' ? 'Light' : 'Dark'}</span>
+          </button>
           <Link className="nav-cta" to="/contact">Start a project <span aria-hidden="true">&gt;</span></Link>
         </nav>
       </div>
@@ -344,7 +350,7 @@ function Home() {
     <div className="hero-indicator-strip"><div className="hero-dots" role="group" aria-label="Choose a hero slide">{slides.map((item, i) => <button key={item.label} type="button" className={i === shownSlideIndex ? 'active' : ''} aria-label={`Show slide ${i + 1}: ${item.label}`} aria-pressed={i === shownSlideIndex} onClick={() => setSlideIndex(i)} />)}</div></div>
 
     <section className="intro-block wrap section-pad">
-      <div className="intro-visual" data-reveal="image"><img src={photos.studio} alt="Contemporary architecture and interior design" loading="lazy" /><span>Architecture � Interior � Pune</span></div>
+      <div className="intro-visual" data-reveal="image"><img src={photos.studio} alt="Contemporary architecture and interior design" loading="lazy" /><span>Architecture  |  Interior  |  Pune</span></div>
       <div className="intro-copy" data-reveal="right"><Eyebrow>Welcome to Cabriolet Arch</Eyebrow><h2>Architecture, planning<br />and construction with <em>precision.</em></h2><p>We combine creativity, functionality and precision to turn your vision into reality. Our team works closely with you to create spaces that meet your requirements and exceed expectations.</p><p>From planning through execution, we focus on quality materials, safety, efficiency and timely delivery.</p><ArrowLink to="/about">Discover our approach</ArrowLink></div>
     </section>
 
@@ -369,7 +375,7 @@ function Home() {
       <ProjectGrid items={projects.slice(0, 9)} />
     </section>
 
-    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Experience across<br /><em>project types.</em></h2></div><p className="metrics-note">Residential � Commercial � Industrial</p></div><div className="metrics-grid">{[['09', 'Core services'], ['18', 'Portfolio entries'], ['03', 'Leadership profiles'], ['100', 'Clients satisfied']].map(([value, label]) => <div className="metric" key={label} data-reveal><strong>{label === 'Clients satisfied' ? <><CountUp value={100} />+</> : value}</strong><span>{label}</span></div>)}</div></div></section>
+    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Experience across<br /><em>project types.</em></h2></div><p className="metrics-note">Residential  |  Commercial  |  Industrial</p></div><div className="metrics-grid">{[['09', 'Core services'], ['18', 'Portfolio entries'], ['03', 'Leadership profiles'], ['100', 'Clients satisfied']].map(([value, label]) => <div className="metric" key={label} data-reveal><strong>{label === 'Clients satisfied' ? <><CountUp value={100} />+</> : value}</strong><span>{label}</span></div>)}</div></div></section>
 
     <section className="testimonials"><div className="testimonial-backdrop" style={{ backgroundImage: `url(${photos.workplace})` }} aria-hidden="true" /><div className="testimonial-shade" /><div className="wrap testimonial-content"><div className="section-heading" data-reveal><div><Eyebrow>Our approach</Eyebrow><h2>We listen.<br /><em>We find solutions.</em></h2></div><p>Practical guidance, clear communication and support from the first conversation through project delivery.</p></div><div className="testimonial-grid">{companyHighlights.map((item, i) => <article className="testimonial-card" key={item.title} data-reveal><span className="quote-mark">0{i + 1}</span><p>{item.copy}</p><div><b>{item.title}</b><small>Cabriolet Arch</small></div><span className="testimonial-index">0{i + 1}</span></article>)}</div></div></section>
     <ContactStrip />
@@ -551,7 +557,7 @@ function ProjectDetail() {
     <button className="back-link" onClick={() => navigate('/projects')}>Back to projects</button>
     <div className="project-window-image">
       <img src={gallery[0]} alt={project.title} />
-      <span className="project-window-label">{project.location ? `${project.category} � ${project.location}` : project.category}</span>
+      <span className="project-window-label">{project.location ? `${project.category}  |  ${project.location}` : project.category}</span>
       <span className="project-window-index">Portfolio</span>
     </div>
     <div className="project-detail-head"><div data-reveal="left"><Eyebrow>Portfolio project</Eyebrow><h1>{project.title}</h1></div><div className="project-facts" data-reveal="right">{project.year && <Fact label="Year" value={project.year} />}{project.location && <Fact label="Location" value={project.location} />}{project.client && <Fact label="Client" value={project.client} />}{project.category && <Fact label="Category" value={project.category} />}</div></div>
@@ -582,7 +588,7 @@ function Contact() {
   const submit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    const subject = encodeURIComponent(`Project enquiry - ${data.get('name')}`);
+    const subject = encodeURIComponent(`Project enquiry  -  ${data.get('name')}`);
     const body = encodeURIComponent(`Name: ${data.get('name')}\nEmail: ${data.get('email')}\nPhone: ${data.get('phone') || 'Not provided'}\nProject type: ${data.get('projectType')}\n\n${data.get('message')}`);
     window.location.href = `mailto:info@psinnovativecreation.com?subject=${subject}&body=${body}`;
     setSent(true);
@@ -591,7 +597,7 @@ function Contact() {
     <PageIntro label="Contact" title={<>Let's talk about<br /><em>your next space.</em></>} copy="Contact our Pune studio to discuss architectural consulting, planning, approvals or construction." />
     <section className="contact-layout wrap section-pad-top">
       <div className="contact-details" data-reveal><Eyebrow>Visit or call the studio</Eyebrow><h2>Good conversations<br />start <em>somewhere.</em></h2><div className="contact-item"><span>Studio</span><p>Shop No. 101, Probo Prolix Pride,<br />Commercial Complex, Shindevasti,<br />Ravet, Pimpri-Chinchwad,<br />Pune 411044</p></div><div className="contact-item"><span>Phone</span><p><a href="tel:+918087674246">+91 80876 74246</a><br /><a href="tel:+919932863111">+91 99328 63111</a></p></div><div className="contact-item"><span>Email</span><p><a href="mailto:info@psinnovativecreation.com">info@psinnovativecreation.com</a></p></div><a className="map-link" href="https://maps.google.com/?q=Shop+No.+101+Probo+Prolix+Pride+Ravet+Pune+411044" target="_blank" rel="noreferrer">Open map <span aria-hidden="true">&gt;</span></a></div>
-      <form className="contact-form" onSubmit={submit} data-reveal><Eyebrow>Start a project</Eyebrow><h2>Tell us a little<br /><em>about it.</em></h2><label>Your name<input name="name" placeholder="Name" required /></label><label>Email address<input name="email" type="email" placeholder="you@example.com" required /></label><div className="form-row"><label>Phone (optional)<input name="phone" type="tel" placeholder="+91" /></label><label>Project type<select name="projectType" defaultValue="Architecture"><option>Architecture</option><option>Urban planning</option><option>Interior design</option><option>Turnkey project</option><option>Other</option></select></label></div><label>What are you planning?<textarea name="message" rows="4" placeholder="A little about the place, timeline or idea." required /></label><button className="button button-accent" type="submit">{sent ? 'Opening your email app' : 'Send enquiry'} <span>?</span></button><p className="form-note">Your email app will open with the enquiry addressed to our studio.</p></form>
+      <form className="contact-form" onSubmit={submit} data-reveal><Eyebrow>Start a project</Eyebrow><h2>Tell us a little<br /><em>about it.</em></h2><label>Your name<input name="name" placeholder="Name" required /></label><label>Email address<input name="email" type="email" placeholder="you@example.com" required /></label><div className="form-row"><label>Phone (optional)<input name="phone" type="tel" placeholder="+91" /></label><label>Project type<select name="projectType" defaultValue="Architecture"><option>Architecture</option><option>Urban planning</option><option>Interior design</option><option>Turnkey project</option><option>Other</option></select></label></div><label>What are you planning?<textarea name="message" rows="4" placeholder="A little about the place, timeline or idea..." required /></label><button className="button button-accent" type="submit">{sent ? 'Opening your email app' : 'Send enquiry'} <span><svg viewBox="0 0 24 24" focusable="false"><path d="M7 17 17 7M8 7h9v9" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/></svg></span></button><p className="form-note">Your email app will open with the enquiry addressed to our studio.</p></form>
     </section>
     <div className="contact-map wrap"><iframe title="Cabriolet Arch studio location" src="https://www.google.com/maps?q=Probo%20Prolix%20Pride%2C%20Ravet%2C%20Pune%20411044&output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" /></div>
   </>;
@@ -607,11 +613,11 @@ function BackToTop() {
     window.addEventListener('scroll', update, { passive: true });
     return () => window.removeEventListener('scroll', update);
   }, []);
-  return <button className={`back-to-top ${visible ? 'is-visible' : ''}`} type="button" aria-label="Back to top" aria-hidden={!visible} tabIndex={visible ? 0 : -1} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}></button>;
+  return <button className={`back-to-top ${visible ? 'is-visible' : ''}`} type="button" aria-label="Back to top" aria-hidden={!visible} tabIndex={visible ? 0 : -1} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 14 6-6 6 6M12 8v11" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/></svg></button>;
 }
 
 function Footer() {
-  return <footer className="site-footer"><div className="wrap footer-main"><div className="footer-brand"><Brand light /><p>Architectural consulting, planning and construction with practical solutions.</p></div><div className="footer-nav"><span>Explore</span>{navItems.slice(1).map(([label, path]) => <Link key={path} to={path}>{label}</Link>)}</div><div className="footer-contact"><span>Find the studio</span><p>Shop No. 101, Probo Prolix Pride, Commercial Complex, Shindevasti, Ravet, Pimpri-Chinchwad, Pune 411044</p><a href="tel:+918087674246">+91 80876 74246</a><a href="tel:+919932863111">+91 99328 63111</a><a href="mailto:info@psinnovativecreation.com">info@psinnovativecreation.com</a></div><div className="footer-note"><span>We listen � We understand � We provide solutions.</span><Link to="/contact">Talk to us <b>&gt;</b></Link></div></div><div className="wrap footer-bottom"><span>Copyright {new Date().getFullYear()} Cabriolet Arch</span><span>Made for people and place.</span><span className="footer-credit">Developed &amp; Maintained By <strong>REDCYBERFOX LLP</strong></span><Link to="/">Back to top</Link></div></footer>;
+  return <footer className="site-footer"><div className="wrap footer-main"><div className="footer-brand"><Brand light /><p>Architectural consulting, planning and construction with practical solutions.</p></div><div className="footer-nav"><span>Explore</span>{navItems.slice(1).map(([label, path]) => <Link key={path} to={path}>{label}</Link>)}</div><div className="footer-contact"><span>Find the studio</span><p>Shop No. 101, Probo Prolix Pride, Commercial Complex, Shindevasti, Ravet, Pimpri-Chinchwad, Pune 411044</p><a href="tel:+918087674246">+91 80876 74246</a><a href="tel:+919932863111">+91 99328 63111</a><a href="mailto:info@psinnovativecreation.com">info@psinnovativecreation.com</a></div><div className="footer-note"><span>We listen  |  We understand  |  We provide solutions.</span><Link to="/contact">Talk to us <b>&gt;</b></Link></div></div><div className="wrap footer-bottom"><span>Copyright {new Date().getFullYear()} Cabriolet Arch</span><span>Made for people and place.</span><span className="footer-credit">Developed &amp; Maintained By <strong>REDCYBERFOX LLP</strong></span><Link to="/">Back to top</Link></div></footer>;
 }
 
 function NotFound() { return <section className="not-found wrap"><Eyebrow>Page not found</Eyebrow><h1>That space<br /><em>doesn't exist.</em></h1><Link className="button button-accent" to="/">Return home <span>&gt;</span></Link></section>; }
