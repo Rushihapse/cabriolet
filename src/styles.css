@@ -677,3 +677,4 @@ body.has-architect-cursor *{cursor:none!important}
 .site-footer .footer-bottom a:hover{color:#e5ccaa}
 @media(max-width:900px){.site-footer .footer-main{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:42px}.site-footer .footer-note a{margin-top:14px}}
 @media(max-width:560px){.site-footer{padding-top:56px}.site-footer .footer-main{grid-template-columns:1fr;gap:32px;padding-bottom:38px}.site-footer .footer-brand p{margin-top:16px}.site-footer .footer-bottom{flex-wrap:wrap;justify-content:flex-start;gap:12px 22px}}
+.site-footer .footer-credit strong{color:rgba(244,241,233,.88);font-weight:600}
