@@ -338,7 +338,7 @@ function Home() {
         <div className="hero-actions"><Link className="button button-accent" to="/projects">Our portfolio</Link></div>
       </div>
       <div className="hero-note"><span>0{shownSlideIndex + 1} / 0{slides.length}</span><i />Pune-based architecture and design</div>
-      <div className="hero-arrows" aria-label="Hero slides"><button type="button" aria-label="Previous slide" onClick={() => moveSlide(-1)}><</button><button type="button" aria-label="Next slide" onClick={() => moveSlide(1)}>></button></div>
+      <div className="hero-arrows" aria-label="Hero slides"><button type="button" aria-label="Previous slide" onClick={() => moveSlide(-1)}>&lt;</button><button type="button" aria-label="Next slide" onClick={() => moveSlide(1)}>&gt;</button></div>
       <div className="hero-signature"><Brand light /></div>
     </section>
     <div className="hero-indicator-strip"><div className="hero-dots" role="group" aria-label="Choose a hero slide">{slides.map((item, i) => <button key={item.label} type="button" className={i === shownSlideIndex ? 'active' : ''} aria-label={`Show slide ${i + 1}: ${item.label}`} aria-pressed={i === shownSlideIndex} onClick={() => setSlideIndex(i)} />)}</div></div>
