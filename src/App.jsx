@@ -22,59 +22,64 @@ const photos = {
   pavilion: crystalPhoto('2015/07/pro_34h-750x499.jpg'),
   interiorTwo: crystalPhoto('2015/07/pro_3a-750x499.jpg'),
   facade: crystalPhoto('2015/07/pro_13c-750x499.jpg'),
-  founderOne: photo('photo-1500648767791-00dcc994a43e', 900),
-  founderTwo: photo('photo-1544005313-94ddf0286df2', 900),
-  founderThree: photo('photo-1560250097-0b93528c311a', 900),
+  founderOne: 'https://www.psinnovativecreation.com/assets/images/Sumit_Kuralkar.png',
+  founderTwo: 'https://www.psinnovativecreation.com/assets/images/Ashok.JPG',
+  founderThree: 'https://www.psinnovativecreation.com/assets/images/Tushar.JPG',
 };
 
 const projects = [
-  { slug: 'aranya-house', title: 'Aranya House', year: '2024', location: 'Baner, Pune', client: 'Private home owners', category: 'Residential', image: photos.house, gallery: [photos.house, photos.courtyard, photos.facade], description: 'A warm, light-filled family home shaped around a shaded courtyard and the rhythm of everyday life.' },
-  { slug: 'the-canopy', title: 'The Canopy', year: '2023', location: 'Hinjawadi, Pune', client: 'Sample workplace team', category: 'Commercial', image: photos.workplace, gallery: [photos.workplace, photos.interiors, photos.lobby], description: 'A flexible workplace concept that brings daylight, planting and shared spaces into the centre of the floor plan.' },
-  { slug: 'serein-courtyard', title: 'Serein Courtyard', year: '2022', location: 'Kalyani Nagar, Pune', client: 'Sample residential partner', category: 'Residential', image: photos.courtyard, gallery: [photos.courtyard, photos.residence, photos.house], description: 'A residential concept organised around a quiet green court, with clear transitions between private and shared life.' },
-  { slug: 'riverline-residences', title: 'Riverline Residences', year: '2024', location: 'Mundhwa, Pune', client: 'Sample residential partner', category: 'Residential', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A contemporary housing study focused on simple forms, useful balconies and a generous arrival sequence.' },
-  { slug: 'nila-house', title: 'Nila House', year: '2023', location: 'Koregaon Park, Pune', client: 'Private home owners', category: 'Interiors', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A calm interior palette of natural texture, soft light and carefully resolved storage.' },
-  { slug: 'atria-commons', title: 'Atria Commons', year: '2021', location: 'Wakad, Pune', client: 'Sample mixed-use partner', category: 'Commercial', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'A mixed-use concept bringing work, retail and everyday gathering into one legible public edge.' },
-  { slug: 'pashan-pavilion', title: 'Pashan Pavilion', year: '2025', location: 'Pashan, Pune', client: 'Sample community group', category: 'Civic', image: photos.pavilion, gallery: [photos.pavilion, photos.courtyard, photos.planning], description: 'A small civic pavilion concept designed for shade, informal meetings and neighbourhood activity.' },
-  { slug: 'blue-courtyard', title: 'Blue Courtyard', year: '2022', location: 'Bavdhan, Pune', client: 'Private home owners', category: 'Interiors', image: photos.interiorTwo, gallery: [photos.interiorTwo, photos.interiors, photos.studio], description: 'An interior refresh that uses colour sparingly and makes the shared living spaces more flexible.' },
-  { slug: 'hillview-house', title: 'Hillview House', year: '2020', location: 'Aundh, Pune', client: 'Private home owners', category: 'Residential', image: photos.facade, gallery: [photos.facade, photos.house, photos.residence], description: 'A compact home concept tuned to its site, with filtered daylight and a protected outdoor room.' },
-  { slug: 'cobalt-house', title: 'Cobalt House', year: '2025', location: 'Shivajinagar, Pune', client: 'Sample home owners', category: 'Residential', image: photos.studio, gallery: [photos.studio, photos.house, photos.courtyard], description: 'A sample home study that pairs a compact footprint with flexible family spaces and a sheltered terrace.' },
-  { slug: 'grove-edge', title: 'Grove Edge', year: '2024', location: 'Kharadi, Pune', client: 'Sample development partner', category: 'Commercial', image: photos.workplace, gallery: [photos.workplace, photos.facade, photos.lobby], description: 'A workplace concept balancing focused work zones with informal places to meet and reset.' },
-  { slug: 'saffron-pavilion', title: 'Saffron Pavilion', year: '2023', location: 'Pashan, Pune', client: 'Sample community group', category: 'Civic', image: photos.pavilion, gallery: [photos.pavilion, photos.planning, photos.courtyard], description: 'A small public-use pavilion concept for shade, accessible circulation and neighbourhood gatherings.' },
-  { slug: 'passage-house', title: 'Passage House', year: '2022', location: 'Magarpatta, Pune', client: 'Sample home owners', category: 'Residential', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A sample residential design organised around a light-filled central passage and shared family spaces.' },
-  { slug: 'dune-studio', title: 'Dune Studio', year: '2021', location: 'Viman Nagar, Pune', client: 'Sample studio team', category: 'Interiors', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A compact studio interior using warm textures and adaptable furniture to make a small footprint work.' },
-  { slug: 'westline-office', title: 'Westline Office', year: '2020', location: 'Baner, Pune', client: 'Sample workplace team', category: 'Commercial', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'An office concept with a legible arrival, shared project tables and quieter rooms for focused work.' },
-  { slug: 'courtyard-six', title: 'Courtyard Six', year: '2025', location: 'Aundh, Pune', client: 'Sample home owners', category: 'Residential', image: photos.courtyard, gallery: [photos.courtyard, photos.house, photos.residence], description: 'A sample home concept where a planted courtyard brings daylight and a softer centre into the plan.' },
-  { slug: 'tattva-residence', title: 'Tattva Residence', year: '2023', location: 'Kothrud, Pune', client: 'Sample home owners', category: 'Residential', image: photos.house, gallery: [photos.house, photos.facade, photos.courtyard], description: 'A residential concept shaped around calm material choices, shaded openings and useful everyday storage.' },
-  { slug: 'alto-market', title: 'Alto Market', year: '2022', location: 'Wakad, Pune', client: 'Sample retail partner', category: 'Commercial', image: photos.planning, gallery: [photos.planning, photos.facade, photos.lobby], description: 'A mixed retail and community concept with clear pedestrian routes and inviting edges to the street.' },
+  { slug: 'sate-town', title: 'Sate Town', location: 'Sate, Mawal', category: 'Project', image: photos.house, gallery: [photos.house, photos.courtyard, photos.facade], description: 'A Cabriolet Arch portfolio project listed at Sate, Mawal.' },
+  { slug: 'mamurdi-projects', title: 'Mamurdi Projects', category: 'Project', image: photos.workplace, gallery: [photos.workplace, photos.interiors, photos.lobby], description: 'A project featured in the Cabriolet Arch portfolio.' },
+  { slug: 'chimble-projects', title: 'Chimble Projects', location: 'Chimble, Pune', category: 'Project', image: photos.courtyard, gallery: [photos.courtyard, photos.residence, photos.house], description: 'A Cabriolet Arch portfolio project listed at Chimble, Pune.' },
+  { slug: 'ravet-projects', title: 'Ravet Projects', location: 'Ravet, Pune', category: 'Project', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A Cabriolet Arch portfolio project listed at Ravet, Pune.' },
+  { slug: 'shirapur-projects', title: 'Shirapur Projects', location: 'Shirapur, Pune', category: 'Project', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A Cabriolet Arch portfolio project listed at Shirapur, Pune.' },
+  { slug: 'nanekarwadi-projects', title: 'Nanekarwadi Projects', category: 'Project', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'A project featured in the Cabriolet Arch portfolio.' },
+  { slug: 'tathawade-projects', title: 'Tathawade Projects', location: 'Tathawade, Pune', category: 'Project', image: photos.pavilion, gallery: [photos.pavilion, photos.courtyard, photos.planning], description: 'A Cabriolet Arch portfolio project listed at Tathawade, Pune.' },
+  { slug: 'anjangaon-projects', title: 'Anjangaon Projects', location: 'Anjangaon', category: 'Project', image: photos.interiorTwo, gallery: [photos.interiorTwo, photos.interiors, photos.studio], description: 'A Cabriolet Arch portfolio project listed at Anjangaon.' },
+  { slug: 'junnar-projects', title: 'Junnar Projects', location: 'Junnar', category: 'Project', image: photos.facade, gallery: [photos.facade, photos.house, photos.residence], description: 'A Cabriolet Arch portfolio project listed at Junnar.' },
+  { slug: 'anjangaon', title: 'Anjangaon', location: 'Anjangaon', category: 'Project', image: photos.studio, gallery: [photos.studio, photos.house, photos.courtyard], description: 'A project featured in the Cabriolet Arch portfolio at Anjangaon.' },
+  { slug: 'beed-projects', title: 'Beed Projects', location: 'Beed', category: 'Project', image: photos.workplace, gallery: [photos.workplace, photos.facade, photos.lobby], description: 'A Cabriolet Arch portfolio project listed at Beed.' },
+  { slug: 'mountain-valley', title: 'Mountain Valley', location: 'Sanaswadi, Ta-Shirur, Pune', category: 'Project', image: photos.pavilion, gallery: [photos.pavilion, photos.planning, photos.courtyard], description: 'A Cabriolet Arch portfolio project listed at Sanaswadi, Ta-Shirur, Pune.' },
+  { slug: 'tropical-paradise', title: 'Tropical Paradise', location: 'Kalewadi, Pune', category: 'Project', image: photos.residence, gallery: [photos.residence, photos.house, photos.facade], description: 'A Cabriolet Arch portfolio project listed at Kalewadi, Pune.' },
+  { slug: 'enchanted-forest', title: 'Enchanted Forest', location: 'Latur', category: 'Project', image: photos.interiors, gallery: [photos.interiors, photos.interiorTwo, photos.studio], description: 'A Cabriolet Arch portfolio project listed at Latur.' },
+  { slug: 'sunlit-woods', title: 'Sunlit Woods', location: 'Talegaon Dabhade, Pune', category: 'Project', image: photos.lobby, gallery: [photos.lobby, photos.workplace, photos.facade], description: 'A Cabriolet Arch portfolio project listed at Talegaon Dabhade, Pune.' },
+  { slug: 'serene-lake', title: 'Serene Lake', location: 'Wadgaon, Pune', category: 'Project', image: photos.courtyard, gallery: [photos.courtyard, photos.house, photos.residence], description: 'A Cabriolet Arch portfolio project listed at Wadgaon, Pune.' },
+  { slug: 'mountain-trail-warehouse', title: 'Mountain Trail', location: 'Ratnagiri (Warehouse)', category: 'Warehouse', image: photos.house, gallery: [photos.house, photos.facade, photos.courtyard], description: 'A warehouse project in Ratnagiri, listed in the Cabriolet Arch portfolio.' },
+  { slug: 'mountain-trail-industrial-shed', title: 'Mountain Trail', location: 'Ratnagiri (Industrial shed)', category: 'Industrial shed', image: photos.planning, gallery: [photos.planning, photos.facade, photos.lobby], description: 'An industrial shed project in Ratnagiri, listed in the Cabriolet Arch portfolio.' },
 ];
 
 const services = [
-  { number: '01', title: 'Urban planning', image: photos.planning, copy: 'Thoughtful frameworks for places, neighbourhoods and communities.', items: ['Project feasibility', 'Due diligence', 'Master planning', 'Urban design & site development'] },
-  { number: '02', title: 'Architecture', image: photos.house, copy: 'A clear design process from first concept through coordination and delivery.', items: ['Site analysis', 'Conceptual planning', 'Design development', 'Technical coordination'] },
-  { number: '03', title: 'Interior design', image: photos.interiors, copy: 'Useful, expressive interiors, planned around the people who use them.', items: ['Space planning', 'Specifications & estimation', 'Fit-outs', 'Furnishing & styling'] },
+  { number: '01', title: 'Architectural Consultant', image: photos.studio, copy: 'Expert architectural consulting tailored to each project.', items: ['Residential, commercial and industrial projects', 'Project planning and PMC guidance', 'Design consultation'] },
+  { number: '02', title: 'Architectural Design', image: photos.house, copy: 'Innovative, functional and sustainable design for modern living and working spaces.', items: ['Customized architectural designs', 'Residential and commercial design', 'Industrial project design'] },
+  { number: '03', title: 'Liaisoning', image: photos.planning, copy: 'Support with building permissions, approvals and regulatory processes across Maharashtra.', items: ['Building permissions', 'Government approvals', 'Environmental clearances', 'Local compliance guidance'] },
+  { number: '04', title: 'Feasibility Reports', image: photos.process, copy: 'Comprehensive feasibility reports for a range of project types.', items: ['Project feasibility', 'Planning support', 'Residential, commercial and industrial projects'] },
+  { number: '05', title: 'Non-Agricultural Land Conversion', image: photos.courtyard, copy: 'Assistance with non-agricultural land conversion processes.', items: ['NA conversion process support', 'Documentation guidance', 'Approval coordination'] },
+  { number: '06', title: 'Government Demarcation', image: photos.facade, copy: 'Government-approved land measurement and demarcation support.', items: ['Land measurement', 'Site demarcation', 'Government coordination'] },
+  { number: '07', title: 'MIDC Sanction', image: photos.lobby, copy: 'Guidance through MIDC project approvals and sanctions.', items: ['MIDC sanction processes', 'Project approval coordination', 'Industrial project planning'] },
+  { number: '08', title: 'Industrial Warehouse Construction', image: photos.workplace, copy: 'End-to-end construction management for industrial warehouses.', items: ['Planning and execution', 'Quality materials and techniques', 'Safety and timely delivery'] },
+  { number: '09', title: 'Processing Plant Construction', image: photos.pavilion, copy: 'Construction support for efficient processing plants from planning to execution.', items: ['Planning and project coordination', 'Construction execution', 'Quality and safety focus'] },
 ];
 
 const slides = [
-  { label: 'Architecture · Pune', lead: 'Thoughtful architecture for', accent: 'everyday life.', copy: 'Places shaped by their setting and the people who use them.', video: heroVideos[0] },
-  { label: 'Interior design · Pune', lead: 'Creating spaces for', accent: 'people.', copy: 'Considered materials, natural light and details made for everyday life.', video: heroVideos[1] },
-  { label: 'Urban planning · Pune', lead: 'Designing a better', accent: 'everyday.', copy: 'Thoughtful planning for neighbourhoods, communities and shared life.', video: heroVideos[2] },
+  { label: 'Architectural consulting � Pune', lead: 'Ideas into', accent: 'built reality.', copy: 'Architectural consulting and construction shaped around your project.', video: heroVideos[0] },
+  { label: 'Planning & approvals � Maharashtra', lead: 'A clear path through', accent: 'project approvals.', copy: 'Liaisoning, feasibility reports and sanction support across project stages.', video: heroVideos[1] },
+  { label: 'Industrial construction � India', lead: 'Built with purpose', accent: 'and precision.', copy: 'Warehouses and processing plants planned for safety, quality and timely delivery.', video: heroVideos[2] },
 ];
 
-const sampleClients = ['Aster Habitat', 'Northline Works', 'House of Form', 'Civic Commons', 'Field & Frame', 'Morrow Living', 'Saffron Build', 'CommonGround', 'Mira Habitat', 'Aerial Works', 'Studio Nook', 'Pine & Stone'];
-const sampleTestimonials = [
-  { quote: 'The process felt clear from the first conversation. The team listened carefully and turned our needs into a home that feels like us.', name: 'Sample residential client', detail: 'Private home, Pune' },
-  { quote: 'We appreciated how design choices were explained, coordinated and carried through to the final details.', name: 'Sample workplace client', detail: 'Workplace project, Pune' },
-  { quote: 'A thoughtful and collaborative team. The finished spaces feel calm, useful and connected to their setting.', name: 'Sample development partner', detail: 'Residential project, Pune' },
+const companyHighlights = [
+  { title: 'Complete client satisfaction', copy: 'We listen closely, understand project needs and work toward practical solutions.' },
+  { title: 'Ethical, transparent service', copy: 'Clear communication and ethical business policies guide our work with clients.' },
+  { title: 'End-to-end project support', copy: 'Planning, permissions and construction support come together under one roof.' },
 ];
 
-const sampleFounders = [
-  { name: 'Aarav Mehta', role: 'Co-founder · Architecture', image: photos.founderOne, bio: 'Shapes considered architectural concepts around site, light and the everyday needs of the people who use them.' },
-  { name: 'Anaya Kulkarni', role: 'Co-founder · Urban Planning', image: photos.founderTwo, bio: 'Connects neighbourhood-scale thinking with practical planning and a clear, collaborative design process.' },
-  { name: 'Kabir Shah', role: 'Co-founder · Interior Design', image: photos.founderThree, bio: 'Brings materials, detail and spatial experience together to make welcoming interiors that work beautifully.' },
+const founders = [
+  { name: 'Mr. Sumit S. Kuralkar', role: 'Managing Director', image: photos.founderOne, bio: 'A Pune University civil engineering graduate (2015) and architectural consultant. He works across residential, commercial and industrial projects, with 8+ years of experience with Maharashtra State Government appropriate authorities in planning and execution. He also consults on Maharashtra Government and World Bank-supported warehouse and processing-plant projects for Farmer Producer Companies.' },
+  { name: 'Mr. Ashok Subhedar', role: 'Architectural Consultant & Liaisoning Officer', image: photos.founderTwo, bio: 'A Pune University graduate (2017), Ashok works across architectural planning, building permissions and liaisoning. His portfolio includes residential, commercial, industrial, warehousing and institutional projects across Maharashtra.' },
+  { name: 'Mr. Tushar V. Patil', role: 'Execution Head', image: photos.founderThree, bio: 'A Pune University graduate (2017) with 5+ years in construction, Tushar supports residential, commercial and industrial execution. His experience includes a 35,000 sq. ft. Mega Engineering warehouse, farmhouse projects near Lavasa, high-rise buildings and PMC/PCMC Smart City projects.' },
 ];
 
-const navItems = [['Home', '/'], ['About', '/about'], ['Services', '/services'], ['Projects', '/projects'], ['Clients', '/clients'], ['Contact', '/contact']];
-
+const studioLocations = ['Typical floor, Pune', 'Wadgaon, Pune', 'Mandavgan', 'Amravati', 'Nigdi', 'Purandar', 'Marunji', 'Walhekarwadi', 'Karnataka, India', 'Kalewadi', 'Panchgani, Maharashtra'];
+const navItems = [['Home', '/'], ['About Us', '/about'], ['Services', '/services'], ['Projects', '/projects'], ['Our Studio', '/studio'], ['Careers', '/careers'], ['Contact', '/contact']];
 function useReveal(pathname) {
   useEffect(() => {
     const nodes = document.querySelectorAll('[data-reveal]');
@@ -108,10 +113,19 @@ function useReveal(pathname) {
 
 function App() {
   const location = useLocation();
+  const [theme, setTheme] = useState(() => {
+    try { return window.localStorage.getItem('cabriolet-theme') || 'light'; }
+    catch { return 'light'; }
+  });
   const [loaderVisible, setLoaderVisible] = useState(true);
   const [loaderLeaving, setLoaderLeaving] = useState(false);
   const [loaderProgress, setLoaderProgress] = useState(0);
   useReveal(location.pathname);
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme;
+    try { window.localStorage.setItem('cabriolet-theme', theme); } catch { /* Theme remains available for this session. */ }
+  }, [theme]);
 
   useEffect(() => {
     let frame = 0;
@@ -151,12 +165,12 @@ function App() {
   return <>
     {loaderVisible && <div className={`site-loader ${loaderLeaving ? 'site-loader-leaving' : ''}`} role="status" aria-label={`Loading Cabriolet Arch, ${loaderProgress}%`}>
       <Brand />
-      <div className="loader-caption">Spaces with a point of view</div>
+      <div className="loader-caption">Architecture � Planning � Construction</div>
       <span className="loader-percent" aria-hidden="true">{String(loaderProgress).padStart(2, '0')}<i>%</i></span>
       <div className="loader-track"><span style={{ transform: `scaleX(${loaderProgress / 100})` }} /></div>
-      <span className="loader-index">PUNE · INDIA</span>
+      <span className="loader-index">PUNE � MAHARASHTRA</span>
     </div>}
-    <Header />
+    <Header theme={theme} onToggleTheme={() => setTheme((current) => current === 'dark' ? 'light' : 'dark')} />
     <main className="site-main" key={location.pathname}>
       <Routes>
         <Route path="/" element={<Home />} />
@@ -164,7 +178,9 @@ function App() {
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/projects" element={<ProjectsPage />} />
         <Route path="/projects/:slug" element={<ProjectDetail />} />
-        <Route path="/clients" element={<Clients />} />
+        <Route path="/studio" element={<Studio />} />
+        <Route path="/clients" element={<Studio />} />
+        <Route path="/careers" element={<Careers />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
@@ -182,7 +198,7 @@ function Brand({ light = false }) {
   </Link>;
 }
 
-function Header() {
+function Header({ theme, onToggleTheme }) {
   const [open, setOpen] = useState(false);
   const [compact, setCompact] = useState(false);
   const location = useLocation();
@@ -195,12 +211,13 @@ function Header() {
   }, []);
   return <header className={`site-header ${location.pathname === '/' ? 'site-header-home' : ''} ${compact ? 'is-compact' : ''}`}>
     <div className={`header-shell ${compact ? 'is-compact' : ''}`}>
-      <div className="header-meta"><div className="wrap"><span>Architecture · Planning · Interiors</span><span>Pune · Maharashtra</span></div></div>
+      <div className="header-meta"><div className="wrap"><span>ARCHITECTURE � PLANNING � CONSTRUCTION</span><span>PUNE � MAHARASHTRA</span></div></div>
       <div className="header-inner wrap">
         <Brand />
         <button className={`menu-toggle ${open ? 'is-open' : ''}`} onClick={() => setOpen(!open)} aria-expanded={open} aria-label={open ? 'Close menu' : 'Open menu'}><span /><span /></button>
         <nav className={`main-nav ${open ? 'nav-open' : ''}`} aria-label="Main navigation">
           {navItems.map(([label, path]) => <NavLink key={path} to={path} end={path === '/'} className={({ isActive }) => isActive ? 'active' : ''}>{label}</NavLink>)}
+          <button className="theme-toggle" type="button" onClick={onToggleTheme} aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`} aria-pressed={theme === 'dark'}><span className="theme-toggle-icon" aria-hidden="true">{theme === 'dark' ? '' : '?'}</span><span>{theme === 'dark' ? 'Light' : 'Dark'}</span></button>
           <Link className="nav-cta" to="/contact">Start a project <span aria-hidden="true">&gt;</span></Link>
         </nav>
       </div>
@@ -321,49 +338,51 @@ function Home() {
         <div className="hero-actions"><Link className="button button-accent" to="/projects">Our portfolio</Link></div>
       </div>
       <div className="hero-note"><span>0{shownSlideIndex + 1} / 0{slides.length}</span><i />Pune-based architecture and design</div>
-      <div className="hero-arrows" aria-label="Hero slides"><button type="button" aria-label="Previous slide" onClick={() => moveSlide(-1)}>‹</button><button type="button" aria-label="Next slide" onClick={() => moveSlide(1)}>›</button></div>
+      <div className="hero-arrows" aria-label="Hero slides"><button type="button" aria-label="Previous slide" onClick={() => moveSlide(-1)}><</button><button type="button" aria-label="Next slide" onClick={() => moveSlide(1)}>></button></div>
       <div className="hero-signature"><Brand light /></div>
     </section>
     <div className="hero-indicator-strip"><div className="hero-dots" role="group" aria-label="Choose a hero slide">{slides.map((item, i) => <button key={item.label} type="button" className={i === shownSlideIndex ? 'active' : ''} aria-label={`Show slide ${i + 1}: ${item.label}`} aria-pressed={i === shownSlideIndex} onClick={() => setSlideIndex(i)} />)}</div></div>
 
     <section className="intro-block wrap section-pad">
-      <div className="intro-visual" data-reveal="image"><img src={photos.studio} alt="Contemporary architecture and interior design" loading="lazy" /><span>Architecture · Interior · Pune</span></div>
-      <div className="intro-copy" data-reveal="right"><Eyebrow>Welcome to Cabriolet Arch</Eyebrow><h2>Good architecture begins with <em>listening.</em></h2><p>Cabriolet Arch is a Pune-based practice bringing people, place and purpose into the same conversation. We create thoughtful spaces that feel distinct, work beautifully and belong to their context.</p><p>Our design process looks beyond the obvious to create lasting places with a clear sense of identity.</p><ArrowLink to="/about">Discover our approach</ArrowLink></div>
+      <div className="intro-visual" data-reveal="image"><img src={photos.studio} alt="Contemporary architecture and interior design" loading="lazy" /><span>Architecture � Interior � Pune</span></div>
+      <div className="intro-copy" data-reveal="right"><Eyebrow>Welcome to Cabriolet Arch</Eyebrow><h2>Architecture, planning<br />and construction with <em>precision.</em></h2><p>We combine creativity, functionality and precision to turn your vision into reality. Our team works closely with you to create spaces that meet your requirements and exceed expectations.</p><p>From planning through execution, we focus on quality materials, safety, efficiency and timely delivery.</p><ArrowLink to="/about">Discover our approach</ArrowLink></div>
     </section>
 
     <section className="services-preview section-pad">
       <div className="wrap section-heading" data-reveal><div><Eyebrow>Our capabilities</Eyebrow><h2>What we <em>do.</em></h2></div><ArrowLink to="/services">See all services</ArrowLink></div>
       <div className="service-cards wrap">{services.map((service) => <article className="service-card" key={service.title} data-reveal>
-        <Link to="/services" className="service-image" data-reveal="image"><img src={service.image} alt={`${service.title} by Cabriolet Arch`} loading="lazy" /><span className="service-number">{service.number}</span><span className="service-arrow">›</span></Link>
+        <Link to="/services" className="service-image" data-reveal="image"><img src={service.image} alt={`${service.title} by Cabriolet Arch`} loading="lazy" /><span className="service-number">{service.number}</span><span className="service-arrow">></span></Link>
         <div className="service-card-copy"><h3>{service.title}</h3><p>{service.copy}</p></div>
       </article>)}</div>
     </section>
 
-    <section className="process-preview" data-reveal="scale">
-      <div className="process-backdrop" style={{ backgroundImage: `url(${photos.process})` }} aria-hidden="true" />
-      <div className="process-shade" />
-      <div className="wrap process-content"><div className="section-heading" data-reveal><div><Eyebrow light>From first thought to final detail</Eyebrow><h2>Our <em>process.</em></h2></div></div><ProcessSteps /></div>
+    <section className="process-preview">
+      <div className="process-sticky-stage">
+        <div className="process-backdrop" style={{ backgroundImage: `url(${photos.process})` }} aria-hidden="true" />
+        <div className="process-shade" />
+        <div className="wrap process-content"><div className="section-heading"><div><Eyebrow light>From first thought to final detail</Eyebrow><h2>Our <em>process.</em></h2></div></div><ProcessSteps scrollDriven /></div>
+      </div>
     </section>
 
     <section className="projects-preview">
-      <div className="wrap section-heading" data-reveal><div><Eyebrow>Selected sample work</Eyebrow><h2>All <em>projects.</em></h2></div><ArrowLink to="/projects">View all projects</ArrowLink></div>
+      <div className="wrap section-heading" data-reveal><div><Eyebrow>Project portfolio</Eyebrow><h2>Projects across <em>Maharashtra.</em></h2></div><ArrowLink to="/projects">View all projects</ArrowLink></div>
       <ProjectGrid items={projects.slice(0, 9)} />
     </section>
 
-    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Built around<br /><em>possibility.</em></h2></div><p className="metrics-note">Illustrative demo figures.</p></div><div className="metrics-grid">{[['32', 'Projects'], ['42,000', 'Sq. m. designed'], ['12', 'Years of practice'], ['54', 'Client partnerships']].map(([value, label]) => <div className="metric" key={label} data-reveal><strong><CountUp value={Number(value.replace(',', ''))} />{label === 'Years of practice' ? '+' : ''}</strong><span>{label}</span></div>)}</div></div></section>
+    <section className="metrics-band section-pad"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>At a glance</Eyebrow><h2>Experience across<br /><em>project types.</em></h2></div><p className="metrics-note">Residential � Commercial � Industrial</p></div><div className="metrics-grid">{[['09', 'Core services'], ['18', 'Portfolio entries'], ['03', 'Leadership profiles'], ['100', 'Clients satisfied']].map(([value, label]) => <div className="metric" key={label} data-reveal><strong>{label === 'Clients satisfied' ? <><CountUp value={100} />+</> : value}</strong><span>{label}</span></div>)}</div></div></section>
 
-    <section className="testimonials"><div className="testimonial-backdrop" style={{ backgroundImage: `url(${photos.workplace})` }} aria-hidden="true" /><div className="testimonial-shade" /><div className="wrap testimonial-content"><div className="section-heading" data-reveal><div><Eyebrow>Client reflections</Eyebrow><h2>Good work is<br /><em>remembered.</em></h2></div><p>Illustrative testimonials for this demo.</p></div><div className="testimonial-grid">{sampleTestimonials.map((item, i) => <article className="testimonial-card" key={item.name} data-reveal><span className="quote-mark">“</span><p>{item.quote}</p><div><b>{item.name}</b><small>{item.detail}</small></div><span className="testimonial-index">0{i + 1}</span></article>)}</div></div></section>
+    <section className="testimonials"><div className="testimonial-backdrop" style={{ backgroundImage: `url(${photos.workplace})` }} aria-hidden="true" /><div className="testimonial-shade" /><div className="wrap testimonial-content"><div className="section-heading" data-reveal><div><Eyebrow>Our approach</Eyebrow><h2>We listen.<br /><em>We find solutions.</em></h2></div><p>Practical guidance, clear communication and support from the first conversation through project delivery.</p></div><div className="testimonial-grid">{companyHighlights.map((item, i) => <article className="testimonial-card" key={item.title} data-reveal><span className="quote-mark">0{i + 1}</span><p>{item.copy}</p><div><b>{item.title}</b><small>Cabriolet Arch</small></div><span className="testimonial-index">0{i + 1}</span></article>)}</div></div></section>
     <ContactStrip />
   </div>;
 }
 function ProjectGrid({ items = projects }) {
   return <div className="project-grid">{items.map((project, i) => <Link to={`/projects/${project.slug}`} className={`project-card project-card-${i % 3}`} key={project.slug} data-reveal>
     <div className="project-photo" data-reveal="image"><img src={project.image} alt={project.title} loading="lazy" /><span className="project-open">&gt;</span></div>
-    <div className="project-card-info"><div><h3>{project.title}</h3><p>{project.location || 'Selected project'}</p></div><span className="project-year">{project.year || 'CA'}</span></div>
+    <div className="project-card-info"><div><h3>{project.title}</h3><p>{project.location || 'Selected project'}</p></div><span className="project-year">{project.category}</span></div>
   </Link>)}</div>;
 }
 
-function ProcessSteps() {
+function ProcessSteps({ scrollDriven = false }) {
   const steps = [
     ['01', 'Meet & agree', 'We begin with your brief, needs and the realities of the site.'],
     ['02', 'Idea & concept', 'A clear design direction gives every decision a purpose.'],
@@ -371,10 +390,52 @@ function ProcessSteps() {
     ['04', 'Build & install', 'We support delivery and bring the agreed vision to life.'],
   ];
   const [activeStep, setActiveStep] = useState(0);
+  const widgetRef = useRef(null);
+  useEffect(() => {
+    if (!scrollDriven || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return undefined;
+    const desktop = window.matchMedia('(min-width: 1024px)');
+    const section = widgetRef.current?.closest('.process-preview');
+    const stage = section?.querySelector('.process-sticky-stage');
+    if (!section || !stage) return undefined;
+    let frame = 0;
+    const updateStep = () => {
+      frame = 0;
+      if (!desktop.matches) return;
+      const range = Math.max(1, section.offsetHeight - stage.offsetHeight);
+      const progress = Math.max(0, Math.min(1, -section.getBoundingClientRect().top / range));
+      const next = Math.min(steps.length - 1, Math.floor(progress * steps.length));
+      setActiveStep((current) => current === next ? current : next);
+    };
+    const onScroll = () => {
+      if (!frame) frame = window.requestAnimationFrame(updateStep);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    desktop.addEventListener?.('change', onScroll);
+    onScroll();
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      window.removeEventListener('resize', onScroll);
+      desktop.removeEventListener?.('change', onScroll);
+      if (frame) window.cancelAnimationFrame(frame);
+    };
+  }, [scrollDriven]);
   const [number, title, copy] = steps[activeStep];
+  const chooseStep = (index) => {
+    const desktop = window.matchMedia('(min-width: 1024px)').matches && !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const section = widgetRef.current?.closest('.process-preview');
+    const stage = section?.querySelector('.process-sticky-stage');
+    if (scrollDriven && desktop && section && stage) {
+      const range = Math.max(1, section.offsetHeight - stage.offsetHeight);
+      const target = section.getBoundingClientRect().top + window.scrollY + range * ((index + 0.08) / steps.length);
+      window.scrollTo({ top: target, behavior: 'smooth' });
+      return;
+    }
+    setActiveStep(index);
+  };
   return <div className="process-widget">
-    <div className="process-step-list" role="tablist" aria-label="Our process">
-      {steps.map(([stepNumber, stepTitle], i) => <button className={`process-step ${activeStep === i ? 'active' : ''}`} type="button" role="tab" aria-selected={activeStep === i} key={stepNumber} onClick={() => setActiveStep(i)}>
+    <div ref={widgetRef} className={`process-step-list ${scrollDriven ? 'is-scroll-driven' : ''}`} role="tablist" aria-label="Our process" style={{ '--process-progress': `${activeStep / (steps.length - 1)}` }}>
+      {steps.map(([stepNumber, stepTitle], i) => <button className={`process-step ${activeStep === i ? 'active' : ''}`} type="button" role="tab" aria-selected={activeStep === i} key={stepNumber} onClick={() => chooseStep(i)}>
         <span className="process-step-circle">{stepNumber}</span><span className="process-step-title">{stepTitle}</span>
       </button>)}
     </div>
@@ -415,46 +476,40 @@ function CountUp({ value }) {
 function About() {
   const [founderIndex, setFounderIndex] = useState(0);
   const [bioOpen, setBioOpen] = useState(false);
-  const founder = sampleFounders[founderIndex];
+  const founder = founders[founderIndex];
   const closeFounderBio = () => setBioOpen(false);
-  const selectFounder = (index) => {
-    setFounderIndex(index);
-    setBioOpen(false);
-  };
-  const moveFounder = (step) => selectFounder((founderIndex + step + sampleFounders.length) % sampleFounders.length);
+  const selectFounder = (index) => { setFounderIndex(index); setBioOpen(false); };
+  const moveFounder = (step) => selectFounder((founderIndex + step + founders.length) % founders.length);
 
   return <>
-    <PageIntro label="A little about us" title={<>Spaces with<br /><em>a human point of view.</em></>} copy="We are a Pune-based architecture, urban planning and interior design practice, creating places that are useful, expressive and connected to the people who inhabit them." />
-    <section className="about-hero wrap" data-reveal><img src={photos.studio} alt="Architecture and design project by Cabriolet Arch" /><div className="about-hero-note"><b>CA</b><span>Place.<br />People.<br />Possibility.</span></div></section>
-    <section className="about-story wrap section-pad"><div className="story-aside" data-reveal><Eyebrow>Based in Pune</Eyebrow><span className="story-big">Pune</span><p>A practice built around thoughtful design and practical delivery.</p></div><div className="story-main" data-reveal><h2>We look beyond the obvious to create spaces that <em>feel like they belong.</em></h2><p>Based in Pune, our practice brings design and delivery together across residential, commercial and public settings.</p><p>Our approach brings creative thinking together with pragmatic planning, clear communication and close coordination from concept through execution.</p></div></section>
-    <section className="vision-mission wrap"><article data-reveal><Eyebrow>Our vision</Eyebrow><h2>Better places for<br /><em>everyday life.</em></h2><p>We imagine a built environment where spaces feel welcoming, work well and respond thoughtfully to their surroundings.</p></article><article data-reveal><Eyebrow>Our mission</Eyebrow><h2>Creative thinking.<br /><em>Practical delivery.</em></h2><p>We bring clients and collaborators together around clear briefs, considered design choices and a steady project process.</p></article></section>
-    <section className="values-band"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow light>What guides us</Eyebrow><h2>Principles that shape<br /><em>every project.</em></h2></div></div><div className="values-grid">{[['People first', 'Listen closely. Design around the people who will use the space.'], ['Purposeful creativity', 'Find an expressive answer that still works in the real world.'], ['Thoughtful delivery', 'Make decisions visible and keep the project moving together.'], ['Responsible design', 'Consider energy, context and the value of every square metre.']].map(([title, copy], i) => <div className="value-card" key={title} data-reveal><span>0{i + 1}</span><h3>{title}</h3><p>{copy}</p></div>)}</div></div></section>
-    <section className="differentiators wrap section-pad"><div className="section-heading" data-reveal><div><Eyebrow>Key differentiators</Eyebrow><h2>Clear thinking,<br /><em>careful follow-through.</em></h2></div></div><div className="differentiator-grid">{[['01', 'One connected team', 'Planning, architecture and interiors stay connected around the brief.'], ['02', 'Delivery-minded design', 'Creative ideas are developed with practical coordination in mind.'], ['03', 'A process that adapts', "The team and level of detail respond to each project's needs."]].map(([n, title, copy]) => <article key={n} data-reveal><span>{n}</span><h3>{title}</h3><p>{copy}</p></article>)}</div></section>
+    <PageIntro label="About Cabriolet Arch" title={<>Architecture and construction<br /><em>with purpose.</em></>} copy="Cabriolet Arch combines creativity, functionality and precision across architectural consulting, planning and construction. The team works closely with clients to turn their vision into practical, lasting projects." />
+    <section className="about-hero wrap" data-reveal><img src={photos.studio} alt="Architecture and construction work by Cabriolet Arch" /><div className="about-hero-note"><b>CA</b><span>Creativity.<br />Function.<br />Precision.</span></div></section>
+    <section className="about-story wrap section-pad"><div className="story-aside" data-reveal><Eyebrow>Based in Pune</Eyebrow><span className="story-big">Pune</span><p>Architectural consulting and construction services from planning through execution.</p></div><div className="story-main" data-reveal><h2>From vision to <em>built reality.</em></h2><p>Cabriolet Arch develops user-friendly spaces with aesthetic clarity, robust engineering and a focus on sustainability.</p><p>Construction projects are managed from planning to execution, using quality materials and advanced techniques with attention to safety, efficiency and timely delivery.</p></div></section>
+    <section className="vision-mission wrap"><article data-reveal><Eyebrow>Our vision</Eyebrow><h2>Long-term value<br /><em>for everyone.</em></h2><p>We create thoughtful homes and built environments that respond to the people who use them and the places they occupy.</p></article><article data-reveal><Eyebrow>Our mission</Eyebrow><h2>Make your vision<br /><em>work in practice.</em></h2><p>We deliver designs and construction that meet each client's requirements through creativity, functionality, precision and reliable execution.</p></article></section>
+    <section className="values-band"><div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow light>Our specialities</Eyebrow><h2>Service built on<br /><em>trust and clarity.</em></h2></div></div><div className="values-grid">{[['Client satisfaction', 'We listen, understand and work toward practical solutions.'], ['Ethical business', 'We follow ethical business policies and clear communication.'], ['Affordable pricing', 'We aim to keep project support practical and accessible.'], ['Stay connected', 'We keep in touch with customers throughout the work.'], ['Happy clients', 'We work toward a positive, reliable client experience.']].map(([title, copy], i) => <article key={title} data-reveal><span>0{i + 1}</span><h3>{title}</h3><p>{copy}</p></article>)}</div></div></section>
+    <section className="differentiators wrap section-pad"><div className="section-heading" data-reveal><div><Eyebrow>Why choose us</Eyebrow><h2>Experience, quality<br /><em>and one-roof support.</em></h2></div></div><div className="differentiator-grid">{[['01', 'Experienced team', 'Engineers and architects support projects across multiple sectors.'], ['02', 'One-roof solution', 'Architectural design, planning, PMC and construction support work together.'], ['03', 'Current technology', 'The team focuses on quality, modern techniques and timely work.']].map(([n, title, copy]) => <article key={n} data-reveal><span>{n}</span><h3>{title}</h3><p>{copy}</p></article>)}</div></section>
     <section className="founders">
-      <div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>Illustrative founding team</Eyebrow><h2>Good spaces begin<br /><em>with good people.</em></h2></div><p>Meet three sample profiles, shown one at a time.</p></div></div>
-      <div className="founder-stage" data-reveal="scale">
-        <div className="founder-backdrop" style={{ backgroundImage: `url(${photos.planning})` }} aria-hidden="true" />
+      <div className="wrap"><div className="section-heading" data-reveal><div><Eyebrow>Meet our team</Eyebrow><h2>Consulting, leadership<br /><em>and execution.</em></h2></div><p>Meet the people leading design, liaisoning and project delivery.</p></div></div>
+      <div className="founder-stage">
+        <div className="founder-backdrop" style={{ backgroundImage: 'url(' + photos.planning + ')' }} aria-hidden="true" />
         <div className="founder-stage-shade" aria-hidden="true" />
         <div className="founder-feature wrap">
-          <article className={`founder-card ${bioOpen ? 'is-open' : ''}`} onMouseEnter={() => setBioOpen(true)} onMouseLeave={closeFounderBio}>
+          <article className={'founder-card ' + (bioOpen ? 'is-open' : '')} onMouseEnter={() => setBioOpen(true)} onMouseLeave={closeFounderBio}>
             <div className="founder-face founder-front" aria-hidden={bioOpen}>
-              <img key={founder.image} src={founder.image} alt={`Illustrative sample portrait for ${founder.name}`} loading="lazy" />
-              <span className="founder-image-index">0{founderIndex + 1} <i>/ 0{sampleFounders.length}</i></span>
+              <img key={founder.image} src={founder.image} alt={'Portrait of ' + founder.name} loading="lazy" />
+              <span className="founder-image-index">0{founderIndex + 1} <i>/ 0{founders.length}</i></span>
               <div className="founder-nameplate"><span>{founder.role}</span><h3>{founder.name}</h3></div>
-              <button className="founder-reveal-toggle" type="button" tabIndex={bioOpen ? -1 : 0} onClick={() => setBioOpen(true)} aria-label={`Read ${founder.name}'s profile`}>Read profile <span aria-hidden="true">+</span></button>
+              <button className="founder-reveal-toggle" type="button" tabIndex={bioOpen ? -1 : 0} onClick={() => setBioOpen(true)} aria-label={'Read ' + founder.name + ' profile'}>Read profile <span aria-hidden="true">+</span></button>
             </div>
             <div className="founder-face founder-back" aria-hidden={!bioOpen}>
-              <span className="founder-role">{founder.role}</span>
-              <h3>{founder.name}</h3>
-              <p>{founder.bio}</p>
-              <span className="founder-profile-rule" />
-              <button className="founder-back-link" type="button" tabIndex={bioOpen ? 0 : -1} onClick={closeFounderBio}>Back to portrait</button>
+              <span className="founder-role">{founder.role}</span><h3>{founder.name}</h3><p>{founder.bio}</p>
+              <span className="founder-profile-rule" /><button className="founder-back-link" type="button" tabIndex={bioOpen ? 0 : -1} onClick={closeFounderBio}>Back to portrait</button>
             </div>
           </article>
-          <div className="founder-controls" role="group" aria-label="Founder profiles">
-            <button className="founder-control-arrow" type="button" aria-label="Previous founder" onClick={() => moveFounder(-1)}><span aria-hidden="true">‹</span></button>
-            <div>{sampleFounders.map((item, i) => <button type="button" key={item.name} aria-label={`Show ${item.name}`} aria-pressed={founderIndex === i} className={founderIndex === i ? 'active' : ''} onClick={() => selectFounder(i)}>{String(i + 1).padStart(2, '0')}</button>)}</div>
-            <button className="founder-control-arrow" type="button" aria-label="Next founder" onClick={() => moveFounder(1)}><span aria-hidden="true">›</span></button>
+          <div className="founder-controls" role="group" aria-label="Team profiles">
+            <button className="founder-control-arrow" type="button" aria-label="Previous team member" onClick={() => moveFounder(-1)}><span aria-hidden="true">&lt;</span></button>
+            <div>{founders.map((item, i) => <button type="button" key={item.name} aria-label={'Show ' + item.name} aria-pressed={founderIndex === i} className={founderIndex === i ? 'active' : ''} onClick={() => selectFounder(i)}>{String(i + 1).padStart(2, '0')}</button>)}</div>
+            <button className="founder-control-arrow" type="button" aria-label="Next team member" onClick={() => moveFounder(1)}><span aria-hidden="true">&gt;</span></button>
           </div>
         </div>
       </div>
@@ -477,10 +532,10 @@ function ServicesPage() {
 
 function ProjectsPage() {
   const [filter, setFilter] = useState('All work');
-  const filters = ['All work', 'Residential', 'Commercial', 'Interiors', 'Civic'];
+  const filters = ['All work', 'Warehouse', 'Industrial shed'];
   const visible = filter === 'All work' ? projects : projects.filter((project) => project.category.toLowerCase() === filter.toLowerCase());
   return <>
-    <PageIntro label="Selected projects" title={<>Spaces with<br /><em>something to say.</em></>} copy="Illustrative sample projects set in Pune. Replace project names, dates and images with approved portfolio content." />
+    <PageIntro label="Project portfolio" title={<>Projects across<br /><em>regions and sectors.</em></>} copy="Explore selected residential, commercial, industrial and warehouse projects from the Cabriolet Arch portfolio." />
     <section className="wrap projects-page section-pad-top"><div className="project-filter" role="group" aria-label="Filter projects">{filters.map((item) => <button key={item} className={filter === item ? 'filter-active' : ''} onClick={() => setFilter(item)}>{item}</button>)}</div><ProjectGrid items={visible} /></section>
     <ContactStrip />
   </>;
@@ -496,20 +551,28 @@ function ProjectDetail() {
     <button className="back-link" onClick={() => navigate('/projects')}>Back to projects</button>
     <div className="project-window-image">
       <img src={gallery[0]} alt={project.title} />
-      <span className="project-window-label">{project.category} · {project.location}</span>
-      <span className="project-window-index">{project.year}</span>
+      <span className="project-window-label">{project.location ? `${project.category} � ${project.location}` : project.category}</span>
+      <span className="project-window-index">Portfolio</span>
     </div>
-    <div className="project-detail-head"><div data-reveal="left"><Eyebrow>Illustrative sample project</Eyebrow><h1>{project.title}</h1></div><div className="project-facts" data-reveal="right">{project.year && <Fact label="Year" value={project.year} />}{project.location && <Fact label="Location" value={project.location} />}{project.client && <Fact label="Client" value={project.client} />}{project.category && <Fact label="Category" value={project.category} />}</div></div>
+    <div className="project-detail-head"><div data-reveal="left"><Eyebrow>Portfolio project</Eyebrow><h1>{project.title}</h1></div><div className="project-facts" data-reveal="right">{project.year && <Fact label="Year" value={project.year} />}{project.location && <Fact label="Location" value={project.location} />}{project.client && <Fact label="Client" value={project.client} />}{project.category && <Fact label="Category" value={project.category} />}</div></div>
     <p className="project-description" data-reveal>{project.description}</p><div className="project-gallery">{gallery.slice(1).map((image, i) => <div key={image} className={`gallery-frame ${i === 0 ? 'gallery-lead' : ''}`} data-reveal="image"><img src={image} alt={`${project.title} - view ${i + 2}`} loading={i > 0 ? 'lazy' : 'eager'} /></div>)}</div>
-    <div className="project-detail-cta"><Eyebrow>Have a project in mind?</Eyebrow><h2>Let’s make room for<br /><em>what’s next.</em></h2><Link className="button button-accent" to="/contact">Start a conversation <span>&gt;</span></Link></div>
+    <div className="project-detail-cta"><Eyebrow>Have a project in mind?</Eyebrow><h2>Let's make room for<br /><em>what's next.</em></h2><Link className="button button-accent" to="/contact">Start a conversation <span>&gt;</span></Link></div>
   </section>;
 }
 function Fact({ label, value }) { return <div className="fact"><span>{label}</span><b>{value}</b></div>; }
 
-function Clients() {
+function Studio() {
   return <>
-    <PageIntro label="Our clients" title={<>Built through<br /><em>good partnerships.</em></>} copy="Illustrative sample client marks for the Cabriolet Arch demo. Replace these with approved client names and logos before launch." />
-    <section className="client-showcase wrap section-pad-top"><div className="client-grid">{sampleClients.map((client, i) => <div className="client-tile" key={client} data-reveal><span>0{i + 1}</span><b>{client}</b><i aria-hidden="true">&gt;</i></div>)}</div><p className="client-note">Sample names shown for layout only; these are not endorsements or confirmed clients.</p></section>
+    <PageIntro label="Where we work" title={<>A practice based<br /><em>in Maharashtra.</em></>} copy="Based in Pune, Cabriolet Arch works across Maharashtra and beyond on residential, commercial, industrial and public building projects." />
+    <section className="client-showcase wrap section-pad-top"><div className="client-grid">{studioLocations.map((location, i) => <div className="client-tile" key={location} data-reveal><span>{String(i + 1).padStart(2, '0')}</span><b>{location}</b><i aria-hidden="true">&gt;</i></div>)}</div><p className="client-note">Project locations shown in the portfolio include Maharashtra and Karnataka.</p></section>
+    <ContactStrip />
+  </>;
+}
+
+function Careers() {
+  return <>
+    <PageIntro label="Careers" title={<>Build what<br /><em>comes next.</em></>} copy="We are a growing architectural and construction firm based in Pune, delivering end-to-end solutions across residential, commercial and industrial projects. If you are passionate about design, engineering or real estate, we'd love to hear from you." />
+    <section className="client-showcase wrap section-pad-top"><div className="contact-details" data-reveal><Eyebrow>Work with us</Eyebrow><h2>Interested in joining<br /><em>the team?</em></h2><p>Share a little about your experience and the kind of work you care about. Our team will be glad to hear from you.</p><a className="button button-accent" href="mailto:info@psinnovativecreation.com?subject=Career%20enquiry">Email your profile <span aria-hidden="true">&gt;</span></a></div></section>
     <ContactStrip />
   </>;
 }
@@ -519,22 +582,22 @@ function Contact() {
   const submit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    const subject = encodeURIComponent(`Project enquiry — ${data.get('name')}`);
+    const subject = encodeURIComponent(`Project enquiry - ${data.get('name')}`);
     const body = encodeURIComponent(`Name: ${data.get('name')}\nEmail: ${data.get('email')}\nPhone: ${data.get('phone') || 'Not provided'}\nProject type: ${data.get('projectType')}\n\n${data.get('message')}`);
-    window.location.href = `mailto:hello@cabrioletarch.example?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:info@psinnovativecreation.com?subject=${subject}&body=${body}`;
     setSent(true);
   };
   return <>
-    <PageIntro label="Contact" title={<>Let’s talk about<br /><em>your next space.</em></>} copy="Pune, Maharashtra. The phone number and email below are sample placeholders for this demo; replace them before launch." />
+    <PageIntro label="Contact" title={<>Let's talk about<br /><em>your next space.</em></>} copy="Contact our Pune studio to discuss architectural consulting, planning, approvals or construction." />
     <section className="contact-layout wrap section-pad-top">
-      <div className="contact-details" data-reveal><Eyebrow>Visit or call the studio</Eyebrow><h2>Good conversations<br />start <em>somewhere.</em></h2><div className="contact-item"><span>Studio</span><p>Pune,<br />Maharashtra, India</p></div><div className="contact-item"><span>Phone</span><p><a href="tel:+910000000000">+91 00000 00000</a></p></div><div className="contact-item"><span>Email</span><p><a href="mailto:hello@cabrioletarch.example">hello@cabrioletarch.example</a></p></div><div className="contact-item"><span>Studio hours</span><p>Monday-Friday<br />9:00 am-6:00 pm IST</p></div><a className="map-link" href="https://maps.google.com/?q=Pune+Maharashtra+India" target="_blank" rel="noreferrer">Open map <span aria-hidden="true">&gt;</span></a></div>
-      <form className="contact-form" onSubmit={submit} data-reveal><Eyebrow>Start a project</Eyebrow><h2>Tell us a little<br /><em>about it.</em></h2><label>Your name<input name="name" placeholder="Name" required /></label><label>Email address<input name="email" type="email" placeholder="you@example.com" required /></label><div className="form-row"><label>Phone (optional)<input name="phone" type="tel" placeholder="+91" /></label><label>Project type<select name="projectType" defaultValue="Architecture"><option>Architecture</option><option>Urban planning</option><option>Interior design</option><option>Turnkey project</option><option>Other</option></select></label></div><label>What are you planning?<textarea name="message" rows="4" placeholder="A little about the place, timeline or idea…" required /></label><button className="button button-accent" type="submit">{sent ? 'Opening your email app' : 'Send enquiry'} <span>↗</span></button><p className="form-note">Your email app will open with the enquiry addressed to our studio.</p></form>
+      <div className="contact-details" data-reveal><Eyebrow>Visit or call the studio</Eyebrow><h2>Good conversations<br />start <em>somewhere.</em></h2><div className="contact-item"><span>Studio</span><p>Shop No. 101, Probo Prolix Pride,<br />Commercial Complex, Shindevasti,<br />Ravet, Pimpri-Chinchwad,<br />Pune 411044</p></div><div className="contact-item"><span>Phone</span><p><a href="tel:+918087674246">+91 80876 74246</a><br /><a href="tel:+919932863111">+91 99328 63111</a></p></div><div className="contact-item"><span>Email</span><p><a href="mailto:info@psinnovativecreation.com">info@psinnovativecreation.com</a></p></div><a className="map-link" href="https://maps.google.com/?q=Shop+No.+101+Probo+Prolix+Pride+Ravet+Pune+411044" target="_blank" rel="noreferrer">Open map <span aria-hidden="true">&gt;</span></a></div>
+      <form className="contact-form" onSubmit={submit} data-reveal><Eyebrow>Start a project</Eyebrow><h2>Tell us a little<br /><em>about it.</em></h2><label>Your name<input name="name" placeholder="Name" required /></label><label>Email address<input name="email" type="email" placeholder="you@example.com" required /></label><div className="form-row"><label>Phone (optional)<input name="phone" type="tel" placeholder="+91" /></label><label>Project type<select name="projectType" defaultValue="Architecture"><option>Architecture</option><option>Urban planning</option><option>Interior design</option><option>Turnkey project</option><option>Other</option></select></label></div><label>What are you planning?<textarea name="message" rows="4" placeholder="A little about the place, timeline or idea." required /></label><button className="button button-accent" type="submit">{sent ? 'Opening your email app' : 'Send enquiry'} <span>?</span></button><p className="form-note">Your email app will open with the enquiry addressed to our studio.</p></form>
     </section>
-    <div className="contact-map wrap"><iframe title="Cabriolet Arch studio location" src="https://www.google.com/maps?q=Pune%2C%20Maharashtra&output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" /></div>
+    <div className="contact-map wrap"><iframe title="Cabriolet Arch studio location" src="https://www.google.com/maps?q=Probo%20Prolix%20Pride%2C%20Ravet%2C%20Pune%20411044&output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" /></div>
   </>;
 }
 
-function ContactStrip() { return <section className="contact-strip"><div className="wrap contact-strip-inner" data-reveal><div><Eyebrow light>Have a place in mind?</Eyebrow><h2>Let’s make it<br /><em>mean something.</em></h2></div><Link className="button button-white" to="/contact">Start a conversation <span>&gt;</span></Link></div></section>; }
+function ContactStrip() { return <section className="contact-strip"><div className="wrap contact-strip-inner" data-reveal><div><Eyebrow light>Have a place in mind?</Eyebrow><h2>Let's make it<br /><em>mean something.</em></h2></div><Link className="button button-white" to="/contact">Start a conversation <span>&gt;</span></Link></div></section>; }
 
 function BackToTop() {
   const [visible, setVisible] = useState(false);
@@ -544,13 +607,14 @@ function BackToTop() {
     window.addEventListener('scroll', update, { passive: true });
     return () => window.removeEventListener('scroll', update);
   }, []);
-  return <button className={`back-to-top ${visible ? 'is-visible' : ''}`} type="button" aria-label="Back to top" aria-hidden={!visible} tabIndex={visible ? 0 : -1} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>↑</button>;
+  return <button className={`back-to-top ${visible ? 'is-visible' : ''}`} type="button" aria-label="Back to top" aria-hidden={!visible} tabIndex={visible ? 0 : -1} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}></button>;
 }
 
 function Footer() {
-  return <footer className="site-footer"><div className="wrap footer-main"><div className="footer-brand"><Brand light /><p>Architecture and design<br />with people at the centre.</p></div><div className="footer-nav"><span>Explore</span>{navItems.slice(1).map(([label, path]) => <Link key={path} to={path}>{label}</Link>)}</div><div className="footer-contact"><span>Find the studio</span><p>Pune, Maharashtra, India</p><a href="tel:+910000000000">+91 00000 00000</a><a href="mailto:hello@cabrioletarch.example">hello@cabrioletarch.example</a></div><div className="footer-note"><span>Let's build a better everyday.</span><Link to="/contact">Talk to us <b>&gt;</b></Link></div></div><div className="wrap footer-bottom"><span>Copyright {new Date().getFullYear()} Cabriolet Arch</span><span>Made for people and place.</span><span className="footer-credit">Developed &amp; Maintained By <strong>REDCYBERFOX LLP</strong></span><Link to="/">Back to top</Link></div></footer>;
+  return <footer className="site-footer"><div className="wrap footer-main"><div className="footer-brand"><Brand light /><p>Architectural consulting, planning and construction with practical solutions.</p></div><div className="footer-nav"><span>Explore</span>{navItems.slice(1).map(([label, path]) => <Link key={path} to={path}>{label}</Link>)}</div><div className="footer-contact"><span>Find the studio</span><p>Shop No. 101, Probo Prolix Pride, Commercial Complex, Shindevasti, Ravet, Pimpri-Chinchwad, Pune 411044</p><a href="tel:+918087674246">+91 80876 74246</a><a href="tel:+919932863111">+91 99328 63111</a><a href="mailto:info@psinnovativecreation.com">info@psinnovativecreation.com</a></div><div className="footer-note"><span>We listen � We understand � We provide solutions.</span><Link to="/contact">Talk to us <b>&gt;</b></Link></div></div><div className="wrap footer-bottom"><span>Copyright {new Date().getFullYear()} Cabriolet Arch</span><span>Made for people and place.</span><span className="footer-credit">Developed &amp; Maintained By <strong>REDCYBERFOX LLP</strong></span><Link to="/">Back to top</Link></div></footer>;
 }
 
-function NotFound() { return <section className="not-found wrap"><Eyebrow>Page not found</Eyebrow><h1>That space<br /><em>doesn’t exist.</em></h1><Link className="button button-accent" to="/">Return home <span>&gt;</span></Link></section>; }
+function NotFound() { return <section className="not-found wrap"><Eyebrow>Page not found</Eyebrow><h1>That space<br /><em>doesn't exist.</em></h1><Link className="button button-accent" to="/">Return home <span>&gt;</span></Link></section>; }
 
 export default App;
+
