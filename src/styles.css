@@ -751,3 +751,6 @@ body.has-architect-cursor *{cursor:none!important}
 .contact-form .button span svg{display:block;width:18px;height:18px}
 .back-to-top svg{display:block;width:18px;height:18px}
 
+/* Keep horizontal scroll motion inside the viewport on touch layouts. */
+@media(max-width:760px){[data-reveal="left"],[data-reveal="right"]{transform:translate3d(0,18px,0)}}
+@media(max-width:560px){.site-footer .footer-bottom{padding-right:56px}}
