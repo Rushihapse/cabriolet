@@ -744,3 +744,10 @@ body.has-architect-cursor *{cursor:none!important}
 :root[data-theme="dark"] .founder-nameplate>span{color:#d7b574}
 :root[data-theme="dark"] .founder-stage .section-heading>p{color:#c0c8c1}
 
+/* Keep interface icons independent of font glyph coverage. */
+.theme-toggle-icon{display:inline-flex;width:16px;height:16px;align-items:center;justify-content:center;font-size:0;line-height:0;color:#e3bd74}
+.theme-toggle-icon svg{display:block;width:16px;height:16px}
+.contact-form .button span{display:inline-flex;align-items:center;justify-content:center}
+.contact-form .button span svg{display:block;width:18px;height:18px}
+.back-to-top svg{display:block;width:18px;height:18px}
+
